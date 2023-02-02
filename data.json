@@ -1,0 +1,352 @@
+{
+  "games": [
+    {
+      "name": "Cat Tower: Adopt & Play",
+      "date-launch": "2022-01-17",
+      "developer": "Patoli Studio",
+      "publisher": "Patoli Studio",
+      "platforms": [
+        {
+          "name": "iOS",
+          "url": "https://apps.apple.com/us/app/cat-tower-adopt-play/id1585475866"
+        },
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.PatoliStudio.CatTower"
+        }
+      ]
+    },
+    {
+      "name": "PopSlinger",
+      "date-launch": "2022-01-26",
+      "developer": "Funky Can Creative",
+      "publisher": "Funky Can Creative",
+      "platforms": [
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/games/detail/popslinger-switch/"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1928320/PopSlinger/"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://funky-can-creative.itch.io/popslinger"
+        }
+      ]
+    },
+    {
+      "name": "Art Studio VR",
+      "date-launch": "2022-02-22",
+      "developer": "Daniel Santalla",
+      "publisher": "SELF",
+      "platforms": [
+        {
+          "name": "Oculus Store",
+          "url": "https://www.oculus.com/experiences/quest/4197432713706924/?locale=es_LA"
+        }
+      ]
+    },
+    {
+      "name": "Aztech Forgotten Gods",
+      "date-launch": "2022-03-10",
+      "developer": "Lienzo",
+      "publisher": "Lienzo",
+      "platforms": [
+        {
+          "name": "Epic Games Store",
+          "url": "https://store.epicgames.com/en-US/p/aztech-forgotten-gods"
+        },
+        {
+          "name": "Steam",
+          "url": "https://www.playaztech.com/go/steam"
+        },
+        {
+          "name": "PS5",
+          "url": "https://store.playstation.com/es-mx/concept/10002413/"
+        },
+        {
+          "name": "PS4",
+          "url": "https://store.playstation.com/es-mx/concept/10002413/"
+        },
+        {
+          "name": "Xbox One",
+          "url": "https://www.xbox.com/en-us/games/store/aztech-forgotten-gods/9pl5k9xj9dnc"
+        },
+        {
+          "name": "Xbox Series",
+          "url": "https://www.xbox.com/en-us/games/store/aztech-forgotten-gods/9pl5k9xj9dnc"
+        },
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/store/products/aztech-forgotten-gods-switch/"
+        },
+        {
+          "name": "GOG",
+          "url": "https://www.gog.com/game/aztech_forgotten_gods"
+        }
+      ]
+    },
+    {
+      "name": "Flat Kingdom Paper's Cut Edition",
+      "date-launch": "2022-04-01",
+      "developer": "Games Starter",
+      "publisher": "Ratalaika",
+      "platforms": [
+        {
+          "name": "Switch",
+          "link": "https://www.nintendo.com/store/products/flat-kingdom-papers-cut-edition-switch/"
+        },
+        {
+          "name": "PS4",
+          "link": "https://store.playstation.com/en-gb/product/EP0896-PPSA07031_00-RATGAFLATKINGDOM"
+        },
+        {
+          "name": "PS5",
+          "link": "https://store.playstation.com/en-gb/product/EP0896-PPSA07031_00-RATGAFLATKINGDOM"
+        },
+        {
+          "name": "X Box Series",
+          "link": "https://www.microsoft.com/store/productid/9P69WTN7XN1K"
+        }
+      ]
+    },
+    {
+      "name": "Astrodogs",
+      "date-launch": "2022-04-08",
+      "developer": "Dynamic Media Triad",
+      "publisher": "Digital Tribe",
+      "platforms": [
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/es-mx/store/products/astrodogs-switch/"
+        }
+      ]
+    },
+    {
+      "name": "NetSpace Saga Ep.1",
+      "date-launch": "2022-05-26",
+      "developer": "Hollow Games",
+      "publisher": "Hollow Games",
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1685590/NetSpace_Saga_Ep1/"
+        }
+      ]
+    },
+    {
+      "name": "Legend of Arcadieu Bundle",
+      "date-launch": "2022-06-09",
+      "developer": "Kavorka Play",
+      "publisher": "Gamuzumi",
+      "platforms": [
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/store/products/legend-of-arcadieu-bundle-switch/"
+        },
+        {
+          "name": "PS4",
+          "url": "https://store.playstation.com/en-us/product/UP6472-PPSA08167_00-LEGENDOFARCADIEU"
+        },
+        {
+          "name": "PS5",
+          "url": "https://store.playstation.com/en-us/product/UP6472-PPSA08167_00-LEGENDOFARCADIEU"
+        }
+      ]
+    },
+    {
+      "name": "Super Crane Bug",
+      "date-launch": "2022-06-10",
+      "developer": "Calixjumio",
+      "publisher": "SELF",
+      "platforms": [
+        {
+          "name": "itch.io",
+          "url": "https://calixjumio.itch.io/super-crane"
+        }
+      ]
+    },
+    {
+      "name": "Oli pop: Bubbles vs Bricks",
+      "date-launch": "2022-06-23",
+      "developer": "Patoli Studio",
+      "publisher": "Patoli Studio",
+      "platforms": [
+        {
+          "name": "iOS",
+          "url": "https://apps.apple.com/us/app/oli-pop/id1635822975"
+        },
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.PatoliStudio.OliPop"
+        },
+        {
+          "name": "itch.io",
+          "url": "https://patolistudio.itch.io/oli-pop"
+        }
+      ]
+    },
+    {
+      "name": "I deserve a happy ending",
+      "date-launch": "2022-06-29",
+      "developer": "Man-Eater Games",
+      "publisher": "Man-Eater Games",
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1684750/I_deserve_a_happy_ending/"
+        }
+      ]
+    },
+    {
+      "name": "Out of Boombox",
+      "date-launch": "2022-07-15",
+      "developer": "Matrixcore Studio",
+      "publisher": "Matrixcore Studio",
+      "platforms": [
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.MatrixcoreStudio.OutofBoombox"
+        }
+      ]
+    },
+    {
+      "name": "My Dear Farm",
+      "date-launch": "2022-08-04",
+      "developer": "Cometa Games",
+      "publisher": "Hyperbeard Games",
+      "platforms": [
+        {
+          "name": "iOS",
+          "url": "https://apps.apple.com/th/app/my-dear-farm/id1590446639"
+        },
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.HyperBeardGames.MyDearFarm"
+        }
+      ]
+    },
+    {
+      "name": "Witch College Bundle",
+      "date-launch": "2022-08-26",
+      "developer": "Kavorka Play",
+      "publisher": "Gamuzumi",
+      "platforms": [
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/store/products/witch-college-bundle-switch/"
+        },
+        {
+          "name": "PS4",
+          "url": "https://store.playstation.com/en-us/product/UP6472-PPSA08169_00-WITCHCOLLEGEBUND"
+        },
+        {
+          "name": "PS5",
+          "url": "https://store.playstation.com/en-us/product/UP6472-PPSA08169_00-WITCHCOLLEGEBUND"
+        }
+      ]
+    },
+    {
+      "name": "Dilemo",
+      "date-launch": "2022-09-21",
+      "developer": ["Fáyer", "Pictoline Games", "Mum Not Proud"],
+      "publisher": "Pictoline Games",
+      "platforms": [
+        {
+          "name": "iOS",
+          "url": "https://apps.apple.com/us/app/dilemo/id1623193411"
+        },
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.pictolinegames.dilemo"
+        }
+      ]
+    },
+    {
+      "name": "Chibininja",
+      "date-launch": "2022-09-29",
+      "developer": "WingedSwordStudios",
+      "publisher": "WingedSwordStudios",
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1986980/The_Legend_of_Chibi_Ninja/"
+        }
+      ]
+    },
+    {
+      "name": "HELP! NO BRAKE",
+      "date-launch": "2022-10-22",
+      "developer": "Edgar Mendoza",
+      "publisher": "SELF",
+      "platforms": [
+        {
+          "name": "itch.io",
+          "url": "https://edgarmendoza.itch.io/help-no-brake"
+        }
+      ]
+    },
+    {
+      "name": "Dark Tales from México",
+      "date-launch": "2022-10-25",
+      "developer": "BitAll Force",
+      "publisher": "BitAll Force",
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1794600/Dark_Tales_from_Mxico_Prelude_Just_a_Dream_with_The_Sack_Man/"
+        }
+      ]
+    },
+    {
+      "name": "Lonesome Village",
+      "date-launch": "2022-11-01",
+      "developer": "Ogre Pixel",
+      "publisher": "Ogre Pixel",
+      "platforms": [
+        {
+          "name": "Switch",
+          "url": "https://www.nintendo.com/store/products/lonesome-village-switch/"
+        },
+        {
+          "name": "Xbox Series",
+          "url": "https://www.xbox.com/en-us/games/store/lonesome-village/9p8nd0l4cxpr"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1418360/Lonesome_Village/"
+        }
+      ]
+    },
+    {
+      "name": "Running Fable",
+      "date-launch": "2022-11-04",
+      "developer": "Seashell Studio",
+      "publisher": "Seashell Studio",
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/787920/Running_Fable/"
+        }
+      ]
+    },
+    {
+      "name": "Idle Pocket Planet",
+      "date-launch": "2022-12-01",
+      "developer": ["Mum Not Proud", "Little Sasquatch"],
+      "publisher": "HyperBeard Games",
+      "platforms": [
+        {
+          "name": "iOS",
+          "url": "https://apps.apple.com/us/app/idle-pocket-planet/id1600303144"
+        },
+        {
+          "name": "Android",
+          "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.idlepocketplanet"
+        }
+      ]
+    }
+  ]
+}
