@@ -1,24 +1,21 @@
 import fs from "fs";
 import { promisify } from "util";
 
-function getIsItchLink(cell = {}) {
+function getOtherPlatformName(cell = {}) {
   const { hyperlink } = cell;
-  if (hyperlink == null) return false;
-  if (hyperlink.includes("itch.io")) return true;
-  return false;
+  if (hyperlink == null) return "Other";
+  if (hyperlink.includes("itch.io")) return "Itch";
+  if (hyperlink.includes("store.epicgames.com")) return "Epic Games Store";
+  if (hyperlink.includes("oculus.com")) return "Oculus";
+  if (hyperlink.includes("microsoft.com")) return "Microsoft Store";
+  return "Other";
 }
 
 function getOtherPlatform(cell) {
-  const isItchLink = getIsItchLink(cell);
-
-  if (isItchLink)
-    return {
-      name: "Itch",
-      url: cell.hyperlink,
-    };
+  const name = getOtherPlatformName(cell);
 
   return {
-    name: "Other",
+    name,
     url: cell?.hyperlink ?? null,
   };
 }
