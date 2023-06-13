@@ -1434,6 +1434,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.cometagames.beasthigh&hl=es_MX&gl=US"
+        },
+        {
           "name": "App Store",
           "url": "https://apps.apple.com/mx/app/beast-high/id1482983830"
         }
@@ -1445,10 +1449,12 @@
       "developers": [
         "Cometa Games"
       ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "state": "Desconocido"
+      "publishers": [
+        "Cometa Games"
+      ],
+      "date-launch": "2020-12-08T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "state": "Publicado"
     },
     {
       "name": "Bernstein",
@@ -9715,7 +9721,16 @@
     {
       "name": "Pingo Park",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.hyperbeard.pingopark&hl=es_MX&gl=US"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/mx/app/pingo-park/id1464248073"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -9726,8 +9741,8 @@
       "publishers": [
         "HyperBeard Games"
       ],
-      "date-launch": null,
-      "genre": null,
+      "date-launch": "2019-07-16T00:00:00.000Z",
+      "genre": "Rompecabezas",
       "state": "Publicado"
     },
     {
@@ -15072,9 +15087,9 @@
       "publishers": [
         "Flynet Studios"
       ],
-      "date-launch": null,
-      "genre": null,
-      "state": null
+      "date-launch": "2013-06-29T00:00:00.000Z",
+      "genre": "Deportes",
+      "state": "Publicado"
     }
   ]
 }
