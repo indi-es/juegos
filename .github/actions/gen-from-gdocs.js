@@ -18,6 +18,7 @@ const request = {
 
 try {
   const response = (await sheets.spreadsheets.get(request)).data;
+  // console.log(JSON.stringify(response, null, 2));
   const data = response.sheets[0]?.data[0]?.rowData.map(({ values }) => {
     const [
       cellName,
@@ -60,7 +61,8 @@ try {
         cellPublishers?.userEnteredValue?.stringValue
           ?.split(",")
           .map((item) => item.trim()) ?? null,
-      "date-launch": cellDateLaunched?.userEnteredValue?.numberValue ?? null,
+      "date-launch":
+        getDate(cellDateLaunched?.userEnteredValue?.numberValue) ?? null,
       genre: cellGenre?.userEnteredValue?.stringValue ?? null,
       state: cellState?.userEnteredValue?.stringValue ?? null,
     };
@@ -73,6 +75,12 @@ try {
   await saveFile("../../data.json", JSON.stringify(jsonFile, null, 2));
 } catch (err) {
   console.error(err);
+}
+
+export function getDate(value) {
+  if (value == null) return null;
+  const date = new Date((value - 25569) * 86400000);
+  return date.toISOString();
 }
 
 export async function saveFile(path, content) {
