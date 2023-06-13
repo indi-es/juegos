@@ -21,7 +21,7 @@
       ],
       "date-launch": "2019-06-20T00:00:00.000Z",
       "genre": "Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "9 Years Of Shadows",
@@ -44,7 +44,7 @@
       ],
       "date-launch": "2023-03-27T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "A Day Off",
@@ -71,7 +71,7 @@
       ],
       "date-launch": "2021-07-04T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "A Meta Data Game",
@@ -92,7 +92,7 @@
       "publishers": null,
       "date-launch": "2020-03-23T00:00:00.000Z",
       "genre": "Aventura, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "A Rat’s Quest: The way back home.",
@@ -108,7 +108,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "A salvo en casa",
@@ -129,7 +129,7 @@
       "publishers": null,
       "date-launch": "2020-05-04T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "A Tiny Sticker Tale",
@@ -152,7 +152,7 @@
       ],
       "date-launch": null,
       "genre": "Aventura, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "A todas mis memorias futuras",
@@ -175,7 +175,7 @@
       ],
       "date-launch": "2022-02-14T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "AAA Lucha libre: Héroes del ring",
@@ -193,7 +193,7 @@
       ],
       "date-launch": "2010-10-12T00:00:00.000Z",
       "genre": "Pelea",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Aardvark for Intellivision.",
@@ -214,7 +214,7 @@
       "publishers": null,
       "date-launch": "2019-10-18T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "ABO MANDO",
@@ -238,7 +238,7 @@
       ],
       "date-launch": "2015-12-31T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Abraxas",
@@ -261,7 +261,7 @@
       ],
       "date-launch": "2022-01-30T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Adele Following The Signs",
@@ -284,7 +284,7 @@
       ],
       "date-launch": "2016-06-02T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Adivina con Poppy",
@@ -302,7 +302,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "AdiviniaT adivina las palabras",
@@ -325,7 +325,7 @@
       ],
       "date-launch": "2015-08-20T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Age of ilcoin VR : Retribution",
@@ -349,7 +349,7 @@
       ],
       "date-launch": "2020-12-01T00:00:00.000Z",
       "genre": " Acción, Casual, Free to Play",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Agent Awesome",
@@ -372,7 +372,7 @@
       ],
       "date-launch": "2015-02-17T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Air Raid Defense",
@@ -388,7 +388,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Disparos",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "AITC",
@@ -404,7 +404,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Al grito de guerra",
@@ -420,7 +420,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Shooter",
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Alchademy",
@@ -447,7 +447,7 @@
       ],
       "date-launch": "2016-10-10T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Alebrijes",
@@ -463,7 +463,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Novela Visual",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Alexia: Intraterrestrial attack: Mission Mexico / Episode I",
@@ -479,7 +479,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Altar de muertos ",
@@ -500,7 +500,7 @@
       "publishers": null,
       "date-launch": "2021-10-28T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Amigazo",
@@ -516,7 +516,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Amilquin",
@@ -532,7 +532,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Andamios y restauradores ",
@@ -555,7 +555,7 @@
       ],
       "date-launch": "2020-05-02T00:00:00.000Z",
       "genre": "Estrategia, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Angel Jump",
@@ -571,7 +571,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Another Crusade ",
@@ -587,7 +587,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "RPG por turnos",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Antrophos",
@@ -607,7 +607,7 @@
       ],
       "date-launch": "2001-01-01T00:00:00.000Z",
       "genre": "Hack N´ Slash",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Antrophos 2",
@@ -627,7 +627,7 @@
       ],
       "date-launch": "2005-01-01T00:00:00.000Z",
       "genre": "Hack N´ Slash",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Aplasta malos",
@@ -650,7 +650,7 @@
       ],
       "date-launch": "2016-08-05T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Aprende Inglés y Español con el chavo",
@@ -668,7 +668,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Aprende Mate con el chavo",
@@ -686,7 +686,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Aprende Programación con Chavo",
@@ -709,7 +709,7 @@
       ],
       "date-launch": "2016-02-29T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "AR Classic Board Games (Nreal)",
@@ -732,7 +732,7 @@
       ],
       "date-launch": "2023-03-07T00:00:00.000Z",
       "genre": "Jueego de mesa",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Arcade Defender",
@@ -755,7 +755,7 @@
       ],
       "date-launch": "2018-11-25T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ariel",
@@ -778,7 +778,7 @@
       ],
       "date-launch": "2017-07-11T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie, Simuladores,",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Arpi Adventures",
@@ -799,7 +799,7 @@
       ],
       "date-launch": "2022-01-25T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Arpsic",
@@ -820,7 +820,7 @@
       ],
       "date-launch": "2022-11-11T00:00:00.000Z",
       "genre": "Ritmo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Art Studio VR",
@@ -843,7 +843,7 @@
       ],
       "date-launch": "2021-12-10T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Astro Clash",
@@ -859,7 +859,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Shoot 'em up, Arcade, Acción",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Astrodogs",
@@ -886,7 +886,7 @@
       ],
       "date-launch": "2021-04-08T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Atari shooter",
@@ -907,7 +907,7 @@
       "publishers": null,
       "date-launch": "2020-02-20T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Atoms",
@@ -928,7 +928,7 @@
       ],
       "date-launch": "2018-08-30T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Atres Pasos",
@@ -944,7 +944,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Atrévete a Soñar: El videojuego",
@@ -963,7 +963,7 @@
       ],
       "date-launch": "2011-03-15T00:00:00.000Z",
       "genre": "Música",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Attractio ",
@@ -987,7 +987,7 @@
       ],
       "date-launch": "2016-01-18T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Automata",
@@ -1003,7 +1003,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Automata Break VR",
@@ -1026,7 +1026,7 @@
       ],
       "date-launch": null,
       "genre": "Tower Defense",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Awakalipsis",
@@ -1047,7 +1047,7 @@
       "publishers": null,
       "date-launch": "2020-10-20T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Awaken",
@@ -1070,7 +1070,7 @@
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Axolochi",
@@ -1097,7 +1097,7 @@
       ],
       "date-launch": "2018-10-18T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Axolotlan",
@@ -1113,7 +1113,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo, Indie",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Axolt",
@@ -1129,7 +1129,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura",
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Azael is an Adventure RPG",
@@ -1145,7 +1145,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Aztech Forgotten Gods",
@@ -1184,7 +1184,7 @@
       ],
       "date-launch": "2022-03-10T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Aztlan RPG",
@@ -1198,7 +1198,7 @@
       "publishers": null,
       "date-launch": "2005-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Back To Home",
@@ -1214,7 +1214,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Metroidvania",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Backyard Monsters Unleashed",
@@ -1230,7 +1230,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Bagarre Presque Mortelle",
@@ -1246,7 +1246,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "BAIKOH",
@@ -1273,7 +1273,7 @@
       ],
       "date-launch": "2016-09-05T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Balin",
@@ -1294,7 +1294,7 @@
       "publishers": null,
       "date-launch": "2017-10-31T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "BALIN Fintas bien acá!!!",
@@ -1312,7 +1312,7 @@
       ],
       "date-launch": "2022-01-01T00:00:00.000Z",
       "genre": "Minigame",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bastard Blocks",
@@ -1328,7 +1328,7 @@
       "publishers": null,
       "date-launch": "2020-01-07T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bauble Buster",
@@ -1351,7 +1351,7 @@
       ],
       "date-launch": "2020-12-18T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "BB8 Droid Runner",
@@ -1374,7 +1374,7 @@
       ],
       "date-launch": "2019-11-16T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Beacon The Awakening",
@@ -1390,7 +1390,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Beacon The Awakening ",
@@ -1406,7 +1406,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Bean Wars",
@@ -1427,7 +1427,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Beast High",
@@ -1454,7 +1454,7 @@
       ],
       "date-launch": "2020-12-08T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bernstein",
@@ -1475,7 +1475,7 @@
       "publishers": null,
       "date-launch": "2021-12-29T00:00:00.000Z",
       "genre": "Rol, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Between Oblivion",
@@ -1496,7 +1496,7 @@
       "publishers": null,
       "date-launch": "2017-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Preservado"
+      "status": "Preservado"
     },
     {
       "name": "Beyond The Nightmares",
@@ -1514,7 +1514,7 @@
       ],
       "date-launch": "2025-11-02T00:00:00.000Z",
       "genre": "Horror, Superviviencia",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Beyond The Noghtmares",
@@ -1537,7 +1537,7 @@
       ],
       "date-launch": "2020-11-03T00:00:00.000Z",
       "genre": "Supervivencia, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bitup",
@@ -1553,7 +1553,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Metroidvania",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Black Noise",
@@ -1569,7 +1569,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Survival",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Black Spades Comodines premios",
@@ -1588,7 +1588,7 @@
       ],
       "date-launch": "2016-07-21T00:00:00.000Z",
       "genre": "Apuestas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Black Tower Enigma",
@@ -1613,7 +1613,7 @@
       "publishers": null,
       "date-launch": "2014-10-22T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Blind Men",
@@ -1636,7 +1636,7 @@
       ],
       "date-launch": "2017-07-25T00:00:00.000Z",
       "genre": "Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Block In The Sky",
@@ -1657,7 +1657,7 @@
       "publishers": null,
       "date-launch": "2021-05-06T00:00:00.000Z",
       "genre": "Plataforma",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Blowble",
@@ -1680,7 +1680,7 @@
       ],
       "date-launch": "2016-12-14T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Blue Maiden",
@@ -1703,7 +1703,7 @@
       ],
       "date-launch": null,
       "genre": " Acción, Aventura, Indie, Simuladores",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Blue zero",
@@ -1717,7 +1717,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Board Blitz - Party game with online play!",
@@ -1733,7 +1733,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Bonzy",
@@ -1751,7 +1751,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Bouncing Dude",
@@ -1769,7 +1769,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Brave Guardians",
@@ -1790,7 +1790,7 @@
       "publishers": null,
       "date-launch": "2013-09-06T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Brinca Piñata",
@@ -1811,7 +1811,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Multijugador local, Casual",
-      "state": "Preservado"
+      "status": "Preservado"
     },
     {
       "name": "Broken Reality ",
@@ -1834,7 +1834,7 @@
       ],
       "date-launch": "2018-11-29T00:00:00.000Z",
       "genre": " Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Broken Reality 2000",
@@ -1857,7 +1857,7 @@
       ],
       "date-launch": null,
       "genre": "Aventura, Casual, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "BRUMA",
@@ -1873,7 +1873,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Buchanan's Golf VR",
@@ -1889,7 +1889,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Deportes",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Bug Knife: The spider ruins",
@@ -1910,7 +1910,7 @@
       ],
       "date-launch": "2020-07-15T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Build & Empire",
@@ -1926,7 +1926,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Build From A Part for Nreal",
@@ -1949,7 +1949,7 @@
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bunny Buns",
@@ -1976,7 +1976,7 @@
       ],
       "date-launch": "2019-03-28T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Bunny Cannon",
@@ -1994,7 +1994,7 @@
       ],
       "date-launch": "2012-01-01T00:00:00.000Z",
       "genre": "Acción, Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Burrito Blast",
@@ -2010,7 +2010,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Carreras",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Buster Booster Bus",
@@ -2031,7 +2031,7 @@
       "publishers": null,
       "date-launch": "2019-08-26T00:00:00.000Z",
       "genre": "Acción, Corredor Infinito",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "C´mon Ancesto",
@@ -2047,7 +2047,7 @@
       "publishers": null,
       "date-launch": "2023-05-14T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Caja registradora de Princesas",
@@ -2070,7 +2070,7 @@
       ],
       "date-launch": "2019-01-25T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Caja registradora Princesas 2",
@@ -2093,7 +2093,7 @@
       ],
       "date-launch": "2021-06-23T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Camposanto",
@@ -2116,7 +2116,7 @@
       ],
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Candle Knight",
@@ -2139,7 +2139,7 @@
       ],
       "date-launch": "2023-05-31T00:00:00.000Z",
       "genre": " Acción, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Capitán Kalani",
@@ -2155,7 +2155,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Cat Fish",
@@ -2180,7 +2180,7 @@
       ],
       "date-launch": "2018-02-11T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cat Tower",
@@ -2211,7 +2211,7 @@
       ],
       "date-launch": "2020-10-28T00:00:00.000Z",
       "genre": "Arcade, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "CATastrophe ",
@@ -2227,7 +2227,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "CatForce: Arena",
@@ -2243,7 +2243,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Catto Diretto",
@@ -2264,7 +2264,7 @@
       "publishers": null,
       "date-launch": "2023-05-14T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Celleste",
@@ -2280,7 +2280,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "CellFactor Psychokinetic Wars",
@@ -2296,7 +2296,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción, Disparos",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Chain Tower",
@@ -2317,7 +2317,7 @@
       "publishers": null,
       "date-launch": "2022-07-09T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Chavo Kart",
@@ -2338,7 +2338,7 @@
       "publishers": null,
       "date-launch": "2020-06-24T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cheese Carnage",
@@ -2363,7 +2363,7 @@
       ],
       "date-launch": "2023-04-08T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cheese Cats",
@@ -2384,7 +2384,7 @@
       "publishers": null,
       "date-launch": "2023-01-23T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cherry Star",
@@ -2400,7 +2400,7 @@
       "publishers": null,
       "date-launch": "2015-07-15T00:00:00.000Z",
       "genre": "Hack N´ Slash, Corredor Infinito",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Chichens",
@@ -2427,7 +2427,7 @@
       ],
       "date-launch": "2017-05-24T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Chillmew",
@@ -2450,7 +2450,7 @@
       ],
       "date-launch": "2022-12-17T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Chippy Kingdom",
@@ -2466,7 +2466,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Chippy VS Toto ",
@@ -2482,7 +2482,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Chippy´s Throne",
@@ -2498,7 +2498,7 @@
       "publishers": null,
       "date-launch": "2014-07-31T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Chirper Newsfeed Simulator",
@@ -2521,7 +2521,7 @@
       ],
       "date-launch": "2020-07-12T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Chiyoko and the Sword of Fate ",
@@ -2537,7 +2537,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Chobi Candy Quest",
@@ -2553,7 +2553,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Carreras",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "CHOCONES",
@@ -2576,7 +2576,7 @@
       ],
       "date-launch": "2017-10-31T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Chrono Loop",
@@ -2592,7 +2592,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Chuka: Rompe el silencio",
@@ -2623,7 +2623,7 @@
       ],
       "date-launch": "2018-02-08T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cindirella Free Fall ",
@@ -2639,7 +2639,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Clarence Saves The Day",
@@ -2657,7 +2657,7 @@
       ],
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Novela Interactiva",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Clash of ilcoin",
@@ -2680,7 +2680,7 @@
       ],
       "date-launch": "2022-08-22T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Clawbert",
@@ -2707,7 +2707,7 @@
       ],
       "date-launch": "2017-02-07T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Clawberta",
@@ -2734,7 +2734,7 @@
       ],
       "date-launch": "2019-03-21T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Clean It Up! for Nreal",
@@ -2757,7 +2757,7 @@
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Climb, Don't Ask!",
@@ -2778,7 +2778,7 @@
       "publishers": null,
       "date-launch": "2021-08-07T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cock Soccer ",
@@ -2801,7 +2801,7 @@
       ],
       "date-launch": "2022-02-02T00:00:00.000Z",
       "genre": " Casual, Indie, Deportes",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Code Aces: Invasion",
@@ -2822,7 +2822,7 @@
       "publishers": null,
       "date-launch": "2014-02-26T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Codex-Eternal Eclipse",
@@ -2838,7 +2838,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Cold Castle",
@@ -2859,7 +2859,7 @@
       "publishers": null,
       "date-launch": "2021-06-06T00:00:00.000Z",
       "genre": "Plataformas, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Colororo",
@@ -2875,7 +2875,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Colors - Una aventura colorida",
@@ -2896,7 +2896,7 @@
       "publishers": null,
       "date-launch": "2021-01-25T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Combate espacial",
@@ -2912,7 +2912,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Ritmo, Acción",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Combate Monero ",
@@ -2935,7 +2935,7 @@
       ],
       "date-launch": "2019-05-03T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Computadora de Princesas",
@@ -2958,7 +2958,7 @@
       ],
       "date-launch": "2018-08-08T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Computadora de Princesas 2",
@@ -2981,7 +2981,7 @@
       ],
       "date-launch": "2021-05-13T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Computadora: Juegos para Niños",
@@ -3004,7 +3004,7 @@
       ],
       "date-launch": "2017-05-30T00:00:00.000Z",
       "genre": "Educativo, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "ConFusion",
@@ -3025,7 +3025,7 @@
       "publishers": null,
       "date-launch": "2022-11-22T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Cookie Defense 3D",
@@ -3041,7 +3041,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Cookie Defense AR",
@@ -3057,7 +3057,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Realidad Aumentada",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Cookie Defense AR Epson Moverio BT-200",
@@ -3073,7 +3073,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Realidad Aumentada",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Cooking Night",
@@ -3098,7 +3098,7 @@
       ],
       "date-launch": "2020-07-19T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Copa OXXO",
@@ -3114,7 +3114,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Deportes",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Copy Cat Dance",
@@ -3130,7 +3130,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Casual",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Corona de Corazones",
@@ -3146,7 +3146,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Coronavirus: COVID19",
@@ -3167,7 +3167,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Preservado"
+      "status": "Preservado"
     },
     {
       "name": "Crayola Alternative",
@@ -3192,7 +3192,7 @@
       "publishers": null,
       "date-launch": "2021-07-27T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Crayola Juego Pack-Multijuegos",
@@ -3217,7 +3217,7 @@
       "publishers": null,
       "date-launch": "2014-12-05T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Crickets",
@@ -3235,7 +3235,7 @@
       ],
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Crushing Darkness: an Augmented Reality Trading Card Game!",
@@ -3251,7 +3251,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Cut The Plush",
@@ -3267,7 +3267,7 @@
       "publishers": null,
       "date-launch": "2016-07-26T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "DAFUNE",
@@ -3283,7 +3283,7 @@
       "publishers": null,
       "date-launch": "2010-01-01T00:00:00.000Z",
       "genre": "Minigame",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Dark Tales from México: Prelude. Just a Dream... with The Sack Man ",
@@ -3306,7 +3306,7 @@
       ],
       "date-launch": "2022-10-25T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dawn for the End a Hardcore Game with Retro Graphics",
@@ -3322,7 +3322,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Days of Monsters",
@@ -3343,7 +3343,7 @@
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Death by Growth",
@@ -3369,7 +3369,7 @@
       ],
       "date-launch": "2021-10-04T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "DeathRosa",
@@ -3385,7 +3385,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Deep Drill",
@@ -3406,7 +3406,7 @@
       ],
       "date-launch": "2021-04-28T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Deep Forest",
@@ -3422,7 +3422,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Delphy Town",
@@ -3438,7 +3438,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Design Hero",
@@ -3452,7 +3452,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Deslice Cream Torre de Helados",
@@ -3475,7 +3475,7 @@
       ],
       "date-launch": "2016-07-24T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Desolación: Bajo la oscuridad",
@@ -3491,7 +3491,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Destructive Dice!",
@@ -3512,7 +3512,7 @@
       "publishers": null,
       "date-launch": "2022-07-17T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Deus Cult",
@@ -3535,7 +3535,7 @@
       ],
       "date-launch": "2017-10-27T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dice Emblem",
@@ -3556,7 +3556,7 @@
       ],
       "date-launch": "2020-05-17T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dilemo",
@@ -3584,7 +3584,7 @@
       ],
       "date-launch": "2022-09-16T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dim",
@@ -3607,7 +3607,7 @@
       ],
       "date-launch": "2023-10-23T00:00:00.000Z",
       "genre": "Platformer, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Dino Rex",
@@ -3630,7 +3630,7 @@
       ],
       "date-launch": "2021-05-06T00:00:00.000Z",
       "genre": "Inifnite Runner",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dino World",
@@ -3653,7 +3653,7 @@
       ],
       "date-launch": "2022-05-25T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Disputazo Kart",
@@ -3678,7 +3678,7 @@
       "publishers": null,
       "date-launch": "2018-06-04T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Disputazo Político",
@@ -3703,7 +3703,7 @@
       "publishers": null,
       "date-launch": "2016-09-01T00:00:00.000Z",
       "genre": "Peleas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Divenia is a Retro",
@@ -3719,7 +3719,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Dmd Mars misión",
@@ -3742,7 +3742,7 @@
       ],
       "date-launch": "2018-02-22T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dockers ",
@@ -3758,7 +3758,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Dog House Arena",
@@ -3774,7 +3774,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Dog Theatre",
@@ -3790,7 +3790,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Doki Duck Farm",
@@ -3813,7 +3813,7 @@
       ],
       "date-launch": "2022-02-27T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dominos 42",
@@ -3829,7 +3829,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Apuestas",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Don Salmon",
@@ -3852,7 +3852,7 @@
       ],
       "date-launch": null,
       "genre": " Acción, Aventura, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Dots of War",
@@ -3875,7 +3875,7 @@
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dragged to Evil ",
@@ -3893,7 +3893,7 @@
       ],
       "date-launch": null,
       "genre": "Acción, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Dragon Forces",
@@ -3909,7 +3909,7 @@
       "publishers": null,
       "date-launch": "2015-01-01T00:00:00.000Z",
       "genre": "Realidad aumentada",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Dreamare - Get into a magical journey",
@@ -3925,7 +3925,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Drill Bug",
@@ -3946,7 +3946,7 @@
       ],
       "date-launch": "2021-04-11T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dumb Little Creatures: A Cute 3D Puzzle Game",
@@ -3962,7 +3962,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Dumb Riders",
@@ -3985,7 +3985,7 @@
       ],
       "date-launch": "2020-01-01T00:00:00.000Z",
       "genre": "Deportes, Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dungeon Gambit Boy",
@@ -4001,7 +4001,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": null
+      "status": null
     },
     {
       "name": "Dunkelheit",
@@ -4024,7 +4024,7 @@
       ],
       "date-launch": "2020-08-26T00:00:00.000Z",
       "genre": "Supervivencia, Horror",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Dusk for the End",
@@ -4045,7 +4045,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura y acción",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Eagle Knight Paradox",
@@ -4059,7 +4059,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Earth Now! ",
@@ -4075,7 +4075,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Egon",
@@ -4091,7 +4091,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "El alimento correcto",
@@ -4112,7 +4112,7 @@
       "publishers": null,
       "date-launch": "2021-11-21T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "El ataque del tabaco asesino",
@@ -4128,7 +4128,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "El camino del deseo",
@@ -4151,7 +4151,7 @@
       ],
       "date-launch": null,
       "genre": "Carreras, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "El Chavo Kart",
@@ -4169,7 +4169,7 @@
       ],
       "date-launch": "2014-02-21T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "El chavo Pop",
@@ -4187,7 +4187,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "El Mariana contra los Teletubbies",
@@ -4208,7 +4208,7 @@
       "publishers": null,
       "date-launch": "2022-08-07T00:00:00.000Z",
       "genre": "Supervivencia, Horror",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "El minero",
@@ -4231,7 +4231,7 @@
       ],
       "date-launch": "2022-07-03T00:00:00.000Z",
       "genre": "Acción, Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "El panadero",
@@ -4252,7 +4252,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Arcade",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Elliot Quest",
@@ -4273,7 +4273,7 @@
       "publishers": null,
       "date-launch": "2015-01-12T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Elliot Quest",
@@ -4289,7 +4289,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Enigma Reskin",
@@ -4305,7 +4305,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Epic Heroes of Knowledge",
@@ -4321,7 +4321,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Epithymía",
@@ -4346,7 +4346,7 @@
       ],
       "date-launch": "2022-12-15T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Equanimity",
@@ -4367,7 +4367,7 @@
       "publishers": null,
       "date-launch": "2022-04-08T00:00:00.000Z",
       "genre": "Ritmo, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Eranor",
@@ -4383,7 +4383,7 @@
       "publishers": null,
       "date-launch": "2003-01-01T00:00:00.000Z",
       "genre": "Multijugador masivo",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Escape De-mente",
@@ -4406,7 +4406,7 @@
       ],
       "date-launch": "2022-09-07T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Escape Jail 3D",
@@ -4429,7 +4429,7 @@
       ],
       "date-launch": "2020-09-26T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Escorpion Dorado ",
@@ -4445,7 +4445,7 @@
       "publishers": null,
       "date-launch": "2017-04-21T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Evil God",
@@ -4466,7 +4466,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Evolution Soccer",
@@ -4482,7 +4482,7 @@
       "publishers": null,
       "date-launch": "2001-11-10T00:00:00.000Z",
       "genre": "Deportes",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Excellence Learning Hub",
@@ -4505,7 +4505,7 @@
       ],
       "date-launch": "2019-08-13T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Explora con el chavo",
@@ -4523,7 +4523,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Fabulous Field Trip",
@@ -4550,7 +4550,7 @@
       ],
       "date-launch": "2023-03-06T00:00:00.000Z",
       "genre": "Aventura, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fancy Girrafe",
@@ -4571,7 +4571,7 @@
       "publishers": null,
       "date-launch": "2020-12-24T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fashion Gaze",
@@ -4592,7 +4592,7 @@
       "publishers": null,
       "date-launch": "2020-06-29T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fidget Winner",
@@ -4615,7 +4615,7 @@
       ],
       "date-launch": "2018-08-10T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fiesta Calaca",
@@ -4631,7 +4631,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Final Destiny RPG",
@@ -4647,7 +4647,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Find the D.A.T.A",
@@ -4668,7 +4668,7 @@
       "publishers": null,
       "date-launch": "2021-06-06T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Finger Chopper",
@@ -4689,7 +4689,7 @@
       "publishers": null,
       "date-launch": "2021-06-04T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fireplace Warriors",
@@ -4710,7 +4710,7 @@
       "publishers": null,
       "date-launch": "2023-04-21T00:00:00.000Z",
       "genre": "Plataformas, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Five Aces",
@@ -4726,7 +4726,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Apuestas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Flat Kingdom",
@@ -4757,7 +4757,7 @@
       ],
       "date-launch": "2017-04-07T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Flightout",
@@ -4778,7 +4778,7 @@
       ],
       "date-launch": "2018-10-16T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Flip Flop / BouncyClimbers",
@@ -4796,7 +4796,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Flippy Turtles",
@@ -4817,7 +4817,7 @@
       "publishers": null,
       "date-launch": "2015-05-08T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Flora Learns To Sing! ",
@@ -4838,7 +4838,7 @@
       "publishers": null,
       "date-launch": "2017-04-08T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Forgotten Runiverse",
@@ -4859,7 +4859,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "MMORPG",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Formas y Figuras para Niños",
@@ -4882,7 +4882,7 @@
       ],
       "date-launch": "2017-11-03T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fostering Apocalypse",
@@ -4905,7 +4905,7 @@
       ],
       "date-launch": "2021-07-15T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fragic",
@@ -4926,7 +4926,7 @@
       ],
       "date-launch": "2020-05-28T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Frog Friend",
@@ -4947,7 +4947,7 @@
       ],
       "date-launch": "2020-06-30T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Frog's Feast!",
@@ -4968,7 +4968,7 @@
       "publishers": null,
       "date-launch": "2022-05-16T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Frogue: Frogs vs Toads",
@@ -4991,7 +4991,7 @@
       ],
       "date-launch": "2022-01-23T00:00:00.000Z",
       "genre": "Roguelite",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Frogvale",
@@ -5007,7 +5007,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "FUTIME",
@@ -5023,7 +5023,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Deportes",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Galactic Geometry",
@@ -5044,7 +5044,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Gambit Gun",
@@ -5067,7 +5067,7 @@
       ],
       "date-launch": "2023-12-29T00:00:00.000Z",
       "genre": "Acción, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "GANSITO MARINELA Dance4Ever",
@@ -5086,7 +5086,7 @@
       ],
       "date-launch": "2016-10-20T00:00:00.000Z",
       "genre": "Ritmo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Ghost Apocalypse",
@@ -5102,7 +5102,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Ghost Attack 360 y VR",
@@ -5127,7 +5127,7 @@
       "publishers": null,
       "date-launch": "2018-02-16T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ghost Survivors",
@@ -5148,7 +5148,7 @@
       "publishers": null,
       "date-launch": "2023-05-15T00:00:00.000Z",
       "genre": "Acción, Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ghosting Vandal",
@@ -5169,7 +5169,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Platformer",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Glory Hunters",
@@ -5185,7 +5185,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Arcade",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Gnome Tower",
@@ -5208,7 +5208,7 @@
       ],
       "date-launch": "2020-11-05T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Go 4 Gold",
@@ -5226,7 +5226,7 @@
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Good Night Carl",
@@ -5242,7 +5242,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Gravity Girls",
@@ -5258,7 +5258,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Greak Memories Of Azur ",
@@ -5293,7 +5293,7 @@
       ],
       "date-launch": "2021-08-17T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "GREEN The Life Algorithm ",
@@ -5328,7 +5328,7 @@
       ],
       "date-launch": "2019-11-22T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Grimfield Mistery",
@@ -5350,7 +5350,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Grumpy Zombies",
@@ -5366,7 +5366,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Gyro for Nreal",
@@ -5389,7 +5389,7 @@
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hacienda de Catemaco ",
@@ -5410,7 +5410,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hanapon Princess",
@@ -5437,7 +5437,7 @@
       ],
       "date-launch": "2020-07-19T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hannah ",
@@ -5458,7 +5458,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Hapervil",
@@ -5474,7 +5474,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "¿?",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Headlings Arena",
@@ -5497,7 +5497,7 @@
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
       "genre": "Deportes",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Healthy Jump",
@@ -5513,7 +5513,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Heart Forth, Alicia ",
@@ -5534,7 +5534,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción, Aventura, Indie, Rol",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Heating Way",
@@ -5555,7 +5555,7 @@
       "publishers": null,
       "date-launch": "2022-10-23T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Heights",
@@ -5571,7 +5571,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hellcopters",
@@ -5587,7 +5587,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Combate",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Help No Brake!",
@@ -5608,7 +5608,7 @@
       "publishers": null,
       "date-launch": "2022-10-22T00:00:00.000Z",
       "genre": "Plataformas, Carreras, Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Herman Melville's Moby Dick: The Video Game",
@@ -5627,7 +5627,7 @@
       ],
       "date-launch": "2010-01-01T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hero of the Future ",
@@ -5643,7 +5643,7 @@
       "publishers": null,
       "date-launch": "2015-07-17T00:00:00.000Z",
       "genre": "Beat em up",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hero: Prepare your champion",
@@ -5659,7 +5659,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Heroglyphs",
@@ -5677,7 +5677,7 @@
       ],
       "date-launch": "2018-06-01T00:00:00.000Z",
       "genre": "RPG, Rompecabezas, Pelea",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hexlands",
@@ -5700,7 +5700,7 @@
       ],
       "date-launch": "2020-03-23T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hey Thats My Cheese!",
@@ -5721,7 +5721,7 @@
       ],
       "date-launch": "2016-05-17T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hollo Buster",
@@ -5737,7 +5737,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Home Blast",
@@ -5753,7 +5753,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Home Steal Rhythm Home (Demo)",
@@ -5774,7 +5774,7 @@
       "publishers": null,
       "date-launch": "2019-02-28T00:00:00.000Z",
       "genre": "Ritmo, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hot Cakes Machine ",
@@ -5795,7 +5795,7 @@
       "publishers": null,
       "date-launch": "2021-04-03T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hot Wheels Velocidad al Límite",
@@ -5813,7 +5813,7 @@
       ],
       "date-launch": "2007-01-01T00:00:00.000Z",
       "genre": "Advergame",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hover Race VR",
@@ -5829,7 +5829,7 @@
       "publishers": null,
       "date-launch": "2019-06-03T00:00:00.000Z",
       "genre": "Carreras, Multijudaor Online",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Huachicombat",
@@ -5850,7 +5850,7 @@
       "publishers": null,
       "date-launch": "2020-02-24T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Huggies Paso a paso ",
@@ -5868,7 +5868,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Hunter Legacy",
@@ -5899,7 +5899,7 @@
       ],
       "date-launch": "2016-07-19T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Hyper Harvest",
@@ -5920,7 +5920,7 @@
       "publishers": null,
       "date-launch": "2023-01-08T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "I deserve a happy ending",
@@ -5947,7 +5947,7 @@
       ],
       "date-launch": "2022-06-29T00:00:00.000Z",
       "genre": "Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "I'm Not Jelly",
@@ -5970,7 +5970,7 @@
       ],
       "date-launch": null,
       "genre": "Acción, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Ice Breakers",
@@ -5986,7 +5986,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Carreras",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Ice Breakers",
@@ -6002,7 +6002,7 @@
       "publishers": null,
       "date-launch": "2010-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Idle Critters",
@@ -6027,7 +6027,7 @@
       ],
       "date-launch": "2019-04-04T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Idle Pocket Planet",
@@ -6055,7 +6055,7 @@
       ],
       "date-launch": "2023-01-17T00:00:00.000Z",
       "genre": "Idle",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ignis",
@@ -6071,7 +6071,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Imperial Freedom",
@@ -6087,7 +6087,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "RPG",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Incomplete VR",
@@ -6101,7 +6101,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Infinite Punch",
@@ -6132,7 +6132,7 @@
       ],
       "date-launch": "2018-05-21T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "iNFiNiTO",
@@ -6153,7 +6153,7 @@
       ],
       "date-launch": "2018-03-22T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "INNOVU El juego del emprendedor",
@@ -6171,7 +6171,7 @@
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Instrumentos Musicales Niños",
@@ -6194,7 +6194,7 @@
       ],
       "date-launch": "2018-12-26T00:00:00.000Z",
       "genre": "Música",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Interdimensional Pest Control VR Game",
@@ -6210,7 +6210,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Into de Kiln",
@@ -6226,7 +6226,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "iO Inner Self - The Lava Planet VR",
@@ -6249,7 +6249,7 @@
       ],
       "date-launch": "2022-11-11T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Irrational Veggies from Outer Space",
@@ -6270,7 +6270,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Isla Sinaloa",
@@ -6297,7 +6297,7 @@
       ],
       "date-launch": "2022-10-10T00:00:00.000Z",
       "genre": "Aventura, Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "It Comes In Waves ",
@@ -6320,7 +6320,7 @@
       ],
       "date-launch": "2023-04-05T00:00:00.000Z",
       "genre": "Acción, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Jade Order",
@@ -6355,7 +6355,7 @@
       ],
       "date-launch": "2022-08-25T00:00:00.000Z",
       "genre": "Aventura, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Jaguar Warrior: Son of the moon",
@@ -6371,7 +6371,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "James is bananas",
@@ -6398,7 +6398,7 @@
       ],
       "date-launch": null,
       "genre": "Acción, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Juanpa Zurita's Skydive Adventure",
@@ -6414,7 +6414,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Jumper Jon",
@@ -6435,7 +6435,7 @@
       "publishers": null,
       "date-launch": "2019-11-01T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Kabu San",
@@ -6460,7 +6460,7 @@
       ],
       "date-launch": "2017-04-21T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Karmatron",
@@ -6474,7 +6474,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Katz Play!",
@@ -6490,7 +6490,7 @@
       "publishers": null,
       "date-launch": "1905-07-14T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Kerbal Space Program",
@@ -6525,7 +6525,7 @@
       ],
       "date-launch": "2015-04-27T00:00:00.000Z",
       "genre": "Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ketopix/Utopix",
@@ -6543,7 +6543,7 @@
       ],
       "date-launch": "2015-01-01T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Kiki's Vacation",
@@ -6570,7 +6570,7 @@
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Kim the avenger cow",
@@ -6588,7 +6588,7 @@
       ],
       "date-launch": null,
       "genre": "Accion, Plataformas",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Kinelga Rythm",
@@ -6611,7 +6611,7 @@
       ],
       "date-launch": "2020-06-30T00:00:00.000Z",
       "genre": "Ritmo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Kingbox",
@@ -6627,7 +6627,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Kisin",
@@ -6643,7 +6643,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Metroidvania, Hack N´ Slash",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Kitsu",
@@ -6665,7 +6665,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "KleptoCats",
@@ -6692,7 +6692,7 @@
       ],
       "date-launch": "2016-02-02T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "KleptoCats 2",
@@ -6719,7 +6719,7 @@
       ],
       "date-launch": "2018-03-14T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "KleptoCats Blast",
@@ -6737,7 +6737,7 @@
       ],
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "KleptoCats Cartoon Network",
@@ -6755,7 +6755,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "KleptoCorns",
@@ -6782,7 +6782,7 @@
       ],
       "date-launch": "2019-11-05T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "KleptoDogs",
@@ -6809,7 +6809,7 @@
       ],
       "date-launch": "2018-07-17T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Koatl el Defensor: Los túneles perdidos",
@@ -6833,7 +6833,7 @@
       ],
       "date-launch": "2023-01-15T00:00:00.000Z",
       "genre": "Acción, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Kombate Mexicano",
@@ -6849,7 +6849,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Kombate Mexicano 2",
@@ -6865,7 +6865,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Kombate Mexicano X",
@@ -6881,7 +6881,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "KOTOMASHO: I Can't Believe This NEET Guy Turned Into a Magical Girl!",
@@ -6902,7 +6902,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura, Indie, Rol",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "La granja de Lola",
@@ -6918,7 +6918,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "La granja Huggies",
@@ -6936,7 +6936,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Lalo salva la ciudad",
@@ -6952,7 +6952,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Last day on eart",
@@ -6968,7 +6968,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Last Man",
@@ -6991,7 +6991,7 @@
       ],
       "date-launch": "2020-05-15T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Latiendo juntos Novela",
@@ -7012,7 +7012,7 @@
       "publishers": null,
       "date-launch": "2018-11-22T00:00:00.000Z",
       "genre": "Ficción interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "LDOE Last Day On Earth",
@@ -7028,7 +7028,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción, Disparos",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Le Gatuno",
@@ -7049,7 +7049,7 @@
       "publishers": null,
       "date-launch": "2020-04-18T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Learny Matemáticas - Operacion",
@@ -7070,7 +7070,7 @@
       "publishers": null,
       "date-launch": "2018-11-06T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Legend of a Dwarf",
@@ -7086,7 +7086,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Letters and Sounds",
@@ -7113,7 +7113,7 @@
       ],
       "date-launch": "2016-04-11T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "LEVA Supervivencia Multiplayer",
@@ -7129,7 +7129,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Link Twin",
@@ -7152,7 +7152,7 @@
       ],
       "date-launch": "2017-04-13T00:00:00.000Z",
       "genre": "Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Little Big Fighters",
@@ -7166,7 +7166,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Little Foodie Paradox",
@@ -7182,7 +7182,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Little Swimmers",
@@ -7200,7 +7200,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Livinonne: Toma Mi Mano",
@@ -7216,7 +7216,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Lobo With A Shotgun ",
@@ -7234,7 +7234,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Local Heroes ncite",
@@ -7248,7 +7248,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Locked in my darkness",
@@ -7271,7 +7271,7 @@
       ],
       "date-launch": "2022-12-09T00:00:00.000Z",
       "genre": "Indie, Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Lonefarm Demo",
@@ -7292,7 +7292,7 @@
       "publishers": null,
       "date-launch": "2021-05-20T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Lonesome Village",
@@ -7327,7 +7327,7 @@
       ],
       "date-launch": "2022-11-01T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Loop Cat",
@@ -7348,7 +7348,7 @@
       "publishers": null,
       "date-launch": "2022-08-21T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Lorena ochoa Golf Tour",
@@ -7364,7 +7364,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Los Rúles - Crazy Match 3",
@@ -7391,7 +7391,7 @@
       ],
       "date-launch": "2020-05-14T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Los XV de Rubí",
@@ -7407,7 +7407,7 @@
       "publishers": null,
       "date-launch": "2016-12-16T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Lovely Heroines ",
@@ -7430,7 +7430,7 @@
       ],
       "date-launch": "2019-10-16T00:00:00.000Z",
       "genre": " Casual, Indie, Simuladores, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Lucha",
@@ -7446,7 +7446,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Beat´em All",
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Lucha Libre: The Legend of the Mask",
@@ -7462,7 +7462,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Beat em up",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Lucha Masters Stickermanía",
@@ -7487,7 +7487,7 @@
       "publishers": null,
       "date-launch": "2023-04-15T00:00:00.000Z",
       "genre": "Plataformas, Acción, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Luckily, My Arm Is A Shotgun",
@@ -7514,7 +7514,7 @@
       ],
       "date-launch": "2023-02-22T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Luli y Gabo",
@@ -7541,7 +7541,7 @@
       ],
       "date-launch": "2016-11-03T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Lunch A Palooza",
@@ -7576,7 +7576,7 @@
       ],
       "date-launch": "2020-05-14T00:00:00.000Z",
       "genre": "Acción, Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mad-th Trolls in Divide the Gems",
@@ -7597,7 +7597,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mageki's Quest",
@@ -7618,7 +7618,7 @@
       "publishers": null,
       "date-launch": "2022-09-08T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Magic Puzzle: Jigsaw",
@@ -7641,7 +7641,7 @@
       ],
       "date-launch": "2020-03-14T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mahjong Deluxe 3",
@@ -7684,7 +7684,7 @@
       ],
       "date-launch": "2016-04-22T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Marching Cubes",
@@ -7700,7 +7700,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Tower Defense",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Mariachi Legends",
@@ -7723,7 +7723,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Match Fight! - Fun puzzle game",
@@ -7750,7 +7750,7 @@
       ],
       "date-launch": "2021-06-17T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mathema",
@@ -7766,7 +7766,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Max Steel Adrenalina Xtrema",
@@ -7784,7 +7784,7 @@
       ],
       "date-launch": "2007-01-01T00:00:00.000Z",
       "genre": "Advergame",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Mechawaiis",
@@ -7805,7 +7805,7 @@
       "publishers": null,
       "date-launch": "2020-04-13T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mellow Woods",
@@ -7821,7 +7821,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Melodyssey",
@@ -7837,7 +7837,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Memes Wars",
@@ -7853,7 +7853,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Memory Collectors",
@@ -7874,7 +7874,7 @@
       "publishers": null,
       "date-launch": "2021-01-29T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mental",
@@ -7890,7 +7890,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Metroidvania",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Mental Health",
@@ -7913,7 +7913,7 @@
       ],
       "date-launch": "2020-01-21T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mes Amis - Monster Catching Videogame",
@@ -7929,7 +7929,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Metamorfosis",
@@ -7950,7 +7950,7 @@
       "publishers": null,
       "date-launch": "2021-01-25T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Meteors for Intellivision.",
@@ -7971,7 +7971,7 @@
       "publishers": null,
       "date-launch": "2018-04-29T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "México 1921: Un sueño profundo ",
@@ -7992,7 +7992,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Mi computadora Princesas",
@@ -8015,7 +8015,7 @@
       ],
       "date-launch": "2023-01-20T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Micro Bot",
@@ -8036,7 +8036,7 @@
       "publishers": null,
       "date-launch": "2023-04-27T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Microbiotics",
@@ -8052,7 +8052,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Disparos",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Mictlan The Game",
@@ -8073,7 +8073,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción, Aventura, Indie, Rol",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Miko Mole",
@@ -8104,7 +8104,7 @@
       ],
       "date-launch": "2016-05-25T00:00:00.000Z",
       "genre": "Acción, Aventura, Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "MilitAnt ",
@@ -8127,7 +8127,7 @@
       ],
       "date-launch": "2016-07-12T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mines Sweeper",
@@ -8148,7 +8148,7 @@
       "publishers": null,
       "date-launch": "2023-03-13T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mini Patoli Snowball Fight",
@@ -8171,7 +8171,7 @@
       ],
       "date-launch": "2019-12-02T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Minitroid",
@@ -8192,7 +8192,7 @@
       "publishers": null,
       "date-launch": "2020-02-08T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mint Works",
@@ -8215,7 +8215,7 @@
       ],
       "date-launch": "2020-08-18T00:00:00.000Z",
       "genre": "Casual, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mislight",
@@ -8242,7 +8242,7 @@
       ],
       "date-launch": "2023-06-01T00:00:00.000Z",
       "genre": "Plataforma, Puzzle, Rpg, Aventura, Bullet-Hell",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Moby Dick 2",
@@ -8261,7 +8261,7 @@
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Moki Kart",
@@ -8279,7 +8279,7 @@
       ],
       "date-launch": "2023-06-15T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Moki Runner",
@@ -8310,7 +8310,7 @@
       ],
       "date-launch": "2022-12-20T00:00:00.000Z",
       "genre": "Endless Runner",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Monkey Toss",
@@ -8333,7 +8333,7 @@
       ],
       "date-launch": "2021-11-26T00:00:00.000Z",
       "genre": "Tower Defense",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Monkey Toss",
@@ -8354,7 +8354,7 @@
       "publishers": null,
       "date-launch": "2021-11-19T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Monster Soccer & Cats",
@@ -8370,7 +8370,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Monsters Shall Not Pass",
@@ -8388,7 +8388,7 @@
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Monstrous Lovers",
@@ -8411,7 +8411,7 @@
       ],
       "date-launch": "2021-06-23T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "More than words",
@@ -8434,7 +8434,7 @@
       ],
       "date-launch": "2023-03-09T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mosha Online",
@@ -8452,7 +8452,7 @@
       ],
       "date-launch": "2024-04-01T00:00:00.000Z",
       "genre": "RPG Online, Casual",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Mr. Jacks Tragedy",
@@ -8473,7 +8473,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mucho taco - Idle tycoom",
@@ -8500,7 +8500,7 @@
       ],
       "date-launch": "2018-11-01T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Muertitos",
@@ -8518,7 +8518,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Muertos",
@@ -8539,7 +8539,7 @@
       "publishers": null,
       "date-launch": "2021-10-14T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mugogy Jump!",
@@ -8566,7 +8566,7 @@
       ],
       "date-launch": "2015-11-25T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Mulaka",
@@ -8597,7 +8597,7 @@
       ],
       "date-launch": "2018-02-27T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Murasaki ",
@@ -8620,7 +8620,7 @@
       ],
       "date-launch": "2016-05-13T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Murasaki Mist",
@@ -8641,7 +8641,7 @@
       "publishers": null,
       "date-launch": "2016-03-16T00:00:00.000Z",
       "genre": "Acción, RPG",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Music Puzzle: City Builder",
@@ -8664,7 +8664,7 @@
       ],
       "date-launch": "2022-03-14T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Music Puzzle: Memory",
@@ -8687,7 +8687,7 @@
       ],
       "date-launch": "2020-11-19T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Music Puzzle: Slice Elite",
@@ -8710,7 +8710,7 @@
       ],
       "date-launch": "2020-11-19T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Music Puzzle: Slots",
@@ -8733,7 +8733,7 @@
       ],
       "date-launch": "2021-08-16T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Music Puzzle: Talent Hunter",
@@ -8756,7 +8756,7 @@
       ],
       "date-launch": "2020-04-25T00:00:00.000Z",
       "genre": "Música, Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Muxxxe: Guerrillera",
@@ -8779,7 +8779,7 @@
       ],
       "date-launch": null,
       "genre": "Disparos",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "My Dear Farm",
@@ -8806,7 +8806,7 @@
       ],
       "date-launch": "2022-08-02T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "MyCrush - The Game Of Love",
@@ -8827,7 +8827,7 @@
       ],
       "date-launch": "2019-05-31T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Nah, see? Cookies!",
@@ -8848,7 +8848,7 @@
       "publishers": null,
       "date-launch": "2022-04-12T00:00:00.000Z",
       "genre": "Acción, Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Naktan",
@@ -8864,7 +8864,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "NCK Game -The Troll Warrior-",
@@ -8885,7 +8885,7 @@
       "publishers": null,
       "date-launch": "2022-04-30T00:00:00.000Z",
       "genre": "Pelea",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Neighborhood Painter",
@@ -8906,7 +8906,7 @@
       "publishers": null,
       "date-launch": "2022-12-15T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Neon City Riders",
@@ -8938,7 +8938,7 @@
       ],
       "date-launch": "2020-03-12T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie, Rol",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Neon Race",
@@ -8959,7 +8959,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "NES Sample Balls",
@@ -8980,7 +8980,7 @@
       "publishers": null,
       "date-launch": "2020-02-20T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "NetSpace Saga Ep.1 ",
@@ -9004,7 +9004,7 @@
       ],
       "date-launch": "2022-05-26T00:00:00.000Z",
       "genre": "Rol",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Night Vigiliante",
@@ -9020,7 +9020,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Ninja Madness Arcade",
@@ -9034,7 +9034,7 @@
       "publishers": null,
       "date-launch": "2019-01-01T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Ninja Shark",
@@ -9052,7 +9052,7 @@
       ],
       "date-launch": "2016-01-01T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Octagon",
@@ -9075,7 +9075,7 @@
       ],
       "date-launch": "2020-05-09T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Office Madness",
@@ -9091,7 +9091,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Oh My Doug!",
@@ -9107,7 +9107,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Oli Pop",
@@ -9138,7 +9138,7 @@
       ],
       "date-launch": "2022-11-18T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Oli's World: Therapy aid videogame for autistic children",
@@ -9154,7 +9154,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Operación Zócalo",
@@ -9170,7 +9170,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Out of Boombox",
@@ -9193,7 +9193,7 @@
       ],
       "date-launch": "2022-07-16T00:00:00.000Z",
       "genre": "Corredor Infinito",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pafu: A Cupcake Quest ",
@@ -9209,7 +9209,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Paint 'em",
@@ -9232,7 +9232,7 @@
       ],
       "date-launch": "2020-07-12T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Palabraz",
@@ -9250,7 +9250,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Panaderia Bimbo",
@@ -9268,7 +9268,7 @@
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": "Social",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Panaderia Bimbo Móvil",
@@ -9284,7 +9284,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Papel Clicker",
@@ -9302,7 +9302,7 @@
       ],
       "date-launch": "2020-05-24T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Paper Brawlers",
@@ -9318,7 +9318,7 @@
       ],
       "date-launch": null,
       "genre": "Acción",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Papurruchas",
@@ -9341,7 +9341,7 @@
       ],
       "date-launch": "2021-08-16T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Paradise Lost",
@@ -9364,7 +9364,7 @@
       ],
       "date-launch": "2016-01-15T00:00:00.000Z",
       "genre": " Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Patito",
@@ -9380,7 +9380,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Pato Box ",
@@ -9416,7 +9416,7 @@
       ],
       "date-launch": "2018-03-15T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Patrick Nightmares",
@@ -9434,7 +9434,7 @@
       ],
       "date-launch": null,
       "genre": "Acción, Aventura",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "PawFury \"The Bacon of Destiny\"",
@@ -9450,7 +9450,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Pejegochi",
@@ -9475,7 +9475,7 @@
       "publishers": null,
       "date-launch": "2018-12-01T00:00:00.000Z",
       "genre": "Mascota virtual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Penguin Assassin",
@@ -9496,7 +9496,7 @@
       "publishers": null,
       "date-launch": "2021-08-31T00:00:00.000Z",
       "genre": "Corredor Infinito",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "PepeLine",
@@ -9517,7 +9517,7 @@
       "publishers": null,
       "date-launch": "2016-09-05T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "PepeLine Adventures",
@@ -9538,7 +9538,7 @@
       "publishers": null,
       "date-launch": "2017-09-13T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pet City Mania",
@@ -9556,7 +9556,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Pick a Pet",
@@ -9579,7 +9579,7 @@
       ],
       "date-launch": "2022-10-27T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pico Piñata",
@@ -9602,7 +9602,7 @@
       "publishers": null,
       "date-launch": "2020-12-26T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pico Room4Joy ",
@@ -9626,7 +9626,7 @@
       "publishers": null,
       "date-launch": "2020-10-12T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pictionary",
@@ -9653,7 +9653,7 @@
       ],
       "date-launch": "2017-08-11T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pig in tower",
@@ -9674,7 +9674,7 @@
       "publishers": null,
       "date-launch": "2018-06-26T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pig In Tower 2",
@@ -9695,7 +9695,7 @@
       ],
       "date-launch": "2020-02-10T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ping Pong (Tenis), Futbolito y Squash",
@@ -9716,7 +9716,7 @@
       "publishers": null,
       "date-launch": "1973-01-01T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Pingo Park",
@@ -9743,7 +9743,7 @@
       ],
       "date-launch": "2019-07-16T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pixel Stars",
@@ -9768,7 +9768,7 @@
       "publishers": null,
       "date-launch": "2018-06-27T00:00:00.000Z",
       "genre": "Corredor Infinito",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pixeland",
@@ -9786,7 +9786,7 @@
       ],
       "date-launch": null,
       "genre": "Casual",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Pizza Tower",
@@ -9802,7 +9802,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Casual",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Plague Road",
@@ -9823,7 +9823,7 @@
       "publishers": null,
       "date-launch": "2020-02-19T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Plataforma: Learny",
@@ -9839,7 +9839,7 @@
       "publishers": null,
       "date-launch": "2020-09-11T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Pleasure Airlines ",
@@ -9862,7 +9862,7 @@
       ],
       "date-launch": "2019-05-30T00:00:00.000Z",
       "genre": " Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pneumata",
@@ -9878,7 +9878,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Pocket Love",
@@ -9905,7 +9905,7 @@
       ],
       "date-launch": "2022-02-08T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pocket Penguin DX ( ポケットペンギン): A Retro Style Adventure",
@@ -9932,7 +9932,7 @@
       ],
       "date-launch": "2023-03-29T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pogo",
@@ -9948,7 +9948,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Pollo Man",
@@ -9970,7 +9970,7 @@
       "publishers": null,
       "date-launch": "2021-03-30T00:00:00.000Z",
       "genre": "Acción, FPS",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ponchonchito",
@@ -9986,7 +9986,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Pop Slinger ",
@@ -10013,7 +10013,7 @@
       ],
       "date-launch": "2022-04-14T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Porcelana ",
@@ -10036,7 +10036,7 @@
       ],
       "date-launch": "2021-01-21T00:00:00.000Z",
       "genre": "Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "PositronX",
@@ -10059,7 +10059,7 @@
       ],
       "date-launch": "2020-10-29T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Power Stealers",
@@ -10082,7 +10082,7 @@
       ],
       "date-launch": "2020-01-27T00:00:00.000Z",
       "genre": " Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Prelude: Psychological Horror Game",
@@ -10105,7 +10105,7 @@
       ],
       "date-launch": "2017-11-21T00:00:00.000Z",
       "genre": "Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Preludio de Pegaso",
@@ -10121,7 +10121,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "PRIMROSE (Nintendo DSiWare Port)",
@@ -10144,7 +10144,7 @@
       ],
       "date-launch": "2010-08-20T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Descontinuado"
+      "status": "Descontinuado"
     },
     {
       "name": "Princess Craft Juegos de Niñas",
@@ -10167,7 +10167,7 @@
       ],
       "date-launch": "2022-02-14T00:00:00.000Z",
       "genre": "Simulación, Casual, Sandbox",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Project K",
@@ -10188,7 +10188,7 @@
       "publishers": null,
       "date-launch": "2020-08-23T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Project Summit",
@@ -10206,7 +10206,7 @@
       ],
       "date-launch": "2020-11-20T00:00:00.000Z",
       "genre": " Casual, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Project Vape",
@@ -10222,7 +10222,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Project001",
@@ -10238,7 +10238,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "PromoSally 2014",
@@ -10259,7 +10259,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Casual",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Proyecto Ícaro",
@@ -10277,7 +10277,7 @@
       ],
       "date-launch": null,
       "genre": "Simulación, Disparos",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Psycho Nightmare",
@@ -10298,7 +10298,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Pull Frog ",
@@ -10321,7 +10321,7 @@
       ],
       "date-launch": "2020-07-04T00:00:00.000Z",
       "genre": "Rompecabezas, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pullfrog 2-Bits",
@@ -10339,7 +10339,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Puppet Kid and the Book of Motions",
@@ -10360,7 +10360,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pureya Barco",
@@ -10381,7 +10381,7 @@
       ],
       "date-launch": "2021-05-01T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Puzzle Pop Factory",
@@ -10402,7 +10402,7 @@
       "publishers": null,
       "date-launch": "2015-06-25T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pyramid Chase",
@@ -10423,7 +10423,7 @@
       "publishers": null,
       "date-launch": "2018-09-27T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Pyta´s Tale",
@@ -10444,7 +10444,7 @@
       "publishers": null,
       "date-launch": "2022-04-25T00:00:00.000Z",
       "genre": "Disparos, Acción, Rol, Novela Visual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Q-Yo Blaster",
@@ -10460,7 +10460,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Quantum Casters",
@@ -10483,7 +10483,7 @@
       ],
       "date-launch": "2023-04-27T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Quantum Nightmare",
@@ -10506,7 +10506,7 @@
       ],
       "date-launch": "2020-11-01T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Quantum Nightmare Space",
@@ -10524,7 +10524,7 @@
       ],
       "date-launch": "2020-11-01T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Queen Army",
@@ -10547,7 +10547,7 @@
       ],
       "date-launch": "2019-11-03T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Quest Doges",
@@ -10563,7 +10563,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Racing Tycoon - Idle Game",
@@ -10584,7 +10584,7 @@
       ],
       "date-launch": "2019-05-15T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Radar",
@@ -10605,7 +10605,7 @@
       "publishers": null,
       "date-launch": "2020-12-27T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Radio de Juguete para Niños",
@@ -10628,7 +10628,7 @@
       ],
       "date-launch": "2019-05-22T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Rage Of The Dragons",
@@ -10649,7 +10649,7 @@
       "publishers": null,
       "date-launch": "2002-06-06T00:00:00.000Z",
       "genre": "Peleas",
-      "state": "Preservado"
+      "status": "Preservado"
     },
     {
       "name": "RAGNAROK: The beginning of a new Age",
@@ -10665,7 +10665,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Raidcoons: The Viking Raccoons",
@@ -10688,7 +10688,7 @@
       ],
       "date-launch": "2019-07-24T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Rail-it! ",
@@ -10711,7 +10711,7 @@
       ],
       "date-launch": null,
       "genre": "Acción",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Rain Food",
@@ -10735,7 +10735,7 @@
       ],
       "date-launch": "2022-04-12T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "RainingCrystals Chronicles",
@@ -10751,7 +10751,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Rally Runners Barcel",
@@ -10767,7 +10767,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Ranata the Frog and the Broken Forest",
@@ -10790,7 +10790,7 @@
       ],
       "date-launch": "2020-06-27T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Randall",
@@ -10813,7 +10813,7 @@
       ],
       "date-launch": "2017-06-06T00:00:00.000Z",
       "genre": "Accion, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ranita Fishing",
@@ -10842,7 +10842,7 @@
       ],
       "date-launch": "2021-10-08T00:00:00.000Z",
       "genre": "Aventura, Acción, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "REalM: Walk of Soul",
@@ -10865,7 +10865,7 @@
       ],
       "date-launch": "2021-10-29T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Reboot",
@@ -10881,7 +10881,7 @@
       "publishers": null,
       "date-launch": "2020-07-08T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Redd's Runaway ",
@@ -10904,7 +10904,7 @@
       ],
       "date-launch": "2020-10-27T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Remnants of the Rift",
@@ -10927,7 +10927,7 @@
       ],
       "date-launch": "2023-05-04T00:00:00.000Z",
       "genre": "Acción, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Renzo Racer",
@@ -10962,7 +10962,7 @@
       ],
       "date-launch": "2019-08-27T00:00:00.000Z",
       "genre": "Acción, Indie, Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Reto deportivo",
@@ -10978,7 +10978,7 @@
       ],
       "date-launch": null,
       "genre": "Deportes",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Revenge of Ilcon",
@@ -10997,7 +10997,7 @@
       ],
       "date-launch": "2023-06-30T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Ricolina Play",
@@ -11013,7 +11013,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Rise Of History: The Ancient Wars",
@@ -11029,7 +11029,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Road to Lumen",
@@ -11045,7 +11045,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Robbert's Breakn't",
@@ -11066,7 +11066,7 @@
       "publishers": null,
       "date-launch": "2020-07-26T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Ronin Koleo",
@@ -11091,7 +11091,7 @@
       "publishers": null,
       "date-launch": "2018-10-18T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Room Roller",
@@ -11114,7 +11114,7 @@
       ],
       "date-launch": "2021-06-03T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Room Roller",
@@ -11130,7 +11130,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Rooting",
@@ -11153,7 +11153,7 @@
       ],
       "date-launch": "2023-02-07T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Rospe and the Humanity's downfall",
@@ -11169,7 +11169,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Rougue Hotel",
@@ -11190,7 +11190,7 @@
       "publishers": null,
       "date-launch": "2021-04-05T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Running Doughnuts!",
@@ -11206,7 +11206,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Corredor Infinito",
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Running Fable",
@@ -11229,7 +11229,7 @@
       ],
       "date-launch": "2022-11-04T00:00:00.000Z",
       "genre": " Acción, Casual, Indie, Carreras, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "RUTA KING ",
@@ -11252,7 +11252,7 @@
       ],
       "date-launch": "2021-07-21T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sacrifice your brothers",
@@ -11273,7 +11273,7 @@
       "publishers": null,
       "date-launch": "2018-05-10T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "SAMSUNG ARENA",
@@ -11291,7 +11291,7 @@
       ],
       "date-launch": "2009-01-01T00:00:00.000Z",
       "genre": "Advergame",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "SAMSUNG NIGHT CITY",
@@ -11309,7 +11309,7 @@
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
       "genre": "Advergame",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Sancho Villa Pop Fly",
@@ -11332,7 +11332,7 @@
       ],
       "date-launch": "2016-01-28T00:00:00.000Z",
       "genre": "Corredor infinito, Arcade",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Sand Sara",
@@ -11350,7 +11350,7 @@
       ],
       "date-launch": "2017-09-07T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Sarlacc",
@@ -11373,7 +11373,7 @@
       ],
       "date-launch": "2019-11-18T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Satsujin Enigma: a murder mystery visual novel",
@@ -11389,7 +11389,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Novela Visual",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Savage: Road to Darkness",
@@ -11405,7 +11405,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Savage: Road to Darkness ",
@@ -11419,7 +11419,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Scare The Crow",
@@ -11440,7 +11440,7 @@
       "publishers": null,
       "date-launch": "2014-08-18T00:00:00.000Z",
       "genre": null,
-      "state": "Preservado"
+      "status": "Preservado"
     },
     {
       "name": "Scent of wood Prototype",
@@ -11461,7 +11461,7 @@
       "publishers": null,
       "date-launch": "2021-10-19T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "SCP: Derelict",
@@ -11479,7 +11479,7 @@
       ],
       "date-launch": null,
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sea Naissance",
@@ -11502,7 +11502,7 @@
       ],
       "date-launch": "2022-05-24T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Secret Neighbor",
@@ -11523,7 +11523,7 @@
       ],
       "date-launch": "2023-06-09T00:00:00.000Z",
       "genre": "Aventura, Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "ShadowBox VR",
@@ -11539,7 +11539,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Shadows in Triangle Zone",
@@ -11555,7 +11555,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "She Know It",
@@ -11571,7 +11571,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Shiba Force",
@@ -11589,7 +11589,7 @@
       ],
       "date-launch": "2019-07-30T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Shooty Quest",
@@ -11620,7 +11620,7 @@
       ],
       "date-launch": "2020-11-03T00:00:00.000Z",
       "genre": "Acción, Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "SIK Space Invader Kreature",
@@ -11645,7 +11645,7 @@
       ],
       "date-launch": "2021-07-24T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "SiliBili",
@@ -11666,7 +11666,7 @@
       "publishers": null,
       "date-launch": "2012-12-17T00:00:00.000Z",
       "genre": "Sala de juegos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Simon's Ritual",
@@ -11682,7 +11682,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Simulador de Escuela Mexicana",
@@ -11703,7 +11703,7 @@
       "publishers": null,
       "date-launch": "2016-08-20T00:00:00.000Z",
       "genre": "Simulación, Parodia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Skwer",
@@ -11724,7 +11724,7 @@
       "publishers": null,
       "date-launch": "2011-08-11T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Skwer 3D",
@@ -11745,7 +11745,7 @@
       "publishers": null,
       "date-launch": "2017-08-25T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sky Crash",
@@ -11761,7 +11761,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Sky Hero",
@@ -11782,7 +11782,7 @@
       "publishers": null,
       "date-launch": "2015-09-02T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Slobbers ",
@@ -11803,7 +11803,7 @@
       "publishers": null,
       "date-launch": "2020-11-25T00:00:00.000Z",
       "genre": "Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "SmartKids",
@@ -11819,7 +11819,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Snacks Van ",
@@ -11840,7 +11840,7 @@
       "publishers": null,
       "date-launch": "2021-06-10T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sol Dorado Heist",
@@ -11863,7 +11863,7 @@
       ],
       "date-launch": "2021-04-23T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Solaris Aisling",
@@ -11879,7 +11879,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas, Aventura, Indie",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Solitude",
@@ -11895,7 +11895,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Something Pretty",
@@ -11916,7 +11916,7 @@
       "publishers": null,
       "date-launch": "2020-06-17T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sophie's Guardian",
@@ -11941,7 +11941,7 @@
       ],
       "date-launch": "2018-10-31T00:00:00.000Z",
       "genre": "Acción, Free to Play, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Souler",
@@ -11957,7 +11957,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Soulgate",
@@ -11973,7 +11973,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Soulmoon",
@@ -11989,7 +11989,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Disparos",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Space Guardian: Dark Berry",
@@ -12005,7 +12005,7 @@
       "publishers": null,
       "date-launch": "2016-10-17T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Space Hunter",
@@ -12021,7 +12021,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Space Love Delta",
@@ -12044,7 +12044,7 @@
       ],
       "date-launch": "2019-10-19T00:00:00.000Z",
       "genre": " Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Spam Cards",
@@ -12065,7 +12065,7 @@
       ],
       "date-launch": "2021-06-20T00:00:00.000Z",
       "genre": "Cartas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Speedlane",
@@ -12081,7 +12081,7 @@
       "publishers": null,
       "date-launch": "2015-09-18T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Spellcasters",
@@ -12102,7 +12102,7 @@
       "publishers": null,
       "date-launch": "2018-04-01T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Spiral Pen",
@@ -12123,7 +12123,7 @@
       ],
       "date-launch": "2021-01-17T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Spirits Of Spring ",
@@ -12140,7 +12140,7 @@
       "publishers": null,
       "date-launch": "2014-10-06T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Squer",
@@ -12163,7 +12163,7 @@
       ],
       "date-launch": "2017-02-15T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Squid! Escape! Fight!",
@@ -12186,7 +12186,7 @@
       ],
       "date-launch": "2020-10-03T00:00:00.000Z",
       "genre": "Acción, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Stampede Rampage",
@@ -12202,7 +12202,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Carreras",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Star Ship Battles",
@@ -12225,7 +12225,7 @@
       ],
       "date-launch": "2019-12-05T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Starship Battles",
@@ -12248,7 +12248,7 @@
       ],
       "date-launch": "2019-12-05T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Stay at Home",
@@ -12269,7 +12269,7 @@
       "publishers": null,
       "date-launch": "2022-03-29T00:00:00.000Z",
       "genre": "Estrategia, Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Stomper",
@@ -12290,7 +12290,7 @@
       "publishers": null,
       "date-launch": "2022-02-03T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Stones Fest",
@@ -12311,7 +12311,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Stopwatch",
@@ -12338,7 +12338,7 @@
       ],
       "date-launch": "2016-04-21T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Street American Football",
@@ -12352,7 +12352,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Deportes",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Street Gol Legion",
@@ -12368,7 +12368,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "StreetGol Gold Edition ",
@@ -12384,7 +12384,7 @@
       "publishers": null,
       "date-launch": "2016-09-28T00:00:00.000Z",
       "genre": "Deportes",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Strong-Moon",
@@ -12400,7 +12400,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "SugarPaws: Sweet Cat Battles!",
@@ -12423,7 +12423,7 @@
       ],
       "date-launch": "2021-02-20T00:00:00.000Z",
       "genre": "Party Game",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Suki & the sadow klaw",
@@ -12439,7 +12439,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Super Catscape ",
@@ -12466,7 +12466,7 @@
       ],
       "date-launch": "2019-04-02T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Super Crane",
@@ -12487,7 +12487,7 @@
       "publishers": null,
       "date-launch": "2020-06-10T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Super Dodging In The Deep Space",
@@ -12503,7 +12503,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Super TapTap Piñata",
@@ -12521,7 +12521,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Superheore Araña Telefono",
@@ -12544,7 +12544,7 @@
       ],
       "date-launch": "2022-05-12T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sushi Bar",
@@ -12571,7 +12571,7 @@
       ],
       "date-launch": "2022-03-08T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Sushi's Journey",
@@ -12594,7 +12594,7 @@
       ],
       "date-launch": "2020-11-04T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Swift Sorcerer",
@@ -12615,7 +12615,7 @@
       "publishers": null,
       "date-launch": "2021-07-17T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Swipe Casters",
@@ -12640,7 +12640,7 @@
       "publishers": null,
       "date-launch": "2017-08-30T00:00:00.000Z",
       "genre": "Rol, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Symmetron",
@@ -12656,7 +12656,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Taco Master",
@@ -12677,7 +12677,7 @@
       "publishers": null,
       "date-launch": "2013-08-15T00:00:00.000Z",
       "genre": "Acción, Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "TanTam",
@@ -12693,7 +12693,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "TapTap Piñata",
@@ -12711,7 +12711,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Tazumal The Origins of Evil",
@@ -12727,7 +12727,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Teeth & Tiles",
@@ -12752,7 +12752,7 @@
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Telefono Carrito para Bebes",
@@ -12775,7 +12775,7 @@
       ],
       "date-launch": "2017-05-04T00:00:00.000Z",
       "genre": "Siimulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfono colorear Princesas",
@@ -12798,7 +12798,7 @@
       ],
       "date-launch": "2023-02-10T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Telefono con juegos para niños",
@@ -12821,7 +12821,7 @@
       ],
       "date-launch": "2018-01-04T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Telefono de Bebe con Juegos",
@@ -12844,7 +12844,7 @@
       ],
       "date-launch": "2016-10-29T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfono de Princesas Bebés 2",
@@ -12867,7 +12867,7 @@
       ],
       "date-launch": "2021-02-26T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfono Pirncesa Sirena Niñas",
@@ -12890,7 +12890,7 @@
       ],
       "date-launch": "2022-06-02T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfono Princesa de Hielo",
@@ -12913,7 +12913,7 @@
       ],
       "date-launch": "2022-01-18T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfono Princesas para Bebés",
@@ -12936,7 +12936,7 @@
       ],
       "date-launch": "2018-04-14T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Telefoono de Bebes Superheroes",
@@ -12959,7 +12959,7 @@
       ],
       "date-launch": "2020-01-16T00:00:00.000Z",
       "genre": "Simulación, Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Teléfoono Princesa para Bebés 3",
@@ -12982,7 +12982,7 @@
       ],
       "date-launch": "2022-04-18T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Telegram",
@@ -13003,7 +13003,7 @@
       "publishers": null,
       "date-launch": "2023-03-31T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "TeleKIDnesis",
@@ -13024,7 +13024,7 @@
       "publishers": null,
       "date-launch": "2022-03-07T00:00:00.000Z",
       "genre": "Rompecabezas, Plataformas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Tetris beat ",
@@ -13045,7 +13045,7 @@
       "publishers": null,
       "date-launch": "2021-08-19T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Texcoco o Santa Lucía",
@@ -13066,7 +13066,7 @@
       "publishers": null,
       "date-launch": "2018-10-17T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Answers Puzzle ",
@@ -13087,7 +13087,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Balloons",
@@ -13105,7 +13105,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "The Chamaleon",
@@ -13128,7 +13128,7 @@
       ],
       "date-launch": "2021-07-13T00:00:00.000Z",
       "genre": "Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Doctor Cat",
@@ -13149,7 +13149,7 @@
       "publishers": null,
       "date-launch": "2020-11-12T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The end is Nahual: If I may say so ",
@@ -13176,7 +13176,7 @@
       ],
       "date-launch": "2023-02-17T00:00:00.000Z",
       "genre": "Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Frozen Kingdom",
@@ -13199,7 +13199,7 @@
       ],
       "date-launch": null,
       "genre": " Casual, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "The GreenMist",
@@ -13215,7 +13215,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Casual",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "The Hommies",
@@ -13236,7 +13236,7 @@
       ],
       "date-launch": "2016-09-30T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Inventory Game",
@@ -13252,7 +13252,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "The Jimmy´s Souls",
@@ -13268,7 +13268,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "The Kings Role",
@@ -13289,7 +13289,7 @@
       ],
       "date-launch": "2020-11-05T00:00:00.000Z",
       "genre": "Cartas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Last Ankuri",
@@ -13305,7 +13305,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "The Lawless Online - Old West MMO Game",
@@ -13321,7 +13321,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "The Legend of Arcadieu",
@@ -13348,7 +13348,7 @@
       ],
       "date-launch": "2019-11-13T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Legend of Arcadieu 2 ",
@@ -13383,7 +13383,7 @@
       ],
       "date-launch": "2020-11-02T00:00:00.000Z",
       "genre": "Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Legend of Chibi Ninja ",
@@ -13406,7 +13406,7 @@
       ],
       "date-launch": "2019-09-29T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Lost Night",
@@ -13429,7 +13429,7 @@
       ],
       "date-launch": "2020-02-27T00:00:00.000Z",
       "genre": "Rol, Aventura, Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Lullaby of Life ",
@@ -13452,7 +13452,7 @@
       ],
       "date-launch": "2020-07-24T00:00:00.000Z",
       "genre": "Música",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Macramancer ",
@@ -13473,7 +13473,7 @@
       "publishers": null,
       "date-launch": "2020-08-30T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Munky.io",
@@ -13489,7 +13489,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "The OrangeRice",
@@ -13512,7 +13512,7 @@
       ],
       "date-launch": "2020-12-04T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Potion Makin Cat",
@@ -13533,7 +13533,7 @@
       ],
       "date-launch": "2020-10-24T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Rounding Balloon Shop",
@@ -13554,7 +13554,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Saint Road",
@@ -13570,7 +13570,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "The Scorchfarer",
@@ -13593,7 +13593,7 @@
       ],
       "date-launch": "2022-04-15T00:00:00.000Z",
       "genre": "Aventura, Casual, Free to Play, Simuladores",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "The Sledgehammer of Division",
@@ -13614,7 +13614,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "The Tale of Nanuk: The Ocean Fairy",
@@ -13632,7 +13632,7 @@
       ],
       "date-launch": "2024-11-20T00:00:00.000Z",
       "genre": "Aventura, RPG, Indie",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "The Tervian Uprising ",
@@ -13648,7 +13648,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "The Vale - Next-Gen ",
@@ -13664,7 +13664,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "The Wandering",
@@ -13685,7 +13685,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Therapy ",
@@ -13701,7 +13701,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Supervivencia",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Thumbeats",
@@ -13717,7 +13717,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Tinieblas Jr's Adventures ",
@@ -13740,7 +13740,7 @@
       ],
       "date-launch": "2020-02-12T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Tiny Gardens",
@@ -13758,7 +13758,7 @@
       ],
       "date-launch": "2018-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Tiro al cono",
@@ -13776,7 +13776,7 @@
       ],
       "date-launch": "2016-01-01T00:00:00.000Z",
       "genre": "Realidad Aumentada",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "TODO TODO Nocturno",
@@ -13799,7 +13799,7 @@
       ],
       "date-launch": "2021-05-25T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Togheter",
@@ -13820,7 +13820,7 @@
       "publishers": null,
       "date-launch": "2020-12-09T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Tommy was angry",
@@ -13836,7 +13836,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Horror",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Torre Tactics",
@@ -13857,7 +13857,7 @@
       "publishers": null,
       "date-launch": "2021-08-22T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Totally Unexpected Safety Drill",
@@ -13878,7 +13878,7 @@
       "publishers": null,
       "date-launch": "2020-08-21T00:00:00.000Z",
       "genre": "Rompecabezas, Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Totem Guard",
@@ -13903,7 +13903,7 @@
       "publishers": null,
       "date-launch": "2019-02-14T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Totemsito",
@@ -13924,7 +13924,7 @@
       "publishers": null,
       "date-launch": "2020-07-09T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Touble and Trouble",
@@ -13945,7 +13945,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Towerino",
@@ -13966,7 +13966,7 @@
       "publishers": null,
       "date-launch": "2022-05-04T00:00:00.000Z",
       "genre": "Estrategia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Toy Blitz ",
@@ -13987,7 +13987,7 @@
       "publishers": null,
       "date-launch": "2021-06-11T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Training Sim",
@@ -14003,7 +14003,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Traveller",
@@ -14019,7 +14019,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Ficción Interactiva",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Trenecito Maya",
@@ -14044,7 +14044,7 @@
       "publishers": null,
       "date-launch": "2022-04-27T00:00:00.000Z",
       "genre": "Aventura",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Trigger Runners",
@@ -14067,7 +14067,7 @@
       ],
       "date-launch": "2016-03-03T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie, Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Trumpealo",
@@ -14083,7 +14083,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Turbo Wheels",
@@ -14104,7 +14104,7 @@
       "publishers": null,
       "date-launch": "2015-03-19T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "TurboNutz",
@@ -14120,7 +14120,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Corredor infinito",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Tus últimas palabras",
@@ -14141,7 +14141,7 @@
       "publishers": null,
       "date-launch": "2023-02-21T00:00:00.000Z",
       "genre": "Narrativa",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Twin Flames",
@@ -14159,7 +14159,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "En Pausa"
+      "status": "En Pausa"
     },
     {
       "name": "Two Minutes",
@@ -14180,7 +14180,7 @@
       "publishers": null,
       "date-launch": "2020-01-15T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Tyr: Chains of Valhalla ",
@@ -14203,7 +14203,7 @@
       ],
       "date-launch": "2018-05-08T00:00:00.000Z",
       "genre": "Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "TZOMPANTLI ",
@@ -14226,7 +14226,7 @@
       ],
       "date-launch": "2016-11-10T00:00:00.000Z",
       "genre": "Acción, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Uncle Grandpa’s Reckless Roadtrip",
@@ -14244,7 +14244,7 @@
       ],
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "UNITY",
@@ -14262,7 +14262,7 @@
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "VALORYA: THE BLACKSMITH",
@@ -14283,7 +14283,7 @@
       "publishers": null,
       "date-launch": "2020-04-22T00:00:00.000Z",
       "genre": "Aventura, Acción, Rol",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Vector Stadium",
@@ -14299,7 +14299,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "Veins Buster",
@@ -14315,7 +14315,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "VERITAS, el principe de la verdad",
@@ -14333,7 +14333,7 @@
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
       "genre": "Advergame",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Vía",
@@ -14356,7 +14356,7 @@
       ],
       "date-launch": "2019-09-27T00:00:00.000Z",
       "genre": "Rompecabezas",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Viaje a Axolotlan",
@@ -14372,7 +14372,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Victor and Valentino",
@@ -14390,7 +14390,7 @@
       ],
       "date-launch": null,
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Video juego de carreras multijugador BBVA open day 2020",
@@ -14406,7 +14406,7 @@
       "publishers": null,
       "date-launch": "2020-10-08T00:00:00.000Z",
       "genre": "Carreras",
-      "state": "No comercial"
+      "status": "No comercial"
     },
     {
       "name": "Virus Containment",
@@ -14429,7 +14429,7 @@
       ],
       "date-launch": "2020-03-05T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Virus Hunter",
@@ -14452,7 +14452,7 @@
       ],
       "date-launch": "2020-05-21T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Viruses Shall NOT Pass",
@@ -14475,7 +14475,7 @@
       ],
       "date-launch": "2020-05-23T00:00:00.000Z",
       "genre": "Casual",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Virush",
@@ -14493,7 +14493,7 @@
       ],
       "date-launch": "2020-05-29T00:00:00.000Z",
       "genre": "Supervivencia",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Viva Sancho Villa",
@@ -14516,7 +14516,7 @@
       ],
       "date-launch": "2015-10-15T00:00:00.000Z",
       "genre": "Acción, Corredor infinito",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "VR Space",
@@ -14532,7 +14532,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Aventura",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "VR Theme Park Rides",
@@ -14559,7 +14559,7 @@
       ],
       "date-launch": "2017-06-08T00:00:00.000Z",
       "genre": "Casual, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "VR4E: Immersive learning",
@@ -14573,7 +14573,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "VRaptor",
@@ -14589,7 +14589,7 @@
       "publishers": null,
       "date-launch": "1998-01-01T00:00:00.000Z",
       "genre": null,
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Waffles Routine",
@@ -14610,7 +14610,7 @@
       "publishers": null,
       "date-launch": "2022-04-12T00:00:00.000Z",
       "genre": "Plataformas, Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Warcher Defenders",
@@ -14635,7 +14635,7 @@
       "publishers": null,
       "date-launch": "2016-05-31T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Warped Space Shooter",
@@ -14656,7 +14656,7 @@
       "publishers": null,
       "date-launch": "2020-10-20T00:00:00.000Z",
       "genre": "Disparos",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Waste Classification",
@@ -14672,7 +14672,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "WatanOs",
@@ -14695,7 +14695,7 @@
       ],
       "date-launch": "2023-04-24T00:00:00.000Z",
       "genre": "Simulación",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Watch out Zombies",
@@ -14716,7 +14716,7 @@
       "publishers": null,
       "date-launch": "2015-12-02T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "WaterTown",
@@ -14739,7 +14739,7 @@
       ],
       "date-launch": "2018-12-21T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Weird Bunny Banana",
@@ -14760,7 +14760,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Well, Fuck You Too",
@@ -14781,7 +14781,7 @@
       "publishers": null,
       "date-launch": "2021-12-29T00:00:00.000Z",
       "genre": "Ficción Interactiva",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Witch College 1",
@@ -14804,7 +14804,7 @@
       ],
       "date-launch": "2019-07-30T00:00:00.000Z",
       "genre": " Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Witch College 2",
@@ -14827,7 +14827,7 @@
       ],
       "date-launch": "2020-02-24T00:00:00.000Z",
       "genre": " Casual, Indie, Simuladores",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Witch Hex ",
@@ -14843,7 +14843,7 @@
       "publishers": null,
       "date-launch": "2017-07-26T00:00:00.000Z",
       "genre": "Horror",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Witches of the New World",
@@ -14859,7 +14859,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Wooly Blast",
@@ -14875,7 +14875,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Words & Blocks: Blast and Type",
@@ -14898,7 +14898,7 @@
       ],
       "date-launch": "2020-04-07T00:00:00.000Z",
       "genre": "Juego de mesa",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "World Masters",
@@ -14914,7 +14914,7 @@
       "publishers": null,
       "date-launch": "2000-01-01T00:00:00.000Z",
       "genre": "RTS",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Wrestling Cardboard Championship ",
@@ -14937,7 +14937,7 @@
       ],
       "date-launch": null,
       "genre": " Acción, Indie, Simuladores, Deportes",
-      "state": "En Desarrollo"
+      "status": "En Desarrollo"
     },
     {
       "name": "Wrong Heaven",
@@ -14953,7 +14953,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "state": "Desconocido"
+      "status": "Desconocido"
     },
     {
       "name": "XIBALBA ",
@@ -14976,7 +14976,7 @@
       ],
       "date-launch": "2020-11-13T00:00:00.000Z",
       "genre": " Acción, Aventura, Indie",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Xolo",
@@ -14997,7 +14997,7 @@
       "publishers": null,
       "date-launch": "2021-10-23T00:00:00.000Z",
       "genre": "Educativo",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Yoapan",
@@ -15015,7 +15015,7 @@
       ],
       "date-launch": "2021-09-10T00:00:00.000Z",
       "genre": "Acción",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Yogome Guardians of Knowledge",
@@ -15031,7 +15031,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Educativo",
-      "state": "Lost media"
+      "status": "Lost media"
     },
     {
       "name": "Zaguaro",
@@ -15047,7 +15047,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Plataformas 3D",
-      "state": "Cancelado"
+      "status": "Cancelado"
     },
     {
       "name": "Zombie Madness for Intellivision.",
@@ -15068,7 +15068,7 @@
       "publishers": null,
       "date-launch": "2020-10-03T00:00:00.000Z",
       "genre": "Arcade",
-      "state": "Publicado"
+      "status": "Publicado"
     },
     {
       "name": "Fists For Fighting (FX3)",
@@ -15089,7 +15089,7 @@
       ],
       "date-launch": "2013-06-29T00:00:00.000Z",
       "genre": "Deportes",
-      "state": "Publicado"
+      "status": "Publicado"
     }
   ]
 }

@@ -68,7 +68,7 @@ try {
       "date-launch":
         getDate(cellDateLaunched?.userEnteredValue?.numberValue) ?? null,
       genre: cellGenre?.userEnteredValue?.stringValue ?? null,
-      state: cellState?.userEnteredValue?.stringValue ?? null,
+      status: cellState?.userEnteredValue?.stringValue ?? null,
     };
   });
 
