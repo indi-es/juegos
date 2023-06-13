@@ -1,6 +1,29 @@
 {
   "games": [
     {
+      "name": "3 Minute Mahjong",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/3-minute-mahjong/id1346957674"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-02-16T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
       "name": "7 Lives",
       "url": null,
       "platforms": [
@@ -217,6 +240,33 @@
       "status": "Publicado"
     },
     {
+      "name": "ABC Coloring Town",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/478010/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/abc-coloring-town-free/9wzdncrdr9wg?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-05-29T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "ABO MANDO",
       "url": null,
       "platforms": [
@@ -325,6 +375,24 @@
       ],
       "date-launch": "2015-08-20T00:00:00.000Z",
       "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "AdventureGames.ai ",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2023-05-31T00:00:00.000Z",
+      "genre": "Ficción Interactiva",
       "status": "Publicado"
     },
     {
@@ -480,6 +548,29 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado"
+    },
+    {
+      "name": "Alphabet Robots Mahjong Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://apps.microsoft.com/store/detail/alphabet-robots-mahjong-free/9WZDNCRDR8GW?hl=es-mx&gl=mx&rtc=1"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-11-19T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
     },
     {
       "name": "Altar de muertos ",
@@ -712,6 +803,75 @@
       "status": "Publicado"
     },
     {
+      "name": "AR 4 In A Row ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ar-4-in-a-row/id1438284456"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-10-18T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
+      "name": "AR Checkers+",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ar-checkers/id1439508324"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-10-27T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
+      "name": "AR Chess+ ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ar-chess/id1441330923"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-11-29T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
       "name": "AR Classic Board Games (Nreal)",
       "url": null,
       "platforms": [
@@ -732,6 +892,52 @@
       ],
       "date-launch": "2023-03-07T00:00:00.000Z",
       "genre": "Jueego de mesa",
+      "status": "Publicado"
+    },
+    {
+      "name": "AR Jigsaw Puzzles+ ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ar-jigsaw-puzzles/id1440060016"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-10-27T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
+      "name": "AR Mahjong+ ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ar-mahjong/id1444772686"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2019-01-12T00:00:00.000Z",
+      "genre": "Juegos de mesa",
       "status": "Publicado"
     },
     {
@@ -1217,6 +1423,29 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Backgammon Deluxe Go ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/app/backgammon-deluxe-free/id393141690"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-07-10T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
       "name": "Backyard Monsters Unleashed",
       "url": "https://youtu.be/fXst7RP8dyg",
       "platforms": [],
@@ -1315,6 +1544,56 @@
       "status": "Publicado"
     },
     {
+      "name": "Ballon Blowout",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/542740/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-28T00:00:00.000Z",
+      "genre": "Acción, Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Barnyard Mahjong 3",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/498030/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/barnyard-mahjong-3-free/9pbjzx7bxkk8?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-29T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Bastard Blocks",
       "url": null,
       "platforms": [],
@@ -1351,6 +1630,29 @@
       ],
       "date-launch": "2020-12-18T00:00:00.000Z",
       "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Bayla Bunny",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/489900/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-06-13T00:00:00.000Z",
+      "genre": "Casual",
       "status": "Publicado"
     },
     {
@@ -1639,6 +1941,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Block Blowout",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/542730/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-26T00:00:00.000Z",
+      "genre": "Acción, Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Block In The Sky",
       "url": null,
       "platforms": [
@@ -1874,6 +2199,33 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Bubble Blowout",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/542720/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/bubble-blowout-free/9n81bbx3mhkp?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-24T00:00:00.000Z",
+      "genre": "Acción, Casual",
+      "status": "Publicado"
     },
     {
       "name": "Buchanan's Golf VR",
@@ -2299,6 +2651,29 @@
       "status": "Desconocido"
     },
     {
+      "name": "Chain Solitaire Royale",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/chain-solitaire-royale/9nblggh52l8q?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-09-19T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
       "name": "Chain Tower",
       "url": null,
       "platforms": [
@@ -2401,6 +2776,52 @@
       "date-launch": "2015-07-15T00:00:00.000Z",
       "genre": "Hack N´ Slash, Corredor Infinito",
       "status": "Lost media"
+    },
+    {
+      "name": "Chess Knight 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/526880/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-09-11T00:00:00.000Z",
+      "genre": "Casual, Estrategia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Chess Knight Go",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/chess-knight-go/id389066545"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2010-08-31T00:00:00.000Z",
+      "genre": "Estrategia",
+      "status": "Publicado"
     },
     {
       "name": "Chichens",
@@ -3494,6 +3915,52 @@
       "status": "Desconocido"
     },
     {
+      "name": "Dessert Storm",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/542710/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-24T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Dessert Storm Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/dessert-storm-free/9wzdncrdr7zf?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2013-08-15T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
       "name": "Destructive Dice!",
       "url": null,
       "platforms": [
@@ -3853,6 +4320,29 @@
       "date-launch": null,
       "genre": " Acción, Aventura, Indie",
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Doodle Summer Games Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.doodlesummerhdfree"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-07-23T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
     },
     {
       "name": "Dots of War",
@@ -4292,6 +4782,29 @@
       "status": "Desconocido"
     },
     {
+      "name": "English Spanish Language Adventure",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://apps.microsoft.com/store/detail/english-spanish-matchem-up%E2%84%A2-language-adventure/9WZDNCRDR7VW?hl=es-mx&gl=mx&rtc=1"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-11-08T00:00:00.000Z",
+      "genre": "Aventura, Educativo",
+      "status": "Publicado"
+    },
+    {
       "name": "Enigma Reskin",
       "url": null,
       "platforms": [],
@@ -4530,12 +5043,8 @@
       "url": null,
       "platforms": [
         {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2316880/Fabulous_Field_Trip/"
-        },
-        {
           "name": "App Store",
-          "url": "https://apps.apple.com/app/id1671703621"
+          "url": "https://apps.apple.com/us/app/fabulous-field-trip/id1671703621"
         }
       ],
       "crowdfunding": {
@@ -4550,6 +5059,37 @@
       ],
       "date-launch": "2023-03-06T00:00:00.000Z",
       "genre": "Aventura, Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fabulous Food Truck",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/497260/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.fabulousfoodtruckfree"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/store/apps/9NDHXR1HVK9S"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-21T00:00:00.000Z",
+      "genre": "Casual, Simuladores",
       "status": "Publicado"
     },
     {
@@ -4571,6 +5111,114 @@
       "publishers": null,
       "date-launch": "2020-12-24T00:00:00.000Z",
       "genre": "Supervivencia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fantastic 4 In A Row 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/514470/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-08-15T00:00:00.000Z",
+      "genre": "Casual, Estrategia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fantastic 4 In A Row Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.fourinarowhdff"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/fantastic-4-in-a-row-go/id374170726"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/fantastic-4-in-a-row-free/9wzdncrfhwhj?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-08-28T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fantastic Checkers 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/514480/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-08-19T00:00:00.000Z",
+      "genre": "Casual, Estrategia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fantastic Checkers Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.fantasticcheckershdfree"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/fantastic-checkers-go/id374166033"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/fantastic-checkers-free/9wzdncrfj9ww?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-10-02T00:00:00.000Z",
+      "genre": "Estrategia",
       "status": "Publicado"
     },
     {
@@ -4710,6 +5358,27 @@
       "publishers": null,
       "date-launch": "2023-04-21T00:00:00.000Z",
       "genre": "Plataformas, Estrategia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Fists For Fighting (FX3)",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.flynetstudios.fx3"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Flynet Studios"
+      ],
+      "date-launch": "2013-06-29T00:00:00.000Z",
+      "genre": "Deportes",
       "status": "Publicado"
     },
     {
@@ -4929,6 +5598,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Freecell Royale",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/freecell-royale/9wzdncrdr8qf?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2014-09-18T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
       "name": "Frog Friend",
       "url": null,
       "platforms": [
@@ -5008,6 +5700,27 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Futbol Metegol",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.flynet.swc"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Flynet Studios"
+      ],
+      "date-launch": "2018-06-27T00:00:00.000Z",
+      "genre": "Deportes",
+      "status": "Publicado"
     },
     {
       "name": "FUTIME",
@@ -6278,11 +6991,7 @@
       "platforms": [
         {
           "name": "Steam",
-          "url": "https://store.steampowered.com/app/2099010/Isla_Sinaloa/"
-        },
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/app/id1586032981"
+          "url": "https://store.steampowered.com/app/2099010"
         }
       ],
       "crowdfunding": {
@@ -6665,6 +7374,29 @@
       "publishers": null,
       "date-launch": null,
       "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Kitty Cat Jigsaw Puzzles",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/500580/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-18T00:00:00.000Z",
+      "genre": "Casual",
       "status": "Publicado"
     },
     {
@@ -7087,6 +7819,29 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado"
+    },
+    {
+      "name": "Letter Land Mahjong Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://apps.microsoft.com/store/detail/letter-land-mahjong-free/9WZDNCRDR9KK?hl=es-mx&gl=mx&rtc=1"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-11-30T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
     },
     {
       "name": "Letters and Sounds",
@@ -7517,6 +8272,33 @@
       "status": "Publicado"
     },
     {
+      "name": "Ludo Supremo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/487580/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/p/ludo-supremo-free/9nsqbdwm132b"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-06-08T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Luli y Gabo",
       "url": null,
       "platforms": [
@@ -7644,6 +8426,64 @@
       "status": "Publicado"
     },
     {
+      "name": "Mahjong Deluxe",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1272450/Mahjong_Deluxe/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.mahjongdlxf"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/mahjong-deluxe-go/id388062475"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/store/apps/9WZDNCRFHWHP"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2020-05-20T00:00:00.000Z",
+      "genre": "Casual, Estrategia",
+      "status": "Publicado"
+    },
+    {
+      "name": "Mahjong Deluxe 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/500570/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-20T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Mahjong Deluxe 3",
       "url": null,
       "platforms": [
@@ -7652,24 +8492,20 @@
           "url": "https://www.nintendo.com/store/products/mahjong-deluxe-3-switch/"
         },
         {
-          "name": "Play Station",
-          "url": "https://store.playstation.com/es-mx/pages/latest#!/en-us/games/mahjong-deluxe-3/cid=UP0244-CUSA07267_00-MAHJONGDELUX3PS4"
-        },
-        {
           "name": "Steam",
-          "url": "https://store.steampowered.com/app/462220/Mahjong_Deluxe_3/"
+          "url": "http://store.steampowered.com/app/462220/"
         },
         {
           "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.mahjongdeluxe3"
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.barnyardmahjong3free"
         },
         {
           "name": "App Store",
-          "url": "https://apps.apple.com/app/mahjong-deluxe-3-free/id1101450931?ls=1"
+          "url": "https://apps.apple.com/us/app/mahjong-deluxe-3-go/id1101450931"
         },
         {
           "name": "Other",
-          "url": "https://www.microsoft.com/es-mx/p/mahjong-deluxe-3-free/9nd23gm31jf4"
+          "url": "https://www.microsoft.com/es-mx/p/mahjong-deluxe-3-free/9nd23gm31jf4?rtc=1&activetab=pivot:overviewtab"
         }
       ],
       "crowdfunding": {
@@ -7683,6 +8519,72 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-04-22T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Mahjong Destiny",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/491580/"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/mahjong-destiny/id893314721"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/mahjong-destiny-free/9pfs87vjmmxs?rtc=1"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-06-17T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Mahsung Deluxe",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/542690/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.mahsungdeluxe"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/mahsung-deluxe/id917434056"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/mahsung-deluxe-free/9mv9prnqwj2m?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-17T00:00:00.000Z",
       "genre": "Casual",
       "status": "Publicado"
     },
@@ -7722,8 +8624,31 @@
         "Freedom Games"
       ],
       "date-launch": null,
-      "genre": null,
+      "genre": "Metroidvania",
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Master of Gomoku Go ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/app/master-of-gomoku-free/id380363021"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2010-07-09T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
     },
     {
       "name": "Match Fight! - Fun puzzle game",
@@ -8080,16 +9005,12 @@
       "url": null,
       "platforms": [
         {
-          "name": "Nintendo",
-          "url": "https://www.nintendo.com/store/"
-        },
-        {
-          "name": "Play Station",
-          "url": "https://store.playstation.com/es-mx/pages/latest#!/en-us/games/miko-mole/cid=UP0244-CUSA03947_00-MIKOMOLEPS4ENSEN"
-        },
-        {
           "name": "Steam",
-          "url": "https://store.steampowered.com/app/473480/Miko_Mole/"
+          "url": "http://store.steampowered.com/app/473480/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/miko-mole-free/9nnsjcb6psdn?rtc=1&activetab=pivot:overviewtab"
         }
       ],
       "crowdfunding": {
@@ -8148,6 +9069,33 @@
       "publishers": null,
       "date-launch": "2023-03-13T00:00:00.000Z",
       "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Mini Golf Mundo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/468320/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/store/apps/9WZDNCRFJ9WR"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-05-10T00:00:00.000Z",
+      "genre": "Casual",
       "status": "Publicado"
     },
     {
@@ -8313,6 +9261,25 @@
       "status": "Publicado"
     },
     {
+      "name": "Monekynauts",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cometa Games",
+        "Fat Panda Games"
+      ],
+      "publishers": [
+        "HyperBeard Games"
+      ],
+      "date-launch": "2018-10-20T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "Monkey Toss",
       "url": null,
       "platforms": [
@@ -8414,6 +9381,33 @@
       "status": "Publicado"
     },
     {
+      "name": "MOP: Operation Cleanup",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/463120/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/mop-operation-cleanup-free/9nkgrlczfqkx?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-05-03T00:00:00.000Z",
+      "genre": "Acción, Casual, Estrategia",
+      "status": "Publicado"
+    },
+    {
       "name": "More than words",
       "url": null,
       "platforms": [
@@ -8452,6 +9446,22 @@
       ],
       "date-launch": "2024-04-01T00:00:00.000Z",
       "genre": "RPG Online, Casual",
+      "status": "En Desarrollo"
+    },
+    {
+      "name": "Moshpit ",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Tagwizz"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
       "status": "En Desarrollo"
     },
     {
@@ -8644,6 +9654,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Murder Mystery Adventure",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/544140/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-10-25T00:00:00.000Z",
+      "genre": " Aventura, Indie",
+      "status": "Publicado"
+    },
+    {
       "name": "Music Puzzle: City Builder",
       "url": null,
       "platforms": [
@@ -8830,6 +9863,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Mystery of Rivenhallows",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/498050/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-26T00:00:00.000Z",
+      "genre": "Aventura, Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Nah, see? Cookies!",
       "url": null,
       "platforms": [
@@ -8919,6 +9975,10 @@
         {
           "name": "Nintendo",
           "url": "https://www.nintendo.com/es-mx/store/products/neon-city-riders-switch/"
+        },
+        {
+          "name": "Play Station",
+          "url": "https://store.playstation.com/en-us/product/UP0209-CUSA18571_00-BROMIONCRPS01234"
         },
         {
           "name": "Steam",
@@ -9253,6 +10313,29 @@
       "status": "Lost media"
     },
     {
+      "name": "Pamela Possum Goes To Letter Land",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/store/apps/9WZDNCRDRCJV"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-11-08T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
       "name": "Panaderia Bimbo",
       "url": null,
       "platforms": [],
@@ -9496,6 +10579,33 @@
       "publishers": null,
       "date-launch": "2021-08-31T00:00:00.000Z",
       "genre": "Corredor Infinito",
+      "status": "Publicado"
+    },
+    {
+      "name": "Pepe Porcupine",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/487590/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.pepeporcupine"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-06-06T00:00:00.000Z",
+      "genre": "Casual",
       "status": "Publicado"
     },
     {
@@ -9743,6 +10853,29 @@
       ],
       "date-launch": "2019-07-16T00:00:00.000Z",
       "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Pirate Jump 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/690860/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2017-08-23T00:00:00.000Z",
+      "genre": " Acción, Casual, Indie",
       "status": "Publicado"
     },
     {
@@ -10363,6 +11496,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Puppy Dog Jigsaw Puzzles",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/500590/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-19T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
       "name": "Pureya Barco",
       "url": null,
       "platforms": [
@@ -10401,6 +11557,79 @@
       ],
       "publishers": null,
       "date-launch": "2015-06-25T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Puzzles At Mystery Manor",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/489890/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
+      "name": "Puzzles Under The Hill",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/487600/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-06-10T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Puzzles Under The Hill Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.puzzlesunderthehill"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/store/apps/9MX2VC15SRHM"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-09-12T00:00:00.000Z",
       "genre": "Rompecabezas",
       "status": "Publicado"
     },
@@ -10650,6 +11879,29 @@
       "date-launch": "2002-06-06T00:00:00.000Z",
       "genre": "Peleas",
       "status": "Preservado"
+    },
+    {
+      "name": "Raging Pigs Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/raging-pigs-free/9wzdncrdr975?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2013-04-05T00:00:00.000Z",
+      "genre": "Acción, Aventura",
+      "status": "Publicado"
     },
     {
       "name": "RAGNAROK: The beginning of a new Age",
@@ -11882,6 +13134,52 @@
       "status": "Cancelado"
     },
     {
+      "name": "Soliaire Royale",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/530720/Solitaire_Royale/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-09-15T00:00:00.000Z",
+      "genre": "Casual, Indie",
+      "status": "Publicado"
+    },
+    {
+      "name": "Solitaire Royale",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/solitaire-royale/9wzdncrdr9kd?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2014-09-24T00:00:00.000Z",
+      "genre": "Juegos de mesa",
+      "status": "Publicado"
+    },
+    {
       "name": "Solitude",
       "url": null,
       "platforms": [],
@@ -12597,6 +13895,33 @@
       "status": "Publicado"
     },
     {
+      "name": "Sweet Candy Mahjong",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/532600/"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/sweet-candy-mahjong-free/9p1167cp5ksk?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-09-29T00:00:00.000Z",
+      "genre": "Casual, Indie",
+      "status": "Publicado"
+    },
+    {
       "name": "Swift Sorcerer",
       "url": null,
       "platforms": [
@@ -13216,6 +14541,29 @@
       "date-launch": null,
       "genre": "Casual",
       "status": "Lost media"
+    },
+    {
+      "name": "The Hidden Dragon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/498040/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-07-26T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
     },
     {
       "name": "The Hommies",
@@ -14229,6 +15577,95 @@
       "status": "Publicado"
     },
     {
+      "name": "Ultimate Hangman Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.doodlehangmanff"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ultimate-hangman-go/id355166919"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/ultimate-hangman-free/9wzdncrfhwh4?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2012-08-28T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
+      "name": "Ultimate Word Search 2: Letter Boxed",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/514490/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.ultimatewordsearchfree2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-08-19T00:00:00.000Z",
+      "genre": "Casual",
+      "status": "Publicado"
+    },
+    {
+      "name": "Ultimate Word Search Free",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.wordsearchfree"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ultimate-word-search-go/id357706287"
+        },
+        {
+          "name": "Other",
+          "url": "https://www.microsoft.com/es-mx/p/ultimate-word-search-free-2-letter-boxed/9wzdncrdr850?rtc=1&activetab=pivot:overviewtab"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2013-08-15T00:00:00.000Z",
+      "genre": "Rompecabezas",
+      "status": "Publicado"
+    },
+    {
       "name": "Uncle Grandpa’s Reckless Roadtrip",
       "url": null,
       "platforms": [],
@@ -14519,6 +15956,56 @@
       "status": "Lost media"
     },
     {
+      "name": "VR Chair Games",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/605110/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2017-04-04T00:00:00.000Z",
+      "genre": "Acción, Casual, Indie",
+      "status": "Publicado"
+    },
+    {
+      "name": "VR Jogger",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/904820/"
+        },
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ensenasoft.vrjogger"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-08-17T00:00:00.000Z",
+      "genre": " Casual, Simuladores, Deportes",
+      "status": "Publicado"
+    },
+    {
       "name": "VR Space",
       "url": "https://youtu.be/9CrOTg1EPNg",
       "platforms": [],
@@ -14540,7 +16027,7 @@
       "platforms": [
         {
           "name": "Steam",
-          "url": "https://store.steampowered.com/app/642070/VR_Theme_Park_Rides/"
+          "url": "http://store.steampowered.com/app/642070/"
         },
         {
           "name": "Play Store",
@@ -14784,6 +16271,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Where's My What",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/531860/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2016-09-27T00:00:00.000Z",
+      "genre": "Casual, Indie",
+      "status": "Publicado"
+    },
+    {
       "name": "Witch College 1",
       "url": null,
       "platforms": [
@@ -14859,6 +16369,50 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
+      "status": "En Desarrollo"
+    },
+    {
+      "name": "Woman Fists For Fighting WFx3",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.flynetstudios.wfx3"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Flynet Studios"
+      ],
+      "date-launch": "2015-02-03T00:00:00.000Z",
+      "genre": "Deportes",
+      "status": "Publicado"
+    },
+    {
+      "name": "Wonfourn",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "http://store.steampowered.com/app/655980/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "EnsenaSoft"
+      ],
+      "publishers": [
+        "EnsenaSoft"
+      ],
+      "date-launch": "2018-06-15T00:00:00.000Z",
+      "genre": "Acción, Aventura, Indie, Estrategia",
       "status": "Publicado"
     },
     {
@@ -15068,27 +16622,6 @@
       "publishers": null,
       "date-launch": "2020-10-03T00:00:00.000Z",
       "genre": "Arcade",
-      "status": "Publicado"
-    },
-    {
-      "name": "Fists For Fighting (FX3)",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.flynetstudios.fx3"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": [
-        "Flynet Studios"
-      ],
-      "date-launch": "2013-06-29T00:00:00.000Z",
-      "genre": "Deportes",
       "status": "Publicado"
     }
   ]
