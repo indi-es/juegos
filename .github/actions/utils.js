@@ -1,6 +1,28 @@
 import fs from "fs";
 import { promisify } from "util";
 
+function getIsItchLink(cell = {}) {
+  const { hyperlink } = cell;
+  if (hyperlink == null) return false;
+  if (hyperlink.includes("itch.io")) return true;
+  return false;
+}
+
+function getOtherPlatform(cell) {
+  const isItchLink = getIsItchLink(cell);
+
+  if (isItchLink)
+    return {
+      name: "Itch",
+      url: cell.hyperlink,
+    };
+
+  return {
+    name: "Other",
+    url: cell?.hyperlink ?? null,
+  };
+}
+
 export function getPlatforms({
   cellXbox,
   cellNull,
@@ -36,10 +58,7 @@ export function getPlatforms({
       name: "App Store",
       url: cellAppStore?.hyperlink ?? null,
     },
-    {
-      name: "Other",
-      url: cellOther?.hyperlink ?? null,
-    },
+    getOtherPlatform(cellOther),
   ].filter(({ url }) => url != null);
 }
 
