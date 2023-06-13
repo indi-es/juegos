@@ -1,7 +1,7 @@
+import fs from "fs";
 import { google } from "googleapis";
+import { promisify } from "util";
 import "dotenv/config";
-
-import { getPlatforms, getDate, getBool, saveFile } from "./utils.js";
 
 const sheets = google.sheets("v4");
 
@@ -39,26 +39,19 @@ try {
       cellState,
     ] = values;
 
-    const platforms = getPlatforms({
-      cellXbox,
-      cellNull,
-      cellNintendo,
-      cellSteam,
-      cellPlayStation,
-      cellPlayStore,
-      cellAppStore,
-      cellOther,
-    });
-
     return {
       name: cellName?.userEnteredValue?.stringValue ?? null,
       url: cellName?.hyperlink ?? null,
-      platforms: platforms,
+      xbox: cellXbox?.hyperlink ?? null,
+      nintendo: cellNintendo?.hyperlink ?? null,
+      playStation: cellPlayStation?.hyperlink ?? null,
+      playStore: cellPlayStore?.hyperlink ?? null,
+      appStore: cellAppStore?.hyperlink ?? null,
+      other: cellOther?.hyperlink ?? null,
       crowdfunding: {
         url: cellCrowdfundingCampaign.hyperlink ?? null,
-        funded: getBool(
-          cellCrowdfundingCampaignFunded.userEnteredValue?.stringValue
-        ),
+        funded:
+          cellCrowdfundingCampaignFunded.userEnteredValue?.stringValue ?? null,
       },
       developers:
         cellDevelopers?.userEnteredValue?.stringValue
@@ -82,4 +75,16 @@ try {
   await saveFile("../../data.json", JSON.stringify(jsonFile, null, 2));
 } catch (err) {
   console.error(err);
+}
+
+export function getDate(value) {
+  if (value == null) return null;
+  const date = new Date((value - 25569) * 86400000);
+  return date.toISOString();
+}
+
+export async function saveFile(path, content) {
+  const writeFileAsync = promisify(fs.writeFile);
+  await writeFileAsync(path, content);
+  console.info(`${path} file saved`);
 }
