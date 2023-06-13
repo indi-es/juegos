@@ -1,7 +1,13 @@
 import { google } from "googleapis";
 import "dotenv/config";
 
-import { getPlatforms, getDate, getBool, saveFile } from "./utils.js";
+import {
+  getPlatforms,
+  getDate,
+  getBool,
+  saveFile,
+  getCrowdfundingLink,
+} from "./utils.js";
 
 const sheets = google.sheets("v4");
 
@@ -52,9 +58,13 @@ try {
         cellOther,
       }),
       crowdfunding: {
-        url: cellCrowdfundingCampaign.hyperlink ?? null,
+        url: getCrowdfundingLink(
+          cellCrowdfundingCampaign,
+          cellCrowdfundingCampaignFunded
+        ),
         funded: getBool(
-          cellCrowdfundingCampaignFunded.userEnteredValue?.stringValue
+          cellCrowdfundingCampaignFunded.userEnteredValue?.stringValue,
+          cellCrowdfundingCampaignFunded.hyperlink
         ),
       },
       developers:

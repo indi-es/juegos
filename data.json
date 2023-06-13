@@ -56,7 +56,7 @@
         }
       ],
       "crowdfunding": {
-        "url": "https://www.kickstarter.com/projects/halberdstudios/9-years-of-sha",
+        "url": "https://www.kickstarter.com/projects/halberdstudios/9-years-of-shadows",
         "funded": false
       },
       "developers": [
@@ -2149,7 +2149,7 @@
       ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/445840357/broken-reality-0",
-        "funded": false
+        "funded": true
       },
       "developers": [
         "Dynamic Media Triad"
@@ -3867,7 +3867,7 @@
       "platforms": [],
       "crowdfunding": {
         "url": "https://www.google.com/url?q=https://www.kickstarter.com/projects/1686713062/design-hero&sa=D&source=editors&ust=1686270297438705&usg=AOvVaw2nh0AwzS5Trs4byTnht-rd",
-        "funded": false
+        "funded": true
       },
       "developers": null,
       "publishers": null,
@@ -4543,7 +4543,7 @@
       "platforms": [],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/playstormstudios/eagle-knight-paradox",
-        "funded": false
+        "funded": true
       },
       "developers": null,
       "publishers": null,
@@ -6239,7 +6239,7 @@
       ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/alonsomartin/heart-forth-alicia",
-        "funded": false
+        "funded": true
       },
       "developers": [
         "Alonso Martin"
@@ -7197,7 +7197,7 @@
         "Create For Life Studio"
       ],
       "publishers": null,
-      "date-launch": "1905-07-14T00:00:00.000Z",
+      "date-launch": "2022-07-14T00:00:00.000Z",
       "genre": "Rompecabezas",
       "status": "Lost media"
     },
@@ -9986,8 +9986,8 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
-        "funded": false
+        "url": "https://www.kickstarter.com/projects/mechastudios/neon-city-riders-a-cyberpunk-turf-wars-action-adve",
+        "funded": true
       },
       "developers": [
         "Mecha Studios"
@@ -10487,8 +10487,8 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
-        "funded": false
+        "url": "https://www.kickstarter.com/projects/1548341006/pato-box-a-full-action-duck-fighting-experience",
+        "funded": true
       },
       "developers": [
         "Bromio",
@@ -16053,8 +16053,8 @@
       "url": null,
       "platforms": [],
       "crowdfunding": {
-        "url": null,
-        "funded": false
+        "url": "https://www.kickstarter.com/projects/1506824399/vr4e-immersive-learning",
+        "funded": true
       },
       "developers": null,
       "publishers": null,

@@ -49,7 +49,9 @@ export function getDate(value) {
   return date.toISOString();
 }
 
-export function getBool(value) {
+// Some of the columns have a True/False value some have links
+export function getBool(value, optional) {
+  if (optional != null) return true;
   if (value === "VERDADERO") return true;
   return false;
 }
@@ -58,4 +60,15 @@ export async function saveFile(path, content) {
   const writeFileAsync = promisify(fs.writeFile);
   await writeFileAsync(path, content);
   console.info(`${path} file saved`);
+}
+
+export function getCrowdfundingLink(
+  cellCrowdfundingCampaign,
+  cellCrowdfundingCampaignFunded
+) {
+  if (cellCrowdfundingCampaign.hyperlink)
+    return cellCrowdfundingCampaign.hyperlink;
+  if (cellCrowdfundingCampaignFunded.hyperlink)
+    return cellCrowdfundingCampaignFunded.hyperlink;
+  return null;
 }
