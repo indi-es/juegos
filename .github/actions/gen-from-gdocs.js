@@ -77,7 +77,10 @@ try {
           .map((item) => item.trim()) ?? null,
       "date-launch":
         getDate(cellDateLaunched?.userEnteredValue?.numberValue) ?? null,
-      genre: cellGenre?.userEnteredValue?.stringValue ?? null,
+      genre:
+        cellGenre?.userEnteredValue?.stringValue
+          ?.split(",")
+          .map((item) => item.trim()) ?? null,
       status: cellState?.userEnteredValue?.stringValue ?? null,
     };
   });

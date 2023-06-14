@@ -20,7 +20,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-02-16T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -43,7 +45,10 @@
         "Tbardo Games"
       ],
       "date-launch": "2019-06-20T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -66,7 +71,11 @@
         "Freedom Games"
       ],
       "date-launch": "2023-03-27T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -93,7 +102,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2021-07-04T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -114,7 +125,10 @@
       ],
       "publishers": null,
       "date-launch": "2020-03-23T00:00:00.000Z",
-      "genre": "Aventura, Rompecabezas",
+      "genre": [
+        "Aventura",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -151,7 +165,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-05-04T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -174,7 +190,10 @@
         "Ogre Pixel"
       ],
       "date-launch": null,
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -197,7 +216,9 @@
         "Luis León"
       ],
       "date-launch": "2022-02-14T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -215,7 +236,9 @@
         "Konami"
       ],
       "date-launch": "2010-10-12T00:00:00.000Z",
-      "genre": "Pelea",
+      "genre": [
+        "Pelea"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -236,7 +259,9 @@
       ],
       "publishers": null,
       "date-launch": "2019-10-18T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     },
     {
@@ -263,7 +288,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-05-29T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -287,7 +314,11 @@
         "Luis Calva"
       ],
       "date-launch": "2015-12-31T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -310,7 +341,9 @@
         "NachonLAB"
       ],
       "date-launch": "2022-01-30T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -333,7 +366,10 @@
         "Unosquare"
       ],
       "date-launch": "2016-06-02T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -374,7 +410,9 @@
         "Neverending Games"
       ],
       "date-launch": "2015-08-20T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -392,7 +430,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2023-05-31T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -416,7 +456,11 @@
         "Focka Games"
       ],
       "date-launch": "2020-12-01T00:00:00.000Z",
-      "genre": " Acción, Casual, Free to Play",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Free to Play"
+      ],
       "status": "Publicado"
     },
     {
@@ -439,7 +483,9 @@
         "KISS ltd"
       ],
       "date-launch": "2015-02-17T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -455,7 +501,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Desconocido"
     },
     {
@@ -487,7 +535,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Shooter",
+      "genre": [
+        "Shooter"
+      ],
       "status": "En Pausa"
     },
     {
@@ -514,7 +564,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2016-10-10T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -530,7 +583,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Novela Visual",
+      "genre": [
+        "Novela Visual"
+      ],
       "status": "Desconocido"
     },
     {
@@ -569,7 +624,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-11-19T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -590,7 +647,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-10-28T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -645,7 +704,10 @@
         "Mácula Interactive"
       ],
       "date-launch": "2020-05-02T00:00:00.000Z",
-      "genre": "Estrategia, Plataformas",
+      "genre": [
+        "Estrategia",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -661,7 +723,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -677,7 +741,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "RPG por turnos",
+      "genre": [
+        "RPG por turnos"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -697,7 +763,9 @@
         "Playten"
       ],
       "date-launch": "2001-01-01T00:00:00.000Z",
-      "genre": "Hack N´ Slash",
+      "genre": [
+        "Hack N´ Slash"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -717,7 +785,9 @@
         "Playten"
       ],
       "date-launch": "2005-01-01T00:00:00.000Z",
-      "genre": "Hack N´ Slash",
+      "genre": [
+        "Hack N´ Slash"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -740,7 +810,9 @@
         "BitAll Force"
       ],
       "date-launch": "2016-08-05T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -799,7 +871,9 @@
         "Televisa"
       ],
       "date-launch": "2016-02-29T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -822,7 +896,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-10-18T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -845,7 +921,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-10-27T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -868,7 +946,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-11-29T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -891,7 +971,9 @@
         "Spaceboy"
       ],
       "date-launch": "2023-03-07T00:00:00.000Z",
-      "genre": "Jueego de mesa",
+      "genre": [
+        "Jueego de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -914,7 +996,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-10-27T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -937,7 +1021,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2019-01-12T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -960,7 +1046,9 @@
         "Pixel Perfect Studio"
       ],
       "date-launch": "2018-11-25T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -983,7 +1071,13 @@
         "Nuclear Fiction"
       ],
       "date-launch": "2017-07-11T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie, Simuladores,",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Simuladores",
+        ""
+      ],
       "status": "Publicado"
     },
     {
@@ -1004,7 +1098,9 @@
         "GreenRetroman"
       ],
       "date-launch": "2022-01-25T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -1025,7 +1121,9 @@
         "GreenRetroman"
       ],
       "date-launch": "2022-11-11T00:00:00.000Z",
-      "genre": "Ritmo",
+      "genre": [
+        "Ritmo"
+      ],
       "status": "Publicado"
     },
     {
@@ -1048,7 +1146,9 @@
         "Art Studio VR"
       ],
       "date-launch": "2021-12-10T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -1064,7 +1164,11 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Shoot 'em up, Arcade, Acción",
+      "genre": [
+        "Shoot 'em up",
+        "Arcade",
+        "Acción"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -1091,7 +1195,11 @@
         "Digital Tribe"
       ],
       "date-launch": "2021-04-08T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -1112,7 +1220,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-02-20T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -1133,7 +1243,9 @@
         "Pale Blue Duck"
       ],
       "date-launch": "2018-08-30T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     },
     {
@@ -1168,7 +1280,9 @@
         "Televisa Home Entertainment"
       ],
       "date-launch": "2011-03-15T00:00:00.000Z",
-      "genre": "Música",
+      "genre": [
+        "Música"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -1192,7 +1306,11 @@
         "Bandai Namco"
       ],
       "date-launch": "2016-01-18T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -1231,7 +1349,9 @@
         "Pumpkin Head Studio"
       ],
       "date-launch": null,
-      "genre": "Tower Defense",
+      "genre": [
+        "Tower Defense"
+      ],
       "status": "Publicado"
     },
     {
@@ -1252,7 +1372,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-10-20T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -1275,7 +1397,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -1302,7 +1426,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2018-10-18T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -1318,7 +1445,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo, Indie",
+      "genre": [
+        "Educativo",
+        "Indie"
+      ],
       "status": "Desconocido"
     },
     {
@@ -1334,7 +1464,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "En Pausa"
     },
     {
@@ -1389,7 +1521,11 @@
         "Lienzo"
       ],
       "date-launch": "2022-03-10T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -1419,7 +1555,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Metroidvania",
+      "genre": [
+        "Metroidvania"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -1442,7 +1580,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-07-10T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -1501,7 +1641,9 @@
         "Mum Not Proud"
       ],
       "date-launch": "2016-09-05T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1522,7 +1664,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-10-31T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1540,7 +1684,9 @@
         "BigMiniGeek"
       ],
       "date-launch": "2022-01-01T00:00:00.000Z",
-      "genre": "Minigame",
+      "genre": [
+        "Minigame"
+      ],
       "status": "Publicado"
     },
     {
@@ -1563,7 +1709,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-28T00:00:00.000Z",
-      "genre": "Acción, Casual",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -1590,7 +1739,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-29T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -1606,7 +1757,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-01-07T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1629,7 +1782,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-12-18T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1652,7 +1807,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-06-13T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -1675,7 +1832,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2019-11-16T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -1755,7 +1914,9 @@
         "Cometa Games"
       ],
       "date-launch": "2020-12-08T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1776,7 +1937,10 @@
       ],
       "publishers": null,
       "date-launch": "2021-12-29T00:00:00.000Z",
-      "genre": "Rol, Aventura",
+      "genre": [
+        "Rol",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -1815,7 +1979,10 @@
         "Gamera Games"
       ],
       "date-launch": "2025-11-02T00:00:00.000Z",
-      "genre": "Horror, Superviviencia",
+      "genre": [
+        "Horror",
+        "Superviviencia"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -1838,7 +2005,10 @@
         "Tres Pixeles"
       ],
       "date-launch": "2020-11-03T00:00:00.000Z",
-      "genre": "Supervivencia, Aventura",
+      "genre": [
+        "Supervivencia",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -1854,7 +2024,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Metroidvania",
+      "genre": [
+        "Metroidvania"
+      ],
       "status": "Desconocido"
     },
     {
@@ -1870,7 +2042,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Survival",
+      "genre": [
+        "Survival"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -1889,7 +2063,9 @@
         "LLC"
       ],
       "date-launch": "2016-07-21T00:00:00.000Z",
-      "genre": "Apuestas",
+      "genre": [
+        "Apuestas"
+      ],
       "status": "Publicado"
     },
     {
@@ -1914,7 +2090,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-10-22T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -1937,7 +2115,9 @@
         "Man Eater Games"
       ],
       "date-launch": "2017-07-25T00:00:00.000Z",
-      "genre": "Indie",
+      "genre": [
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -1960,7 +2140,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-26T00:00:00.000Z",
-      "genre": "Acción, Casual",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -1981,7 +2164,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-05-06T00:00:00.000Z",
-      "genre": "Plataforma",
+      "genre": [
+        "Plataforma"
+      ],
       "status": "Publicado"
     },
     {
@@ -2004,7 +2189,9 @@
         "Tortuga Axel"
       ],
       "date-launch": "2016-12-14T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -2027,7 +2214,12 @@
         "Blusagi Team"
       ],
       "date-launch": null,
-      "genre": " Acción, Aventura, Indie, Simuladores",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -2114,7 +2306,9 @@
       ],
       "publishers": null,
       "date-launch": "2013-09-06T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -2135,7 +2329,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Multijugador local, Casual",
+      "genre": [
+        "Multijugador local",
+        "Casual"
+      ],
       "status": "Preservado"
     },
     {
@@ -2158,7 +2355,10 @@
         "Digital Tribe"
       ],
       "date-launch": "2018-11-29T00:00:00.000Z",
-      "genre": " Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -2181,7 +2381,11 @@
         "Digital Tribe"
       ],
       "date-launch": null,
-      "genre": "Aventura, Casual, Indie",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -2224,7 +2428,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-24T00:00:00.000Z",
-      "genre": "Acción, Casual",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2240,7 +2447,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "No comercial"
     },
     {
@@ -2261,7 +2470,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-07-15T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -2300,7 +2511,9 @@
         "Spaceboy"
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -2327,7 +2540,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2019-03-28T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2345,7 +2561,10 @@
         "NotDoppler"
       ],
       "date-launch": "2012-01-01T00:00:00.000Z",
-      "genre": "Acción, Rompecabezas",
+      "genre": [
+        "Acción",
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -2361,7 +2580,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Lost media"
     },
     {
@@ -2382,7 +2603,10 @@
       ],
       "publishers": null,
       "date-launch": "2019-08-26T00:00:00.000Z",
-      "genre": "Acción, Corredor Infinito",
+      "genre": [
+        "Acción",
+        "Corredor Infinito"
+      ],
       "status": "Publicado"
     },
     {
@@ -2398,7 +2622,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-05-14T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -2421,7 +2647,9 @@
         "Minibuu"
       ],
       "date-launch": "2019-01-25T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -2444,7 +2672,9 @@
         "Minibuu"
       ],
       "date-launch": "2021-06-23T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2467,7 +2697,9 @@
         "El Faro Studios"
       ],
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -2490,7 +2722,10 @@
         "Dracma Studios"
       ],
       "date-launch": "2023-05-31T00:00:00.000Z",
-      "genre": " Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -2531,7 +2766,10 @@
         "Neverending Games"
       ],
       "date-launch": "2018-02-11T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2562,7 +2800,10 @@
         "Patoli Studio"
       ],
       "date-launch": "2020-10-28T00:00:00.000Z",
-      "genre": "Arcade, Casual",
+      "genre": [
+        "Arcade",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2615,7 +2856,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-05-14T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -2647,7 +2890,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción, Disparos",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
       "status": "Desconocido"
     },
     {
@@ -2670,7 +2916,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-09-19T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -2691,7 +2939,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-07-09T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -2712,7 +2962,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-06-24T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -2737,7 +2989,9 @@
         "Cataxis"
       ],
       "date-launch": "2023-04-08T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -2758,7 +3012,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-01-23T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -2774,7 +3030,10 @@
       ],
       "publishers": null,
       "date-launch": "2015-07-15T00:00:00.000Z",
-      "genre": "Hack N´ Slash, Corredor Infinito",
+      "genre": [
+        "Hack N´ Slash",
+        "Corredor Infinito"
+      ],
       "status": "Lost media"
     },
     {
@@ -2797,7 +3056,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-09-11T00:00:00.000Z",
-      "genre": "Casual, Estrategia",
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -2820,7 +3082,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2010-08-31T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -2847,7 +3111,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2017-05-24T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -2870,7 +3137,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2022-12-17T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -2886,7 +3155,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Lost media"
     },
     {
@@ -2902,7 +3173,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -2918,7 +3191,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-07-31T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Lost media"
     },
     {
@@ -2941,7 +3216,9 @@
         "Luisquid"
       ],
       "date-launch": "2020-07-12T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -2973,7 +3250,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Lost media"
     },
     {
@@ -2996,7 +3275,9 @@
         "Big Mini Geek"
       ],
       "date-launch": "2017-10-31T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -3043,7 +3324,9 @@
         "Gargamel Estudio"
       ],
       "date-launch": "2018-02-08T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -3077,7 +3360,9 @@
         "Cartoon Network"
       ],
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Novela Interactiva",
+      "genre": [
+        "Novela Interactiva"
+      ],
       "status": "Lost media"
     },
     {
@@ -3100,7 +3385,9 @@
         "FockaGames"
       ],
       "date-launch": "2022-08-22T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -3127,7 +3414,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2017-02-07T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3154,7 +3444,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2019-03-21T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3177,7 +3470,9 @@
         "Spaceboy"
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3198,7 +3493,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-08-07T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3221,7 +3518,11 @@
         "Lobosandia"
       ],
       "date-launch": "2022-02-02T00:00:00.000Z",
-      "genre": " Casual, Indie, Deportes",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -3242,7 +3543,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-02-26T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -3279,7 +3582,10 @@
       ],
       "publishers": null,
       "date-launch": "2021-06-06T00:00:00.000Z",
-      "genre": "Plataformas, Rompecabezas",
+      "genre": [
+        "Plataformas",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3316,7 +3622,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-01-25T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3332,7 +3640,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Ritmo, Acción",
+      "genre": [
+        "Ritmo",
+        "Acción"
+      ],
       "status": "No comercial"
     },
     {
@@ -3355,7 +3666,10 @@
         "Gustavo Oribe Mendieta"
       ],
       "date-launch": "2019-05-03T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -3378,7 +3692,9 @@
         "Minibuu"
       ],
       "date-launch": "2018-08-08T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -3401,7 +3717,10 @@
         "Minibuu"
       ],
       "date-launch": "2021-05-13T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3424,7 +3743,10 @@
         "Minibuu"
       ],
       "date-launch": "2017-05-30T00:00:00.000Z",
-      "genre": "Educativo, Casual",
+      "genre": [
+        "Educativo",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3445,7 +3767,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-11-22T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3461,7 +3785,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Lost media"
     },
     {
@@ -3477,7 +3803,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Realidad Aumentada",
+      "genre": [
+        "Realidad Aumentada"
+      ],
       "status": "Lost media"
     },
     {
@@ -3493,7 +3821,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Realidad Aumentada",
+      "genre": [
+        "Realidad Aumentada"
+      ],
       "status": "Lost media"
     },
     {
@@ -3518,7 +3848,9 @@
         "Wood Dice"
       ],
       "date-launch": "2020-07-19T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -3534,7 +3866,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Desconocido"
     },
     {
@@ -3550,7 +3884,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Lost media"
     },
     {
@@ -3587,7 +3923,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Preservado"
     },
     {
@@ -3612,7 +3950,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-07-27T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -3637,7 +3977,10 @@
       ],
       "publishers": null,
       "date-launch": "2014-12-05T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3655,7 +3998,9 @@
         "Cristobal Sacmex"
       ],
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -3687,7 +4032,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-07-26T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Lost media"
     },
     {
@@ -3703,7 +4050,9 @@
       ],
       "publishers": null,
       "date-launch": "2010-01-01T00:00:00.000Z",
-      "genre": "Minigame",
+      "genre": [
+        "Minigame"
+      ],
       "status": "No comercial"
     },
     {
@@ -3726,7 +4075,9 @@
         "BitAll Force"
       ],
       "date-launch": "2022-10-25T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -3763,7 +4114,9 @@
         "MoFunZone"
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Lost media"
     },
     {
@@ -3789,7 +4142,9 @@
         "Luis León"
       ],
       "date-launch": "2021-10-04T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -3826,7 +4181,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2021-04-28T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3842,7 +4199,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Desconocido"
     },
     {
@@ -3895,7 +4254,9 @@
         "BitAll Force"
       ],
       "date-launch": "2016-07-24T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3934,7 +4295,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-24T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -3957,7 +4320,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2013-08-15T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -3978,7 +4343,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-07-17T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -4001,7 +4368,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2017-10-27T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -4022,7 +4391,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-05-17T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -4050,7 +4421,9 @@
         "Pictoline Games"
       ],
       "date-launch": "2022-09-16T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -4073,7 +4446,10 @@
         "Matrixcore Studio"
       ],
       "date-launch": "2023-10-23T00:00:00.000Z",
-      "genre": "Platformer, Aventura",
+      "genre": [
+        "Platformer",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4096,7 +4472,9 @@
         "Germán Coronel"
       ],
       "date-launch": "2021-05-06T00:00:00.000Z",
-      "genre": "Inifnite Runner",
+      "genre": [
+        "Inifnite Runner"
+      ],
       "status": "Publicado"
     },
     {
@@ -4119,7 +4497,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2022-05-25T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -4144,7 +4524,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-06-04T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -4169,7 +4551,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-09-01T00:00:00.000Z",
-      "genre": "Peleas",
+      "genre": [
+        "Peleas"
+      ],
       "status": "Publicado"
     },
     {
@@ -4208,7 +4592,11 @@
         "Focka Games"
       ],
       "date-launch": "2018-02-22T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -4279,7 +4667,9 @@
         "Fenomeno Mx"
       ],
       "date-launch": "2022-02-27T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -4295,7 +4685,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Apuestas",
+      "genre": [
+        "Apuestas"
+      ],
       "status": "No comercial"
     },
     {
@@ -4318,7 +4710,11 @@
         "Amano Games"
       ],
       "date-launch": null,
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4341,7 +4737,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-07-23T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -4364,7 +4762,9 @@
         "LunarCrown"
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -4382,7 +4782,10 @@
         "FockaGames"
       ],
       "date-launch": null,
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4398,7 +4801,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-01-01T00:00:00.000Z",
-      "genre": "Realidad aumentada",
+      "genre": [
+        "Realidad aumentada"
+      ],
       "status": "Lost media"
     },
     {
@@ -4435,7 +4840,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2021-04-11T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -4451,7 +4858,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -4474,7 +4883,10 @@
         "Addictive Games"
       ],
       "date-launch": "2020-01-01T00:00:00.000Z",
-      "genre": "Deportes, Acción",
+      "genre": [
+        "Deportes",
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -4513,7 +4925,10 @@
         "NachonLAB"
       ],
       "date-launch": "2020-08-26T00:00:00.000Z",
-      "genre": "Supervivencia, Horror",
+      "genre": [
+        "Supervivencia",
+        "Horror"
+      ],
       "status": "Publicado"
     },
     {
@@ -4534,7 +4949,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura y acción",
+      "genre": [
+        "Aventura y acción"
+      ],
       "status": "Lost media"
     },
     {
@@ -4601,7 +5018,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-11-21T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -4640,7 +5059,10 @@
         "Medio Inestable"
       ],
       "date-launch": null,
-      "genre": "Carreras, Aventura",
+      "genre": [
+        "Carreras",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4658,7 +5080,9 @@
         "Slang Studio"
       ],
       "date-launch": "2014-02-21T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -4697,7 +5121,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-08-07T00:00:00.000Z",
-      "genre": "Supervivencia, Horror",
+      "genre": [
+        "Supervivencia",
+        "Horror"
+      ],
       "status": "Publicado"
     },
     {
@@ -4720,7 +5147,11 @@
         "Sketchy Ceviche"
       ],
       "date-launch": "2022-07-03T00:00:00.000Z",
-      "genre": "Acción, Casual, Indie",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -4741,7 +5172,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4762,7 +5195,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-01-12T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -4801,7 +5236,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-11-08T00:00:00.000Z",
-      "genre": "Aventura, Educativo",
+      "genre": [
+        "Aventura",
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -4817,7 +5255,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -4833,7 +5273,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -4858,7 +5300,9 @@
         "Luis León"
       ],
       "date-launch": "2022-12-15T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -4879,7 +5323,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-08T00:00:00.000Z",
-      "genre": "Ritmo, Plataformas",
+      "genre": [
+        "Ritmo",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -4895,7 +5342,9 @@
       ],
       "publishers": null,
       "date-launch": "2003-01-01T00:00:00.000Z",
-      "genre": "Multijugador masivo",
+      "genre": [
+        "Multijugador masivo"
+      ],
       "status": "Cancelado"
     },
     {
@@ -4918,7 +5367,9 @@
         "Dream Dog"
       ],
       "date-launch": "2022-09-07T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -4941,7 +5392,9 @@
         "Gamejam"
       ],
       "date-launch": "2020-09-26T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -4957,7 +5410,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-04-21T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Desconocido"
     },
     {
@@ -4994,7 +5449,9 @@
       ],
       "publishers": null,
       "date-launch": "2001-11-10T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Lost media"
     },
     {
@@ -5017,7 +5474,9 @@
         "Create For Life Studio"
       ],
       "date-launch": "2019-08-13T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -5058,7 +5517,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2023-03-06T00:00:00.000Z",
-      "genre": "Aventura, Casual",
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -5089,7 +5551,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-21T00:00:00.000Z",
-      "genre": "Casual, Simuladores",
+      "genre": [
+        "Casual",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -5110,7 +5575,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-12-24T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5133,7 +5600,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-08-15T00:00:00.000Z",
-      "genre": "Casual, Estrategia",
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5164,7 +5634,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-08-28T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -5187,7 +5659,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-08-19T00:00:00.000Z",
-      "genre": "Casual, Estrategia",
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5218,7 +5693,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-10-02T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5239,7 +5716,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-06-29T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -5262,7 +5741,9 @@
         "Tortuga Axel"
       ],
       "date-launch": "2018-08-10T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -5315,7 +5796,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-06-06T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -5336,7 +5819,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-06-04T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5357,7 +5842,10 @@
       ],
       "publishers": null,
       "date-launch": "2023-04-21T00:00:00.000Z",
-      "genre": "Plataformas, Estrategia",
+      "genre": [
+        "Plataformas",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5378,7 +5866,9 @@
         "Flynet Studios"
       ],
       "date-launch": "2013-06-29T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -5394,7 +5884,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Apuestas",
+      "genre": [
+        "Apuestas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -5425,7 +5917,11 @@
         "Games Starter"
       ],
       "date-launch": "2017-04-07T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -5446,7 +5942,9 @@
         "Kara Okulta"
       ],
       "date-launch": "2018-10-16T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -5485,7 +5983,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-05-08T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -5506,7 +6006,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-04-08T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -5527,7 +6029,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "MMORPG",
+      "genre": [
+        "MMORPG"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -5550,7 +6054,9 @@
         "Minibuu"
       ],
       "date-launch": "2017-11-03T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -5573,7 +6079,10 @@
         "Incisor Studios"
       ],
       "date-launch": "2021-07-15T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -5594,7 +6103,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-05-28T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -5617,7 +6128,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2014-09-18T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -5638,7 +6151,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-06-30T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -5659,7 +6174,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-05-16T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -5682,7 +6199,9 @@
         "Fenomeno Mx"
       ],
       "date-launch": "2022-01-23T00:00:00.000Z",
-      "genre": "Roguelite",
+      "genre": [
+        "Roguelite"
+      ],
       "status": "Publicado"
     },
     {
@@ -5719,7 +6238,9 @@
         "Flynet Studios"
       ],
       "date-launch": "2018-06-27T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -5735,7 +6256,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Desconocido"
     },
     {
@@ -5779,7 +6302,10 @@
         "Hammerbyte Games"
       ],
       "date-launch": "2023-12-29T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -5798,7 +6324,9 @@
         "Facebook"
       ],
       "date-launch": "2016-10-20T00:00:00.000Z",
-      "genre": "Ritmo",
+      "genre": [
+        "Ritmo"
+      ],
       "status": "Lost media"
     },
     {
@@ -5839,7 +6367,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-02-16T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -5860,7 +6390,10 @@
       ],
       "publishers": null,
       "date-launch": "2023-05-15T00:00:00.000Z",
-      "genre": "Acción, Disparos",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -5881,7 +6414,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Platformer",
+      "genre": [
+        "Platformer"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -5897,7 +6432,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -5920,7 +6457,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-11-05T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     },
     {
@@ -5938,7 +6477,9 @@
         "The CocaCola Company UK"
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -6005,7 +6546,11 @@
         "Team 17"
       ],
       "date-launch": "2021-08-17T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -6040,7 +6585,12 @@
         "ESTACION PI Y DISEÑO"
       ],
       "date-launch": "2019-11-22T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie, Estrategia",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -6062,7 +6612,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción Aventura",
+      "genre": [
+        "Acción Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -6078,7 +6630,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Lost media"
     },
     {
@@ -6101,7 +6655,9 @@
         "Spaceboy"
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6122,7 +6678,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -6149,7 +6707,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2020-07-19T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -6170,7 +6732,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -6186,7 +6750,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "¿?",
+      "genre": [
+        "¿?"
+      ],
       "status": "Desconocido"
     },
     {
@@ -6209,7 +6775,9 @@
         "Kara Okulta"
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -6246,7 +6814,12 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción, Aventura, Indie, Rol",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Rol"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -6267,7 +6840,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-10-23T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6283,7 +6858,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Lost media"
     },
     {
@@ -6299,7 +6876,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Combate",
+      "genre": [
+        "Combate"
+      ],
       "status": "Cancelado"
     },
     {
@@ -6320,7 +6899,11 @@
       ],
       "publishers": null,
       "date-launch": "2022-10-22T00:00:00.000Z",
-      "genre": "Plataformas, Carreras, Acción",
+      "genre": [
+        "Plataformas",
+        "Carreras",
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -6339,7 +6922,9 @@
         "NotDoppler"
       ],
       "date-launch": "2010-01-01T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Lost media"
     },
     {
@@ -6355,7 +6940,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-07-17T00:00:00.000Z",
-      "genre": "Beat em up",
+      "genre": [
+        "Beat em up"
+      ],
       "status": "Lost media"
     },
     {
@@ -6389,7 +6976,11 @@
         "Torito Game Studios"
       ],
       "date-launch": "2018-06-01T00:00:00.000Z",
-      "genre": "RPG, Rompecabezas, Pelea",
+      "genre": [
+        "RPG",
+        "Rompecabezas",
+        "Pelea"
+      ],
       "status": "Lost media"
     },
     {
@@ -6412,7 +7003,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-03-23T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6433,7 +7026,9 @@
         "Neverending Games"
       ],
       "date-launch": "2016-05-17T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -6465,7 +7060,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -6486,7 +7083,10 @@
       ],
       "publishers": null,
       "date-launch": "2019-02-28T00:00:00.000Z",
-      "genre": "Ritmo, Plataformas",
+      "genre": [
+        "Ritmo",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6507,7 +7107,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-04-03T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6525,7 +7127,9 @@
         "MATEL & KELLOGG's"
       ],
       "date-launch": "2007-01-01T00:00:00.000Z",
-      "genre": "Advergame",
+      "genre": [
+        "Advergame"
+      ],
       "status": "Lost media"
     },
     {
@@ -6541,7 +7145,10 @@
       ],
       "publishers": null,
       "date-launch": "2019-06-03T00:00:00.000Z",
-      "genre": "Carreras, Multijudaor Online",
+      "genre": [
+        "Carreras",
+        "Multijudaor Online"
+      ],
       "status": "No comercial"
     },
     {
@@ -6562,7 +7169,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-02-24T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -6611,7 +7220,11 @@
         "Lienzo"
       ],
       "date-launch": "2016-07-19T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -6632,7 +7245,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-01-08T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6659,7 +7274,10 @@
         "Man Eater Games"
       ],
       "date-launch": "2022-06-29T00:00:00.000Z",
-      "genre": "Indie, Simuladores",
+      "genre": [
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -6682,7 +7300,10 @@
         "1 Simple Game"
       ],
       "date-launch": null,
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -6698,7 +7319,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Desconocido"
     },
     {
@@ -6739,7 +7362,9 @@
         "Neverending Games"
       ],
       "date-launch": "2019-04-04T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -6767,7 +7392,9 @@
         "HyperBeard Games"
       ],
       "date-launch": "2023-01-17T00:00:00.000Z",
-      "genre": "Idle",
+      "genre": [
+        "Idle"
+      ],
       "status": "Publicado"
     },
     {
@@ -6799,7 +7426,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "RPG",
+      "genre": [
+        "RPG"
+      ],
       "status": "Desconocido"
     },
     {
@@ -6844,7 +7473,9 @@
         "Patoli Studio"
       ],
       "date-launch": "2018-05-21T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -6865,7 +7496,9 @@
         "Gargamel Estudio"
       ],
       "date-launch": "2018-03-22T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -6883,7 +7516,9 @@
         "Innovu"
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -6906,7 +7541,9 @@
         "Minibuu"
       ],
       "date-launch": "2018-12-26T00:00:00.000Z",
-      "genre": "Música",
+      "genre": [
+        "Música"
+      ],
       "status": "Publicado"
     },
     {
@@ -6938,7 +7575,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -6961,7 +7600,9 @@
         "Spaceboy"
       ],
       "date-launch": "2022-11-11T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -7005,7 +7646,12 @@
         "EnsenaSoft"
       ],
       "date-launch": "2022-10-10T00:00:00.000Z",
-      "genre": "Aventura, Casual, Indie, Simuladores",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -7028,7 +7674,10 @@
         "Merlino Games"
       ],
       "date-launch": "2023-04-05T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -7063,7 +7712,11 @@
         "Tortuga Axel"
       ],
       "date-launch": "2022-08-25T00:00:00.000Z",
-      "genre": "Aventura, Indie, Estrategia",
+      "genre": [
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -7106,7 +7759,10 @@
         "Indienauts"
       ],
       "date-launch": null,
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -7122,7 +7778,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Lost media"
     },
     {
@@ -7143,7 +7801,9 @@
       ],
       "publishers": null,
       "date-launch": "2019-11-01T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -7168,7 +7828,9 @@
         "Neverending Games"
       ],
       "date-launch": "2017-04-21T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -7182,7 +7844,9 @@
       "developers": null,
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Cancelado"
     },
     {
@@ -7198,7 +7862,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-07-14T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -7233,7 +7899,10 @@
         "Private Division"
       ],
       "date-launch": "2015-04-27T00:00:00.000Z",
-      "genre": "Indie, Simuladores",
+      "genre": [
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -7251,7 +7920,9 @@
         "Akkad"
       ],
       "date-launch": "2015-01-01T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -7278,7 +7949,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2020-05-12T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7296,7 +7970,10 @@
         "We The Force Studios"
       ],
       "date-launch": null,
-      "genre": "Accion, Plataformas",
+      "genre": [
+        "Accion",
+        "Plataformas"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -7319,7 +7996,9 @@
         "Kinelga"
       ],
       "date-launch": "2020-06-30T00:00:00.000Z",
-      "genre": "Ritmo",
+      "genre": [
+        "Ritmo"
+      ],
       "status": "Publicado"
     },
     {
@@ -7351,7 +8030,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Metroidvania, Hack N´ Slash",
+      "genre": [
+        "Metroidvania",
+        "Hack N´ Slash"
+      ],
       "status": "Desconocido"
     },
     {
@@ -7373,7 +8055,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -7396,7 +8080,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-18T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7423,7 +8109,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2016-02-02T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7450,7 +8139,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2018-03-14T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7468,7 +8160,9 @@
         "HyperBeard Games"
       ],
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -7513,7 +8207,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2019-11-05T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7540,7 +8237,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2018-07-17T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7564,7 +8264,10 @@
         "Oribe Ware"
       ],
       "date-launch": "2023-01-15T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -7633,7 +8336,11 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura, Indie, Rol",
+      "genre": [
+        "Aventura",
+        "Indie",
+        "Rol"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -7722,7 +8429,11 @@
         "War Industries Games"
       ],
       "date-launch": "2020-05-15T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -7743,7 +8454,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-11-22T00:00:00.000Z",
-      "genre": "Ficción interactiva",
+      "genre": [
+        "Ficción interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -7759,7 +8472,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción, Disparos",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
       "status": "Desconocido"
     },
     {
@@ -7780,7 +8496,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-04-18T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -7801,7 +8519,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-11-06T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -7840,7 +8560,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-11-30T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -7867,7 +8589,9 @@
         "Richmond Publishing SA de CV"
       ],
       "date-launch": "2016-04-11T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -7906,7 +8630,10 @@
         "Carbon Incubator"
       ],
       "date-launch": "2017-04-13T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -8025,7 +8752,10 @@
         "Blusagi Team"
       ],
       "date-launch": "2022-12-09T00:00:00.000Z",
-      "genre": "Indie, Simulación",
+      "genre": [
+        "Indie",
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -8046,7 +8776,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-05-20T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -8081,7 +8813,10 @@
         "Ogre Pixel"
       ],
       "date-launch": "2022-11-01T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -8102,7 +8837,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-08-21T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -8145,7 +8882,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2020-05-14T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -8184,7 +8923,12 @@
         "Kavorkaplay"
       ],
       "date-launch": "2019-10-16T00:00:00.000Z",
-      "genre": " Casual, Indie, Simuladores, Estrategia",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -8200,7 +8944,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Beat´em All",
+      "genre": [
+        "Beat´em All"
+      ],
       "status": "En Pausa"
     },
     {
@@ -8216,7 +8962,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Beat em up",
+      "genre": [
+        "Beat em up"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -8241,7 +8989,11 @@
       ],
       "publishers": null,
       "date-launch": "2023-04-15T00:00:00.000Z",
-      "genre": "Plataformas, Acción, Aventura",
+      "genre": [
+        "Plataformas",
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -8268,7 +9020,11 @@
         "Merlino Games"
       ],
       "date-launch": "2023-02-22T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -8295,7 +9051,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-06-08T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8322,7 +9080,9 @@
         "GNP Seguros"
       ],
       "date-launch": "2016-11-03T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8357,7 +9117,11 @@
         "Alternative Software Ltd"
       ],
       "date-launch": "2020-05-14T00:00:00.000Z",
-      "genre": "Acción, Casual, Indie",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -8399,7 +9163,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-09-08T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -8422,7 +9188,10 @@
         "Tagwizz"
       ],
       "date-launch": "2020-03-14T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -8457,7 +9226,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2020-05-20T00:00:00.000Z",
-      "genre": "Casual, Estrategia",
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -8480,7 +9252,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-20T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8519,7 +9293,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-04-22T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8550,7 +9326,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-06-17T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8585,7 +9363,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-17T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -8601,7 +9381,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Tower Defense",
+      "genre": [
+        "Tower Defense"
+      ],
       "status": "Lost media"
     },
     {
@@ -8624,7 +9406,9 @@
         "Freedom Games"
       ],
       "date-launch": null,
-      "genre": "Metroidvania",
+      "genre": [
+        "Metroidvania"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -8647,7 +9431,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2010-07-09T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -8674,7 +9460,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2021-06-17T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -8690,7 +9478,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -8708,7 +9498,9 @@
         "MATEL & KELLOGG's"
       ],
       "date-launch": "2007-01-01T00:00:00.000Z",
-      "genre": "Advergame",
+      "genre": [
+        "Advergame"
+      ],
       "status": "Lost media"
     },
     {
@@ -8729,7 +9521,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-04-13T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -8798,7 +9592,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-01-29T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -8814,7 +9610,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Metroidvania",
+      "genre": [
+        "Metroidvania"
+      ],
       "status": "Cancelado"
     },
     {
@@ -8837,7 +9635,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-01-21T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -8874,7 +9674,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-01-25T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -8895,7 +9697,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-04-29T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     },
     {
@@ -8916,7 +9720,10 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -8939,7 +9746,9 @@
         "Minibuu"
       ],
       "date-launch": "2023-01-20T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -8960,7 +9769,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-04-27T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -8976,7 +9787,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Desconocido"
     },
     {
@@ -8997,7 +9810,12 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción, Aventura, Indie, Rol",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Rol"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -9024,7 +9842,12 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-05-25T00:00:00.000Z",
-      "genre": "Acción, Aventura, Casual, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -9047,7 +9870,10 @@
         "Xibalba Studios"
       ],
       "date-launch": "2016-07-12T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -9068,7 +9894,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-03-13T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9095,7 +9923,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-05-10T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9118,7 +9948,9 @@
         "Patoli Studio"
       ],
       "date-launch": "2019-12-02T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9139,7 +9971,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-02-08T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -9162,7 +9996,11 @@
         "Unboxed Games LLC"
       ],
       "date-launch": "2020-08-18T00:00:00.000Z",
-      "genre": "Casual, Indie, Estrategia",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -9189,7 +10027,13 @@
         "Etherlight"
       ],
       "date-launch": "2023-06-01T00:00:00.000Z",
-      "genre": "Plataforma, Puzzle, Rpg, Aventura, Bullet-Hell",
+      "genre": [
+        "Plataforma",
+        "Puzzle",
+        "Rpg",
+        "Aventura",
+        "Bullet-Hell"
+      ],
       "status": "Publicado"
     },
     {
@@ -9208,7 +10052,9 @@
         "NotDoppler"
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Lost media"
     },
     {
@@ -9226,7 +10072,9 @@
         "Big Bear Animation Company S.A de C.V"
       ],
       "date-launch": "2023-06-15T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -9257,7 +10105,9 @@
         "Big Bear Animation Company S.A de C.V"
       ],
       "date-launch": "2022-12-20T00:00:00.000Z",
-      "genre": "Endless Runner",
+      "genre": [
+        "Endless Runner"
+      ],
       "status": "Publicado"
     },
     {
@@ -9299,7 +10149,9 @@
         "Eldritch Games"
       ],
       "date-launch": "2021-11-26T00:00:00.000Z",
-      "genre": "Tower Defense",
+      "genre": [
+        "Tower Defense"
+      ],
       "status": "Publicado"
     },
     {
@@ -9320,7 +10172,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-11-19T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9354,7 +10208,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9377,7 +10233,11 @@
         "Man Eater Games"
       ],
       "date-launch": "2021-06-23T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -9404,7 +10264,11 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-05-03T00:00:00.000Z",
-      "genre": "Acción, Casual, Estrategia",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -9427,7 +10291,11 @@
         "Soul Shell"
       ],
       "date-launch": "2023-03-09T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -9445,7 +10313,10 @@
         "Mosha Games"
       ],
       "date-launch": "2024-04-01T00:00:00.000Z",
-      "genre": "RPG Online, Casual",
+      "genre": [
+        "RPG Online",
+        "Casual"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -9482,7 +10353,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -9509,7 +10382,10 @@
         "1 Simple Game"
       ],
       "date-launch": "2018-11-01T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9548,7 +10424,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-10-14T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9575,7 +10453,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2015-11-25T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -9606,7 +10486,11 @@
         "Lienzo"
       ],
       "date-launch": "2018-02-27T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -9629,7 +10513,10 @@
         "PLAYISM"
       ],
       "date-launch": "2016-05-13T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -9650,7 +10537,10 @@
       ],
       "publishers": null,
       "date-launch": "2016-03-16T00:00:00.000Z",
-      "genre": "Acción, RPG",
+      "genre": [
+        "Acción",
+        "RPG"
+      ],
       "status": "Publicado"
     },
     {
@@ -9673,7 +10563,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-10-25T00:00:00.000Z",
-      "genre": " Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -9696,7 +10589,10 @@
         "Tagwizz"
       ],
       "date-launch": "2022-03-14T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9719,7 +10615,10 @@
         "Tagwizz"
       ],
       "date-launch": "2020-11-19T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9742,7 +10641,10 @@
         "Tagwizz"
       ],
       "date-launch": "2020-11-19T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9765,7 +10667,10 @@
         "Tagwizz"
       ],
       "date-launch": "2021-08-16T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9788,7 +10693,10 @@
         "Tagwizz"
       ],
       "date-launch": "2020-04-25T00:00:00.000Z",
-      "genre": "Música, Rompecabezas",
+      "genre": [
+        "Música",
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9811,7 +10719,9 @@
         "Medio Inestable"
       ],
       "date-launch": null,
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -9838,7 +10748,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2022-08-02T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9859,7 +10772,9 @@
         "Neverending Games"
       ],
       "date-launch": "2019-05-31T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9882,7 +10797,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-26T00:00:00.000Z",
-      "genre": "Aventura, Casual",
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -9903,7 +10821,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-12T00:00:00.000Z",
-      "genre": "Acción, Disparos",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -9940,7 +10861,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-30T00:00:00.000Z",
-      "genre": "Pelea",
+      "genre": [
+        "Pelea"
+      ],
       "status": "Publicado"
     },
     {
@@ -9961,7 +10884,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-12-15T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -9997,7 +10922,12 @@
         "Gamera Games"
       ],
       "date-launch": "2020-03-12T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie, Rol",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Rol"
+      ],
       "status": "Publicado"
     },
     {
@@ -10018,7 +10948,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -10039,7 +10971,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-02-20T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10063,7 +10997,9 @@
         "Hollow Games"
       ],
       "date-launch": "2022-05-26T00:00:00.000Z",
-      "genre": "Rol",
+      "genre": [
+        "Rol"
+      ],
       "status": "Publicado"
     },
     {
@@ -10093,7 +11029,9 @@
       "developers": null,
       "publishers": null,
       "date-launch": "2019-01-01T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Lost media"
     },
     {
@@ -10111,7 +11049,9 @@
         "Addictive Games"
       ],
       "date-launch": "2016-01-01T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Lost media"
     },
     {
@@ -10134,7 +11074,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-05-09T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -10150,7 +11092,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -10197,7 +11141,9 @@
         "Patoli Studio"
       ],
       "date-launch": "2022-11-18T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10213,7 +11159,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -10252,7 +11200,9 @@
         "Matrixcore Studio"
       ],
       "date-launch": "2022-07-16T00:00:00.000Z",
-      "genre": "Corredor Infinito",
+      "genre": [
+        "Corredor Infinito"
+      ],
       "status": "Publicado"
     },
     {
@@ -10268,7 +11218,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -10291,7 +11243,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-07-12T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -10332,7 +11286,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-11-08T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10350,7 +11306,9 @@
         "BIMBO"
       ],
       "date-launch": "2011-01-01T00:00:00.000Z",
-      "genre": "Social",
+      "genre": [
+        "Social"
+      ],
       "status": "Lost media"
     },
     {
@@ -10384,7 +11342,9 @@
         "Crala Studio"
       ],
       "date-launch": "2020-05-24T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -10400,7 +11360,9 @@
         "Kara Okulta"
       ],
       "date-launch": null,
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Lost media"
     },
     {
@@ -10423,7 +11385,9 @@
         "Medio Inestable"
       ],
       "date-launch": "2021-08-16T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10446,7 +11410,9 @@
         "Juan Enrique Pedraza Rejon"
       ],
       "date-launch": "2016-01-15T00:00:00.000Z",
-      "genre": " Indie",
+      "genre": [
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -10462,7 +11428,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -10498,7 +11466,11 @@
         "Bromio"
       ],
       "date-launch": "2018-03-15T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -10516,7 +11488,10 @@
         "Focka Games"
       ],
       "date-launch": null,
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -10557,7 +11532,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-12-01T00:00:00.000Z",
-      "genre": "Mascota virtual",
+      "genre": [
+        "Mascota virtual"
+      ],
       "status": "Publicado"
     },
     {
@@ -10578,7 +11555,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-08-31T00:00:00.000Z",
-      "genre": "Corredor Infinito",
+      "genre": [
+        "Corredor Infinito"
+      ],
       "status": "Publicado"
     },
     {
@@ -10605,7 +11584,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-06-06T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -10626,7 +11607,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-09-05T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10647,7 +11630,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-09-13T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10688,7 +11673,9 @@
         "Patoli Studio"
       ],
       "date-launch": "2022-10-27T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10711,7 +11698,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-12-26T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -10735,7 +11724,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-10-12T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10762,7 +11753,9 @@
         "Richmond Publishing SA de CV"
       ],
       "date-launch": "2017-08-11T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -10783,7 +11776,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-06-26T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -10804,7 +11799,9 @@
         "GreenRetroman"
       ],
       "date-launch": "2020-02-10T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -10825,7 +11822,9 @@
       ],
       "publishers": null,
       "date-launch": "1973-01-01T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -10852,7 +11851,9 @@
         "HyperBeard Games"
       ],
       "date-launch": "2019-07-16T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -10875,7 +11876,11 @@
         "EnsenaSoft"
       ],
       "date-launch": "2017-08-23T00:00:00.000Z",
-      "genre": " Acción, Casual, Indie",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -10900,7 +11905,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-06-27T00:00:00.000Z",
-      "genre": "Corredor Infinito",
+      "genre": [
+        "Corredor Infinito"
+      ],
       "status": "Publicado"
     },
     {
@@ -10918,7 +11925,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": null,
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -10934,7 +11943,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Desconocido"
     },
     {
@@ -10955,7 +11966,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-02-19T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -10971,7 +11984,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-09-11T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -10994,7 +12009,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2019-05-30T00:00:00.000Z",
-      "genre": " Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -11037,7 +12056,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2022-02-08T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11064,7 +12086,10 @@
         "Dog Biscuit Studios"
       ],
       "date-launch": "2023-03-29T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11102,7 +12127,10 @@
       ],
       "publishers": null,
       "date-launch": "2021-03-30T00:00:00.000Z",
-      "genre": "Acción, FPS",
+      "genre": [
+        "Acción",
+        "FPS"
+      ],
       "status": "Publicado"
     },
     {
@@ -11145,7 +12173,10 @@
         "Funky Can Creative"
       ],
       "date-launch": "2022-04-14T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11168,7 +12199,10 @@
         "Pandita Studio"
       ],
       "date-launch": "2021-01-21T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11191,7 +12225,11 @@
         "Scorpius Games"
       ],
       "date-launch": "2020-10-29T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11214,7 +12252,10 @@
         "Intertum"
       ],
       "date-launch": "2020-01-27T00:00:00.000Z",
-      "genre": " Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11237,7 +12278,9 @@
         "Juan Enrique Pedraza Rejon"
       ],
       "date-launch": "2017-11-21T00:00:00.000Z",
-      "genre": "Indie",
+      "genre": [
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11253,7 +12296,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -11276,7 +12321,9 @@
         "Sabarasa Inc."
       ],
       "date-launch": "2010-08-20T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Descontinuado"
     },
     {
@@ -11299,7 +12346,11 @@
         "Minibuu"
       ],
       "date-launch": "2022-02-14T00:00:00.000Z",
-      "genre": "Simulación, Casual, Sandbox",
+      "genre": [
+        "Simulación",
+        "Casual",
+        "Sandbox"
+      ],
       "status": "Publicado"
     },
     {
@@ -11320,7 +12371,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-08-23T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11338,7 +12391,10 @@
         "TheWingedBlue"
       ],
       "date-launch": "2020-11-20T00:00:00.000Z",
-      "genre": " Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11391,7 +12447,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Desconocido"
     },
     {
@@ -11409,7 +12467,10 @@
         "Snake & Eagle"
       ],
       "date-launch": null,
-      "genre": "Simulación, Disparos",
+      "genre": [
+        "Simulación",
+        "Disparos"
+      ],
       "status": "Cancelado"
     },
     {
@@ -11430,7 +12491,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -11453,7 +12516,10 @@
         "Amano Games"
       ],
       "date-launch": "2020-07-04T00:00:00.000Z",
-      "genre": "Rompecabezas, Plataformas",
+      "genre": [
+        "Rompecabezas",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -11515,7 +12581,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-19T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11536,7 +12604,9 @@
         "GreenRetroman"
       ],
       "date-launch": "2021-05-01T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11557,7 +12627,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-06-25T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -11603,7 +12675,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-06-10T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11630,7 +12704,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-09-12T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -11651,7 +12727,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-09-27T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -11672,7 +12750,12 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-25T00:00:00.000Z",
-      "genre": "Disparos, Acción, Rol, Novela Visual",
+      "genre": [
+        "Disparos",
+        "Acción",
+        "Rol",
+        "Novela Visual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11711,7 +12794,9 @@
         "OneGameStudio"
       ],
       "date-launch": "2023-04-27T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11734,7 +12819,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2020-11-01T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11752,7 +12839,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2020-11-01T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11775,7 +12864,11 @@
         "Lemoonpie Games"
       ],
       "date-launch": "2019-11-03T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -11812,7 +12905,9 @@
         "Neverending Games"
       ],
       "date-launch": "2019-05-15T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -11833,7 +12928,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-12-27T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -11856,7 +12953,9 @@
         "Minibuu"
       ],
       "date-launch": "2019-05-22T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11877,7 +12976,9 @@
       ],
       "publishers": null,
       "date-launch": "2002-06-06T00:00:00.000Z",
-      "genre": "Peleas",
+      "genre": [
+        "Peleas"
+      ],
       "status": "Preservado"
     },
     {
@@ -11900,7 +13001,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2013-04-05T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -11939,7 +13043,9 @@
         "Mum Not Proud"
       ],
       "date-launch": "2019-07-24T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -11962,7 +13068,9 @@
         "Ogre Pixel"
       ],
       "date-launch": null,
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -11986,7 +13094,9 @@
         "Cataxis"
       ],
       "date-launch": "2022-04-12T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -12041,7 +13151,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-06-27T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12064,7 +13176,10 @@
         "We The Force Studios"
       ],
       "date-launch": "2017-06-06T00:00:00.000Z",
-      "genre": "Accion, Plataformas",
+      "genre": [
+        "Accion",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12093,7 +13208,11 @@
         "Fayer"
       ],
       "date-launch": "2021-10-08T00:00:00.000Z",
-      "genre": "Aventura, Acción, Plataformas",
+      "genre": [
+        "Aventura",
+        "Acción",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12116,7 +13235,10 @@
         "GamesStarter"
       ],
       "date-launch": "2021-10-29T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -12132,7 +13254,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-07-08T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -12155,7 +13279,10 @@
         "BeWolf Studio"
       ],
       "date-launch": "2020-10-27T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -12178,7 +13305,11 @@
         "Bromio"
       ],
       "date-launch": "2023-05-04T00:00:00.000Z",
-      "genre": "Acción, Indie, Estrategia",
+      "genre": [
+        "Acción",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12213,7 +13344,11 @@
         "EnsenaSoft"
       ],
       "date-launch": "2019-08-27T00:00:00.000Z",
-      "genre": "Acción, Indie, Carreras",
+      "genre": [
+        "Acción",
+        "Indie",
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -12229,7 +13364,9 @@
         "Kara Okulta"
       ],
       "date-launch": null,
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Lost media"
     },
     {
@@ -12248,7 +13385,9 @@
         "Focka Games"
       ],
       "date-launch": "2023-06-30T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -12296,7 +13435,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -12317,7 +13458,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-07-26T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12342,7 +13485,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-10-18T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -12365,7 +13510,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2021-06-03T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -12404,7 +13551,9 @@
         "OddlyWare Studio"
       ],
       "date-launch": "2023-02-07T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -12441,7 +13590,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-04-05T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -12457,7 +13608,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Corredor Infinito",
+      "genre": [
+        "Corredor Infinito"
+      ],
       "status": "En Pausa"
     },
     {
@@ -12480,7 +13633,13 @@
         "Seashell Studio"
       ],
       "date-launch": "2022-11-04T00:00:00.000Z",
-      "genre": " Acción, Casual, Indie, Carreras, Estrategia",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie",
+        "Carreras",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12503,7 +13662,9 @@
         "Big Mini Geek"
       ],
       "date-launch": "2021-07-21T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -12524,7 +13685,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-05-10T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12542,7 +13705,9 @@
         "Samsung México"
       ],
       "date-launch": "2009-01-01T00:00:00.000Z",
-      "genre": "Advergame",
+      "genre": [
+        "Advergame"
+      ],
       "status": "Lost media"
     },
     {
@@ -12560,7 +13725,9 @@
         "Samsung México"
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
-      "genre": "Advergame",
+      "genre": [
+        "Advergame"
+      ],
       "status": "Lost media"
     },
     {
@@ -12583,7 +13750,10 @@
         "2D Nutz"
       ],
       "date-launch": "2016-01-28T00:00:00.000Z",
-      "genre": "Corredor infinito, Arcade",
+      "genre": [
+        "Corredor infinito",
+        "Arcade"
+      ],
       "status": "Lost media"
     },
     {
@@ -12601,7 +13771,9 @@
         "Afterlife Game Studios"
       ],
       "date-launch": "2017-09-07T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -12624,7 +13796,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2019-11-18T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -12640,7 +13814,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Novela Visual",
+      "genre": [
+        "Novela Visual"
+      ],
       "status": "Desconocido"
     },
     {
@@ -12712,7 +13888,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-10-19T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12730,7 +13908,10 @@
         "Juan Enrique Pedraza Rejon"
       ],
       "date-launch": null,
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -12753,7 +13934,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2022-05-24T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -12774,7 +13957,10 @@
         "Secret Neighbor | Official Group"
       ],
       "date-launch": "2023-06-09T00:00:00.000Z",
-      "genre": "Aventura, Supervivencia",
+      "genre": [
+        "Aventura",
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12806,7 +13992,9 @@
       ],
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -12840,7 +14028,10 @@
         "Bromio"
       ],
       "date-launch": "2019-07-30T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -12871,7 +14062,10 @@
         "Colossal Head Games"
       ],
       "date-launch": "2020-11-03T00:00:00.000Z",
-      "genre": "Acción, Disparos",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -12896,7 +14090,12 @@
         "Ramón Alberto Campos Martir"
       ],
       "date-launch": "2021-07-24T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie, Estrategia",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12917,7 +14116,9 @@
       ],
       "publishers": null,
       "date-launch": "2012-12-17T00:00:00.000Z",
-      "genre": "Sala de juegos",
+      "genre": [
+        "Sala de juegos"
+      ],
       "status": "Publicado"
     },
     {
@@ -12933,7 +14134,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12954,7 +14157,10 @@
       ],
       "publishers": null,
       "date-launch": "2016-08-20T00:00:00.000Z",
-      "genre": "Simulación, Parodia",
+      "genre": [
+        "Simulación",
+        "Parodia"
+      ],
       "status": "Publicado"
     },
     {
@@ -12975,7 +14181,9 @@
       ],
       "publishers": null,
       "date-launch": "2011-08-11T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -12996,7 +14204,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-08-25T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13012,7 +14222,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Lost media"
     },
     {
@@ -13033,7 +14245,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-09-02T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -13054,7 +14268,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-11-25T00:00:00.000Z",
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13070,7 +14286,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -13091,7 +14309,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-06-10T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -13114,7 +14334,11 @@
         "Megalixir Games"
       ],
       "date-launch": "2021-04-23T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -13130,7 +14354,11 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas, Aventura, Indie",
+      "genre": [
+        "Plataformas",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Cancelado"
     },
     {
@@ -13153,7 +14381,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-09-15T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -13176,7 +14407,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2014-09-24T00:00:00.000Z",
-      "genre": "Juegos de mesa",
+      "genre": [
+        "Juegos de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -13213,7 +14446,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-06-17T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -13238,7 +14473,11 @@
         "Render Farm Studios"
       ],
       "date-launch": "2018-10-31T00:00:00.000Z",
-      "genre": "Acción, Free to Play, Indie",
+      "genre": [
+        "Acción",
+        "Free to Play",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -13286,7 +14525,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Desconocido"
     },
     {
@@ -13302,7 +14543,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-10-17T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Lost media"
     },
     {
@@ -13341,7 +14584,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2019-10-19T00:00:00.000Z",
-      "genre": " Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -13362,7 +14609,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2021-06-20T00:00:00.000Z",
-      "genre": "Cartas",
+      "genre": [
+        "Cartas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13399,7 +14648,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-04-01T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -13420,7 +14671,9 @@
         "Neverending Games"
       ],
       "date-launch": "2021-01-17T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -13460,7 +14713,9 @@
         "Tortuga Axel"
       ],
       "date-launch": "2017-02-15T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13483,7 +14738,10 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-10-03T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -13499,7 +14757,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Lost media"
     },
     {
@@ -13522,7 +14782,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2019-12-05T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     },
     {
@@ -13545,7 +14807,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2019-12-05T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -13566,7 +14830,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-03-29T00:00:00.000Z",
-      "genre": "Estrategia, Simulación",
+      "genre": [
+        "Estrategia",
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -13587,7 +14854,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-02-03T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -13635,7 +14904,9 @@
         "Richmond Publishing SA de CV"
       ],
       "date-launch": "2016-04-21T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -13649,7 +14920,9 @@
       "developers": null,
       "publishers": null,
       "date-launch": null,
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "No comercial"
     },
     {
@@ -13681,7 +14954,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-09-28T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Lost media"
     },
     {
@@ -13720,7 +14995,9 @@
         "Matrixcore Studio"
       ],
       "date-launch": "2021-02-20T00:00:00.000Z",
-      "genre": "Party Game",
+      "genre": [
+        "Party Game"
+      ],
       "status": "Publicado"
     },
     {
@@ -13763,7 +15040,11 @@
         "Nuke Games"
       ],
       "date-launch": "2019-04-02T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -13784,7 +15065,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-06-10T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13841,7 +15124,10 @@
         "Minibuu"
       ],
       "date-launch": "2022-05-12T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -13868,7 +15154,10 @@
         "HyperBeard Games"
       ],
       "date-launch": "2022-03-08T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -13891,7 +15180,9 @@
         "Create For Life Studio"
       ],
       "date-launch": "2020-11-04T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -13918,7 +15209,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-09-29T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -13939,7 +15233,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-07-17T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -13964,7 +15260,10 @@
       ],
       "publishers": null,
       "date-launch": "2017-08-30T00:00:00.000Z",
-      "genre": "Rol, Casual",
+      "genre": [
+        "Rol",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -13980,7 +15279,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -14001,7 +15302,10 @@
       ],
       "publishers": null,
       "date-launch": "2013-08-15T00:00:00.000Z",
-      "genre": "Acción, Aventura",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -14076,7 +15380,9 @@
         "Fayer"
       ],
       "date-launch": "2020-10-31T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14099,7 +15405,10 @@
         "Minibuu"
       ],
       "date-launch": "2017-05-04T00:00:00.000Z",
-      "genre": "Siimulación, Casual",
+      "genre": [
+        "Siimulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14122,7 +15431,9 @@
         "Minibuu"
       ],
       "date-launch": "2023-02-10T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -14145,7 +15456,10 @@
         "Minibuu"
       ],
       "date-launch": "2018-01-04T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14168,7 +15482,10 @@
         "Minibuu"
       ],
       "date-launch": "2016-10-29T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14191,7 +15508,10 @@
         "Minibuu"
       ],
       "date-launch": "2021-02-26T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14214,7 +15534,9 @@
         "Minibuu"
       ],
       "date-launch": "2022-06-02T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14237,7 +15559,9 @@
         "Minibuu"
       ],
       "date-launch": "2022-01-18T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -14260,7 +15584,10 @@
         "Minibuu"
       ],
       "date-launch": "2018-04-14T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14283,7 +15610,10 @@
         "Minibuu"
       ],
       "date-launch": "2020-01-16T00:00:00.000Z",
-      "genre": "Simulación, Casual",
+      "genre": [
+        "Simulación",
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14306,7 +15636,9 @@
         "Minibuu"
       ],
       "date-launch": "2022-04-18T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -14327,7 +15659,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-03-31T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14348,7 +15682,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-03-07T00:00:00.000Z",
-      "genre": "Rompecabezas, Plataformas",
+      "genre": [
+        "Rompecabezas",
+        "Plataformas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14369,7 +15706,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-08-19T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14390,7 +15729,9 @@
       ],
       "publishers": null,
       "date-launch": "2018-10-17T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -14411,7 +15752,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14452,7 +15795,9 @@
         "Merlino Games"
       ],
       "date-launch": "2021-07-13T00:00:00.000Z",
-      "genre": "Indie",
+      "genre": [
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -14473,7 +15818,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-11-12T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14500,7 +15847,10 @@
         "Third World Productions"
       ],
       "date-launch": "2023-02-17T00:00:00.000Z",
-      "genre": "Aventura, Indie",
+      "genre": [
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -14523,7 +15873,10 @@
         "Man Eater Games"
       ],
       "date-launch": null,
-      "genre": " Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -14539,7 +15892,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Lost media"
     },
     {
@@ -14562,7 +15917,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-07-26T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -14583,7 +15940,9 @@
         "Neverending Games"
       ],
       "date-launch": "2016-09-30T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -14599,7 +15958,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "No comercial"
     },
     {
@@ -14615,7 +15976,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Desconocido"
     },
     {
@@ -14636,7 +15999,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-11-05T00:00:00.000Z",
-      "genre": "Cartas",
+      "genre": [
+        "Cartas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14695,7 +16060,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2019-11-13T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -14730,7 +16099,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2020-11-02T00:00:00.000Z",
-      "genre": "Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -14753,7 +16126,12 @@
         "WingedSwordStudios"
       ],
       "date-launch": "2019-09-29T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie, Estrategia",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -14776,7 +16154,11 @@
         "Amano Games"
       ],
       "date-launch": "2020-02-27T00:00:00.000Z",
-      "genre": "Rol, Aventura, Disparos",
+      "genre": [
+        "Rol",
+        "Aventura",
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -14799,7 +16181,9 @@
         "1 Simple Game"
       ],
       "date-launch": "2020-07-24T00:00:00.000Z",
-      "genre": "Música",
+      "genre": [
+        "Música"
+      ],
       "status": "Publicado"
     },
     {
@@ -14820,7 +16204,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-08-30T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14836,7 +16222,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas",
+      "genre": [
+        "Plataformas"
+      ],
       "status": "Desconocido"
     },
     {
@@ -14859,7 +16247,11 @@
         "Bearboy"
       ],
       "date-launch": "2020-12-04T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -14880,7 +16272,9 @@
         "Calix Jumio"
       ],
       "date-launch": "2020-10-24T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -14940,7 +16334,12 @@
         "Michiyuki Project"
       ],
       "date-launch": "2022-04-15T00:00:00.000Z",
-      "genre": "Aventura, Casual, Free to Play, Simuladores",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Free to Play",
+        "Simuladores"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -14979,7 +16378,11 @@
         "Dog Biscuit Studios"
       ],
       "date-launch": "2024-11-20T00:00:00.000Z",
-      "genre": "Aventura, RPG, Indie",
+      "genre": [
+        "Aventura",
+        "RPG",
+        "Indie"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -15032,7 +16435,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -15048,7 +16453,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Cancelado"
     },
     {
@@ -15064,7 +16471,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -15087,7 +16496,11 @@
         "UnChild Games"
       ],
       "date-launch": "2020-02-12T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -15123,7 +16536,9 @@
         "BitAll Force"
       ],
       "date-launch": "2016-01-01T00:00:00.000Z",
-      "genre": "Realidad Aumentada",
+      "genre": [
+        "Realidad Aumentada"
+      ],
       "status": "Lost media"
     },
     {
@@ -15146,7 +16561,9 @@
         "BigMiniGeek"
       ],
       "date-launch": "2021-05-25T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -15167,7 +16584,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-12-09T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "Publicado"
     },
     {
@@ -15183,7 +16602,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Horror",
+      "genre": [
+        "Horror"
+      ],
       "status": "Lost media"
     },
     {
@@ -15204,7 +16625,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-08-22T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -15225,7 +16648,10 @@
       ],
       "publishers": null,
       "date-launch": "2020-08-21T00:00:00.000Z",
-      "genre": "Rompecabezas, Estrategia",
+      "genre": [
+        "Rompecabezas",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -15250,7 +16676,9 @@
       ],
       "publishers": null,
       "date-launch": "2019-02-14T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15271,7 +16699,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-07-09T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15313,7 +16743,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-05-04T00:00:00.000Z",
-      "genre": "Estrategia",
+      "genre": [
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -15334,7 +16766,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-06-11T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15350,7 +16784,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -15366,7 +16802,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "No comercial"
     },
     {
@@ -15391,7 +16829,9 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-27T00:00:00.000Z",
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Publicado"
     },
     {
@@ -15414,7 +16854,12 @@
         "Kara Okulta"
       ],
       "date-launch": "2016-03-03T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie, Carreras",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -15451,7 +16896,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-03-19T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "Publicado"
     },
     {
@@ -15467,7 +16914,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Corredor infinito",
+      "genre": [
+        "Corredor infinito"
+      ],
       "status": "Lost media"
     },
     {
@@ -15488,7 +16937,9 @@
       ],
       "publishers": null,
       "date-launch": "2023-02-21T00:00:00.000Z",
-      "genre": "Narrativa",
+      "genre": [
+        "Narrativa"
+      ],
       "status": "Publicado"
     },
     {
@@ -15527,7 +16978,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-01-15T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -15550,7 +17003,11 @@
         "Camera Games"
       ],
       "date-launch": "2018-05-08T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -15573,7 +17030,10 @@
         "Deathly Ideas"
       ],
       "date-launch": "2016-11-10T00:00:00.000Z",
-      "genre": "Acción, Indie",
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -15604,7 +17064,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2012-08-28T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15631,7 +17093,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-08-19T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -15662,7 +17126,9 @@
         "EnsenaSoft"
       ],
       "date-launch": "2013-08-15T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15698,7 +17164,9 @@
         "Volcano Studios"
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Lost media"
     },
     {
@@ -15719,7 +17187,11 @@
       ],
       "publishers": null,
       "date-launch": "2020-04-22T00:00:00.000Z",
-      "genre": "Aventura, Acción, Rol",
+      "genre": [
+        "Aventura",
+        "Acción",
+        "Rol"
+      ],
       "status": "Publicado"
     },
     {
@@ -15769,7 +17241,9 @@
         "La Panza Producciones"
       ],
       "date-launch": "2008-01-01T00:00:00.000Z",
-      "genre": "Advergame",
+      "genre": [
+        "Advergame"
+      ],
       "status": "Lost media"
     },
     {
@@ -15792,7 +17266,9 @@
         "Tortuga Axel"
       ],
       "date-launch": "2019-09-27T00:00:00.000Z",
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -15842,7 +17318,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-10-08T00:00:00.000Z",
-      "genre": "Carreras",
+      "genre": [
+        "Carreras"
+      ],
       "status": "No comercial"
     },
     {
@@ -15865,7 +17343,9 @@
         "Tres Pixeles"
       ],
       "date-launch": "2020-03-05T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -15888,7 +17368,9 @@
         "Gnomael Games"
       ],
       "date-launch": "2020-05-21T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -15911,7 +17393,9 @@
         "Indie Bonus Stage"
       ],
       "date-launch": "2020-05-23T00:00:00.000Z",
-      "genre": "Casual",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -15929,7 +17413,9 @@
         "Amano Games"
       ],
       "date-launch": "2020-05-29T00:00:00.000Z",
-      "genre": "Supervivencia",
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -15952,7 +17438,10 @@
         "2Dnutz"
       ],
       "date-launch": "2015-10-15T00:00:00.000Z",
-      "genre": "Acción, Corredor infinito",
+      "genre": [
+        "Acción",
+        "Corredor infinito"
+      ],
       "status": "Lost media"
     },
     {
@@ -15975,7 +17464,11 @@
         "EnsenaSoft"
       ],
       "date-launch": "2017-04-04T00:00:00.000Z",
-      "genre": "Acción, Casual, Indie",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -16002,7 +17495,11 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-08-17T00:00:00.000Z",
-      "genre": " Casual, Simuladores, Deportes",
+      "genre": [
+        "Casual",
+        "Simuladores",
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -16018,7 +17515,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Aventura",
+      "genre": [
+        "Aventura"
+      ],
       "status": "Desconocido"
     },
     {
@@ -16045,7 +17544,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2017-06-08T00:00:00.000Z",
-      "genre": "Casual, Simuladores",
+      "genre": [
+        "Casual",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -16096,7 +17598,10 @@
       ],
       "publishers": null,
       "date-launch": "2022-04-12T00:00:00.000Z",
-      "genre": "Plataformas, Disparos",
+      "genre": [
+        "Plataformas",
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -16121,7 +17626,9 @@
       ],
       "publishers": null,
       "date-launch": "2016-05-31T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -16142,7 +17649,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-10-20T00:00:00.000Z",
-      "genre": "Disparos",
+      "genre": [
+        "Disparos"
+      ],
       "status": "Publicado"
     },
     {
@@ -16158,7 +17667,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Desconocido"
     },
     {
@@ -16181,7 +17692,9 @@
         "Watanoge"
       ],
       "date-launch": "2023-04-24T00:00:00.000Z",
-      "genre": "Simulación",
+      "genre": [
+        "Simulación"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -16202,7 +17715,9 @@
       ],
       "publishers": null,
       "date-launch": "2015-12-02T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -16225,7 +17740,9 @@
         "Cristobal Sacmex"
       ],
       "date-launch": "2018-12-21T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -16267,7 +17784,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-12-29T00:00:00.000Z",
-      "genre": "Ficción Interactiva",
+      "genre": [
+        "Ficción Interactiva"
+      ],
       "status": "Publicado"
     },
     {
@@ -16290,7 +17809,10 @@
         "EnsenaSoft"
       ],
       "date-launch": "2016-09-27T00:00:00.000Z",
-      "genre": "Casual, Indie",
+      "genre": [
+        "Casual",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -16313,7 +17835,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2019-07-30T00:00:00.000Z",
-      "genre": " Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -16336,7 +17862,11 @@
         "Kavorkaplay"
       ],
       "date-launch": "2020-02-24T00:00:00.000Z",
-      "genre": " Casual, Indie, Simuladores",
+      "genre": [
+        "Casual",
+        "Indie",
+        "Simuladores"
+      ],
       "status": "Publicado"
     },
     {
@@ -16352,7 +17882,9 @@
       ],
       "publishers": null,
       "date-launch": "2017-07-26T00:00:00.000Z",
-      "genre": "Horror",
+      "genre": [
+        "Horror"
+      ],
       "status": "Lost media"
     },
     {
@@ -16389,7 +17921,9 @@
         "Flynet Studios"
       ],
       "date-launch": "2015-02-03T00:00:00.000Z",
-      "genre": "Deportes",
+      "genre": [
+        "Deportes"
+      ],
       "status": "Publicado"
     },
     {
@@ -16412,7 +17946,12 @@
         "EnsenaSoft"
       ],
       "date-launch": "2018-06-15T00:00:00.000Z",
-      "genre": "Acción, Aventura, Indie, Estrategia",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie",
+        "Estrategia"
+      ],
       "status": "Publicado"
     },
     {
@@ -16428,7 +17967,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Rompecabezas",
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -16451,7 +17992,9 @@
         "Create For Life Studio"
       ],
       "date-launch": "2020-04-07T00:00:00.000Z",
-      "genre": "Juego de mesa",
+      "genre": [
+        "Juego de mesa"
+      ],
       "status": "Publicado"
     },
     {
@@ -16467,7 +18010,9 @@
       ],
       "publishers": null,
       "date-launch": "2000-01-01T00:00:00.000Z",
-      "genre": "RTS",
+      "genre": [
+        "RTS"
+      ],
       "status": "Cancelado"
     },
     {
@@ -16490,7 +18035,12 @@
         "Evil Geomtry"
       ],
       "date-launch": null,
-      "genre": " Acción, Indie, Simuladores, Deportes",
+      "genre": [
+        "Acción",
+        "Indie",
+        "Simuladores",
+        "Deportes"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -16529,7 +18079,11 @@
         "Reef Software"
       ],
       "date-launch": "2020-11-13T00:00:00.000Z",
-      "genre": " Acción, Aventura, Indie",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
       "status": "Publicado"
     },
     {
@@ -16550,7 +18104,9 @@
       ],
       "publishers": null,
       "date-launch": "2021-10-23T00:00:00.000Z",
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -16568,7 +18124,9 @@
         "Bromio"
       ],
       "date-launch": "2021-09-10T00:00:00.000Z",
-      "genre": "Acción",
+      "genre": [
+        "Acción"
+      ],
       "status": "Publicado"
     },
     {
@@ -16584,7 +18142,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Educativo",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Lost media"
     },
     {
@@ -16600,7 +18160,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": "Plataformas 3D",
+      "genre": [
+        "Plataformas 3D"
+      ],
       "status": "Cancelado"
     },
     {
@@ -16621,7 +18183,9 @@
       ],
       "publishers": null,
       "date-launch": "2020-10-03T00:00:00.000Z",
-      "genre": "Arcade",
+      "genre": [
+        "Arcade"
+      ],
       "status": "Publicado"
     }
   ]
