@@ -11805,11 +11805,11 @@
       "status": "Publicado"
     },
     {
-      "name": "Ping Pong (Tenis), Futbolito y Squash",
+      "name": " Consola Nesa Pong: Ping Pong (Tenis), Futbolito y Squash",
       "url": null,
       "platforms": [
         {
-          "name": "Xbox",
+          "name": "Other",
           "url": "https://drive.google.com/file/d/17MG4RWS2smxN4LNg19gncc5PRy_gMeE9/view?usp=sharing"
         }
       ],
@@ -13295,11 +13295,11 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
+        "url": "https://www.kickstarter.com/projects/1548341006/rfm-a-strategic-roguelike-where-time-is-on-your-side",
         "funded": false
       },
       "developers": [
-        "VERDADERO"
+        "Bromio"
       ],
       "publishers": [
         "Bromio"
@@ -17566,8 +17566,13 @@
     },
     {
       "name": "VRaptor",
-      "url": "https://drive.google.com/file/d/1LJeF1RMlJUtyspzLJmo1j5w_FJbIzbIK/view?usp=sharing",
-      "platforms": [],
+      "url": null,
+      "platforms": [
+        {
+          "name": "Other",
+          "url": "https://drive.google.com/file/d/1LJeF1RMlJUtyspzLJmo1j5w_FJbIzbIK/view?usp=sharing"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
