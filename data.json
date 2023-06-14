@@ -62,7 +62,7 @@
       ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/halberdstudios/9-years-of-shadows",
-        "funded": false
+        "funded": true
       },
       "developers": [
         "Halberd Studios"
@@ -1147,7 +1147,7 @@
       ],
       "date-launch": "2021-12-10T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -2576,7 +2576,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": null,
       "date-launch": null,
@@ -2857,7 +2857,7 @@
       "publishers": null,
       "date-launch": "2023-05-14T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "En Desarrollo"
     },
@@ -3951,7 +3951,7 @@
       "publishers": null,
       "date-launch": "2021-07-27T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -4668,7 +4668,7 @@
       ],
       "date-launch": "2022-02-27T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -7056,7 +7056,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": null,
       "date-launch": null,
@@ -7774,7 +7774,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": null,
       "date-launch": null,
@@ -8154,7 +8154,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": [
         "HyperBeard Games"
@@ -8777,7 +8777,7 @@
       "publishers": null,
       "date-launch": "2021-05-20T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -8804,7 +8804,7 @@
       ],
       "crowdfunding": {
         "url": null,
-        "funded": false
+        "funded": true
       },
       "developers": [
         "Ogre Pixel"
@@ -9747,7 +9747,7 @@
       ],
       "date-launch": "2023-01-20T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -12728,7 +12728,7 @@
       "publishers": null,
       "date-launch": "2018-09-27T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -13663,7 +13663,7 @@
       ],
       "date-launch": "2021-07-21T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -14310,7 +14310,7 @@
       "publishers": null,
       "date-launch": "2021-06-10T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -14672,7 +14672,7 @@
       ],
       "date-launch": "2021-01-17T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -14753,7 +14753,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": null,
       "date-launch": null,
@@ -16562,7 +16562,7 @@
       ],
       "date-launch": "2021-05-25T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -16585,7 +16585,7 @@
       "publishers": null,
       "date-launch": "2020-12-09T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "Publicado"
     },
@@ -17693,7 +17693,7 @@
       ],
       "date-launch": "2023-04-24T00:00:00.000Z",
       "genre": [
-        "Simulación"
+        "Simuladores"
       ],
       "status": "En Desarrollo"
     },
@@ -17963,7 +17963,7 @@
         "funded": false
       },
       "developers": [
-        "Tokio Play"
+        "Tokyo Play"
       ],
       "publishers": null,
       "date-launch": null,

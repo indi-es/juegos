@@ -13,7 +13,7 @@ const sheets = google.sheets("v4");
 
 const sheetID = `1qZNjZOXthLsm_NQynQ2VOPgVUMK6hfAuLeTj1HG-bV0`;
 const sheetName = `Videojuegos mexicanos`;
-const sheetRange = `A8:P807`;
+const sheetRange = `A9:P808`;
 const API_KEY = process.env.GOOGLE_API_KEY;
 const request = {
   spreadsheetId: sheetID,
@@ -45,8 +45,9 @@ try {
       cellState,
     ] = values;
 
+    const name = cellName?.userEnteredValue?.stringValue ?? null;
     return {
-      name: cellName?.userEnteredValue?.stringValue ?? null,
+      name: name,
       url: cellName?.hyperlink ?? null,
       platforms: getPlatforms({
         cellXbox,
@@ -63,7 +64,7 @@ try {
           cellCrowdfundingCampaignFunded
         ),
         funded: getBool(
-          cellCrowdfundingCampaignFunded.userEnteredValue?.stringValue,
+          cellCrowdfundingCampaignFunded.userEnteredValue,
           cellCrowdfundingCampaignFunded.hyperlink
         ),
       },

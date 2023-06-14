@@ -66,9 +66,11 @@ export function getDate(value) {
 }
 
 // Some of the columns have a True/False value some have links
-export function getBool(value, optional) {
+export function getBool(cell, optional) {
+  const { boolValue, stringValue } = cell || {};
   if (optional != null) return true;
-  if (value === "VERDADERO") return true;
+  if (stringValue === "VERDADERO") return true;
+  if (boolValue === true) return true;
   return false;
 }
 
