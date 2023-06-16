@@ -1,6 +1,104 @@
 {
   "games": [
     {
+      "name": " Consola Nesa Pong: Ping Pong (Tenis), Futbolito y Squash",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://drive.google.com/file/d/17MG4RWS2smxN4LNg19gncc5PRy_gMeE9/view?usp=sharing"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ing. Morris Behar (Padre del desarrollo de videojuegos en México)"
+      ],
+      "publishers": null,
+      "date-launch": "1973-01-01T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Descontinuado"
+    },
+    {
+      "name": "¡Llévele, llévele!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.llevelellevele2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "¿Dónde está Gomita?",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.gomita2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-14T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "2048 Destruction Balls",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.destructionballs"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-05-17T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "3 Minute Mahjong",
       "url": null,
       "platforms": [
@@ -22,6 +120,29 @@
       "date-launch": "2018-02-16T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "30 Seconds or DEATH",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.diegovz01.thirtysecondsordeath"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "OddlyWare Studio"
+      ],
+      "date-launch": "2017-11-07T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -347,6 +468,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Acqua Race",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.acquarace"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-01-30T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Adele Following The Signs",
       "url": null,
       "platforms": [
@@ -432,6 +578,54 @@
       "date-launch": "2023-05-31T00:00:00.000Z",
       "genre": [
         "Ficción Interactiva"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Aerial Silks",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.aerialsilks"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado"
+    },
+    {
+      "name": "Aero fever",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.aerofever"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-08T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -630,6 +824,27 @@
       "status": "Publicado"
     },
     {
+      "name": "Alt-Play: Jason Rohrer Anthology",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.es/Juegos/Nintendo-DSiWare/Alt-Play-Jason-Rohrer-Anthology-261619.html"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Sabarasa Entertainment"
+      ],
+      "date-launch": "2010-12-31T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "Altar de muertos ",
       "url": null,
       "platforms": [
@@ -649,6 +864,30 @@
       "date-launch": "2021-10-28T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Amicu",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.amicu2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-11T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -729,6 +968,29 @@
       "status": "Desconocido"
     },
     {
+      "name": "Animondos' Horror Gallery",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2011-03-08T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Another Crusade ",
       "url": null,
       "platforms": [],
@@ -789,6 +1051,52 @@
         "Hack N´ Slash"
       ],
       "status": "Descontinuado"
+    },
+    {
+      "name": "Aoyama and Furious",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2009-02-25T00:00:00.000Z",
+      "genre": [
+        "Deportes",
+        "Carreras"
+      ],
+      "status": "Lost media"
+    },
+    {
+      "name": "Aoyama Gones wild",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2008-05-06T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Disparos"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Aplasta malos",
@@ -1027,6 +1335,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Arbol Ramon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.arbolramon"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2016-10-29T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Arcade Defender",
       "url": null,
       "platforms": [
@@ -1077,6 +1409,31 @@
         "Indie",
         "Simulación",
         ""
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Arm Boy",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.armboy"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-18T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -1249,6 +1606,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Atrapame",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.atrapame2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Atres Pasos",
       "url": null,
       "platforms": [],
@@ -1353,6 +1734,24 @@
         "Tower Defense"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Aventuras de un Halcon Walktrough",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mazatlanonline"
+      ],
+      "publishers": null,
+      "date-launch": "2011-01-01T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Awakalipsis",
@@ -1745,6 +2144,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Base 10",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.base102"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-12T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Bastard Blocks",
       "url": null,
       "platforms": [],
@@ -1836,6 +2259,29 @@
         "Carreras"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Beach Poker Fantasy",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2011-01-01T00:00:00.000Z",
+      "genre": [
+        "Deportes",
+        "Apuestas"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Beacon The Awakening",
@@ -2008,6 +2454,31 @@
       "genre": [
         "Supervivencia",
         "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Big Crusher",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.bigcrasher"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-09-26T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -2253,6 +2724,81 @@
       "status": "Desconocido"
     },
     {
+      "name": "BodyWars",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/developer?id=Black+and+Pink+Indie+Games"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Black and Pink Indie Games"
+      ],
+      "publishers": [
+        "Black and Pink Indie Games"
+      ],
+      "date-launch": "2020-06-15T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Bolo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.bolo2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-08-21T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Bombas locas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.bombaslocas"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-10-31T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Bonzy",
       "url": null,
       "platforms": [],
@@ -2271,6 +2817,59 @@
       "status": "Lost media"
     },
     {
+      "name": "Bookers: Underground Chapter",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/875840/Bookers_Underground_Chapter/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ZeichiGames"
+      ],
+      "publishers": [
+        "ZeichiGames"
+      ],
+      "date-launch": "2018-06-28T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Indie",
+        "Rol"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Boom Boom Balloons",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.mood.boomboomballoons"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-05-10T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Bouncing Dude",
       "url": null,
       "platforms": [],
@@ -2287,6 +2886,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Brain N Balls",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.brainnballs"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-12T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Brave Guardians",
@@ -2308,6 +2932,31 @@
       "date-launch": "2013-09-06T00:00:00.000Z",
       "genre": [
         "Estrategia"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Breaking Wall",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.breakingwall"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-13T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -2517,6 +3166,56 @@
       "status": "Publicado"
     },
     {
+      "name": "Building Builder",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.buildingbuilder"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-03-14T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Bullet Popper",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.bulletpopper"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-09-30T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Bunny Buns",
       "url": null,
       "platforms": [
@@ -2678,6 +3377,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Calle K",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.callek2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-06-29T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Camposanto",
       "url": null,
       "platforms": [
@@ -2729,6 +3452,55 @@
       "status": "Publicado"
     },
     {
+      "name": "Cannon-Man Jumper",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.cannonmanjumper"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-11-30T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Cañón Tortuga",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.canontortuga2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Capitán Kalani",
       "url": null,
       "platforms": [],
@@ -2743,6 +3515,55 @@
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Car Insurance Fraud: Strike it",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.carinsurancefraud"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-13T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Caracol",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.caracol2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-01-28T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Cat Fish",
@@ -2862,6 +3683,31 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "CatWoolly.io",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.catwoolly"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-05-15T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Celleste",
       "url": null,
       "platforms": [],
@@ -2895,6 +3741,29 @@
         "Disparos"
       ],
       "status": "Desconocido"
+    },
+    {
+      "name": "Chain Demon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.pixcomp.chaindemon"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Pixcomp Games"
+      ],
+      "date-launch": "2015-02-08T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Chain Solitaire Royale",
@@ -2943,6 +3812,38 @@
         "Acción"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Chano Juano",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mazatlanonline"
+      ],
+      "publishers": null,
+      "date-launch": "2015-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
+      "name": "Chano Pancho",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mazatlanonline"
+      ],
+      "publishers": null,
+      "date-launch": "2016-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Chavo Kart",
@@ -3281,6 +4182,28 @@
       "status": "Publicado"
     },
     {
+      "name": "Chon's Boxes",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2008-03-06T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Chrono Loop",
       "url": null,
       "platforms": [],
@@ -3472,6 +4395,31 @@
       "date-launch": "2022-12-22T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Click N Cut",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.clickncut"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-17T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -3929,6 +4877,55 @@
       "status": "Preservado"
     },
     {
+      "name": "Corre Cheto",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.correcheto2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Cosmo Knight Zion",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zeichigames.itch.io/cosmo-knight-zion"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ZeichiGames"
+      ],
+      "publishers": [
+        "ZeichiGames"
+      ],
+      "date-launch": "2023-04-10T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Crayola Alternative",
       "url": null,
       "platforms": [
@@ -3984,6 +4981,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Crazy Crowded",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crazycrowded"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-16T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Crickets",
       "url": null,
       "platforms": [],
@@ -4004,6 +5026,131 @@
       "status": "Desconocido"
     },
     {
+      "name": "Crowd Booster",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdbuster"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-08T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Crowd Pusher",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdpusher"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-10T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Crowded Balls",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedballs"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-21T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Crowded Bus Race",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedbus"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Crowded Race",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedrace"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-03-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Crushing Darkness: an Augmented Reality Trading Card Game!",
       "url": null,
       "platforms": [],
@@ -4018,6 +5165,55 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Crystal Storm",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2281700/Crystal_Storm/?fbclid=IwAR0-WHGkgN14up4_kxbolZsMyTgSmOyQ8EZ-kCH3mQbCWX6jyhBussM20og"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Lukifah"
+      ],
+      "publishers": [
+        "Tekuani Games"
+      ],
+      "date-launch": "2023-03-30T00:00:00.000Z",
+      "genre": [
+        "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Cucarachalandia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.cucarachilandia2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-05-21T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Cut The Plush",
@@ -4077,6 +5273,31 @@
       "date-launch": "2022-10-25T00:00:00.000Z",
       "genre": [
         "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Dashing Mariachis",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ShibidubiGames.DashingMariachis&hl=es_MX&gl=US"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Shibidubi Games"
+      ],
+      "publishers": [
+        "Shibidubi Games"
+      ],
+      "date-launch": "2020-11-16T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -4274,6 +5495,30 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Despachamoco",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.despachamoco2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-12T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Dessert Storm",
@@ -4673,6 +5918,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Domino Art Clicker",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.SixtySevenBits.DominoArtIdle"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-14T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Dominos 42",
       "url": null,
       "platforms": [],
@@ -4768,6 +6038,51 @@
       "status": "Publicado"
     },
     {
+      "name": "Double Blaster",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2009-02-03T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
+      "name": "Drag them all",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.dragthemall"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-11T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Dragged to Evil ",
       "url": null,
       "platforms": [],
@@ -4821,6 +6136,53 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Dress and Run",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.dressandrun"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-02-03T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Dresser Disaster Escape",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2013-08-18T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Drill Bug",
@@ -5178,6 +6540,49 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "El Viaje de Hidalgo",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo"
+    },
+    {
+      "name": "Electrolab Y",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.electrolaby2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-08-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Elliot Quest",
       "url": null,
       "platforms": [
@@ -5215,6 +6620,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Elves Clan: Tricky Adventures",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.elvesclanseasons"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-28T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "English Spanish Language Adventure",
@@ -5373,6 +6803,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Escape Hero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.escapehero"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Escape Jail 3D",
       "url": null,
       "platforms": [
@@ -5416,6 +6871,31 @@
       "status": "Desconocido"
     },
     {
+      "name": "Espantos",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://hazleyenda.wixsite.com/espantos"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Guerrero Legendario jaguar"
+      ],
+      "publishers": [
+        "Haz Leyenda A.C."
+      ],
+      "date-launch": null,
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Evil God",
       "url": null,
       "platforms": [
@@ -5434,6 +6914,31 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
+      "status": "Publicado"
+    },
+    {
+      "name": "Evil Popper",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.evilpopper"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-12-23T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado"
     },
     {
@@ -5496,6 +7001,30 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Extratelia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.extratelia"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-04-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Fabulous Field Trip",
@@ -5699,6 +7228,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Farming Race Fever",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.farmingracefever"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-03-16T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Fashion Gaze",
       "url": null,
       "platforms": [
@@ -5849,6 +7403,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Fish'em",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.fishem"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-03T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Fists For Fighting (FX3)",
       "url": null,
       "platforms": [
@@ -5966,6 +7545,31 @@
       "status": "Lost media"
     },
     {
+      "name": "Flip Phone",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.flipphone"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-24T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Flippy Turtles",
       "url": null,
       "platforms": [
@@ -6008,6 +7612,56 @@
       "date-launch": "2017-04-08T00:00:00.000Z",
       "genre": [
         "Plataformas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Food Gun",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.foodgun"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-04-04T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Force Clone",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.forceclone"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -6221,6 +7875,32 @@
       "status": "Desconocido"
     },
     {
+      "name": "Frutería de Gori",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.lafruteriadegori"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-02-27T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Futbol Metegol",
       "url": null,
       "platforms": [
@@ -6307,6 +7987,30 @@
         "Aventura"
       ],
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Gancho Tortuga",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.ganchotortuga2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "GANSITO MARINELA Dance4Ever",
@@ -6420,6 +8124,30 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Globos",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.globos"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-05-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Glory Hunters",
       "url": null,
       "platforms": [],
@@ -6497,6 +8225,31 @@
       "date-launch": null,
       "genre": null,
       "status": "En Pausa"
+    },
+    {
+      "name": "Gravity",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.DreamDog.Gravity"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dream Dog"
+      ],
+      "publishers": [
+        "Nabo Games"
+      ],
+      "date-launch": "2023-03-06T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Gravity Girls",
@@ -6636,6 +8389,55 @@
       "status": "Lost media"
     },
     {
+      "name": "Guau Guau",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.guauguau2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-24T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Gym Beast",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.gymbeast"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-05-10T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Gyro for Nreal",
       "url": null,
       "platforms": [
@@ -6754,6 +8556,31 @@
         "¿?"
       ],
       "status": "Desconocido"
+    },
+    {
+      "name": "Harpoon Tower",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.harpoontower"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-11T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Headlings Arena",
@@ -7032,6 +8859,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Hide Him!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play-lh.googleusercontent.com/T9VdzWa_R3nJy9pvp8Xr_1Ad6S0JNWD93FBQgH5wfdcf7kMkxsuMVhuHtrIkSGJdZtA=s256-rw"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-28T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Hollo Buster",
       "url": null,
       "platforms": [],
@@ -7191,6 +9043,56 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Human Shield",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.humanshield"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-06-10T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Human Tower",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.humantower"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-01-23T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Hunter Legacy",
@@ -7414,6 +9316,29 @@
       "status": "Desconocido"
     },
     {
+      "name": "Illegal Alien",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2009-06-29T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Plataformas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Imperial Freedom",
       "url": null,
       "platforms": [],
@@ -7522,6 +9447,30 @@
       "status": "Lost media"
     },
     {
+      "name": "Inspector Pok",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.inspectorpok2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-07-30T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Instrumentos Musicales Niños",
       "url": null,
       "platforms": [
@@ -7606,6 +9555,30 @@
       "status": "Publicado"
     },
     {
+      "name": "IOIO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.ioio2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Irrational Veggies from Outer Space",
       "url": null,
       "platforms": [
@@ -7651,6 +9624,30 @@
         "Casual",
         "Indie",
         "Simulación"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Isla Tortuga",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.islatortuga2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -7952,6 +9949,30 @@
       "genre": [
         "Simulación",
         "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Kilometrus",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.kilometrus2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-08-11T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -8344,6 +10365,56 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "La banda de Chan-Pi",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.labandadechanpi"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-04-27T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "La banda de ChanPi",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.labandadechanpi"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-04-27T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "La granja de Lola",
       "url": null,
       "platforms": [],
@@ -8378,6 +10449,56 @@
       "status": "Lost media"
     },
     {
+      "name": "La Pizza é Mobile",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.lapizzaemobile2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Laboratorio de Topo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.laboratoriodetopo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-11-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Lalo salva la ciudad",
       "url": null,
       "platforms": [],
@@ -8392,6 +10513,80 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Las Moles",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.moles2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-08-18T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Laser Clicker",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.laserclicker"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-28T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Laser Hero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.laserhero"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-18T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Last day on eart",
@@ -8611,6 +10806,31 @@
       "status": "Desconocido"
     },
     {
+      "name": "Level Up Fighter",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play-lh.googleusercontent.com/Opg4Yl4_dHDZT1729MoCBNx27SuIs-IO_Ahc2WuYKLA2f30SS9-4_EMcQAjWafH9-Bo=s256-rw"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Link Twin",
       "url": null,
       "platforms": [
@@ -8665,6 +10885,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Little Garden",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mylittlegarden"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-03-17T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Little Swimmers",
@@ -8857,6 +11102,58 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Los Conjuros de Merlin Sheepy",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.losconjurosdemerlinsheepy"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-03-20T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Los juguetes de Peque",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.juguetesdepeque"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-11-20T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Los Rúles - Crazy Match 3",
@@ -9086,6 +11383,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Lumilab X",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.lumilabx2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-07-30T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Lunch A Palooza",
       "url": null,
       "platforms": [
@@ -9143,6 +11464,30 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
+      "status": "Publicado"
+    },
+    {
+      "name": "Maestro Dragón",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.maestrodragon"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-08-24T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado"
     },
     {
@@ -9369,6 +11714,54 @@
       "status": "Publicado"
     },
     {
+      "name": "Mansión Alien",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.mansionalien2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-05-13T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Máquina Analítica",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.maquinaanalitica2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-05-22T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Marching Cubes",
       "url": null,
       "platforms": [],
@@ -9385,6 +11778,31 @@
         "Tower Defense"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Marea-Dorada",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.balam.tesoros2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Guerrero Legendario jaguar"
+      ],
+      "publishers": [
+        "Haz Leyenda A.C."
+      ],
+      "date-launch": "2015-11-03T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Mariachi Legends",
@@ -9410,6 +11828,31 @@
         "Metroidvania"
       ],
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Market Warfare",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2383880/Market_Warfare/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PINEAPPLE DIGITAL"
+      ],
+      "publishers": [
+        "PINEAPPLE DIGITAL"
+      ],
+      "date-launch": "2023-06-15T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Master of Gomoku Go ",
@@ -9462,6 +11905,30 @@
       "date-launch": "2021-06-17T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Materia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.materia2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-01-28T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -9541,6 +12008,30 @@
       "date-launch": null,
       "genre": null,
       "status": "En Pausa"
+    },
+    {
+      "name": "Melodines",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.melodines2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-11T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Melodyssey",
@@ -9641,6 +12132,56 @@
       "status": "Publicado"
     },
     {
+      "name": "Merge Monopoly",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mergemonopoly"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-05-10T00:00:00.000Z",
+      "genre": [
+        "Juegos de mesa"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Merging Thief",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mergingthief"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-08T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Mes Amis - Monster Catching Videogame",
       "url": null,
       "platforms": [],
@@ -9680,6 +12221,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Meteorama",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.meteorama2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-05T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Meteors for Intellivision.",
       "url": null,
       "platforms": [
@@ -9699,6 +12264,31 @@
       "date-launch": "2018-04-29T00:00:00.000Z",
       "genre": [
         "Arcade"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Methaverse Runner 3D",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.methaverserunner3d"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-01-13T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -9791,6 +12381,30 @@
         "Disparos"
       ],
       "status": "Desconocido"
+    },
+    {
+      "name": "Micros",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.micros2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-01-24T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Mictlan The Game",
@@ -9896,6 +12510,56 @@
       "date-launch": "2023-03-13T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Mini Goalf",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.minigoalf"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-08T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Mini Goalf Rush",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.minigoalfrush"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-11-12T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -10174,6 +12838,31 @@
       "date-launch": "2021-11-19T00:00:00.000Z",
       "genre": [
         "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Monster Collect",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.monstercollect"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-11-29T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
       ],
       "status": "Publicado"
     },
@@ -10494,6 +13183,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Mun2, Aventuras Financieras",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://mun2.tuiio.com.mx/login"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "Santander Tuiio"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "Publicado"
+    },
+    {
       "name": "Murasaki ",
       "url": null,
       "platforms": [
@@ -10755,6 +13467,56 @@
       "status": "Publicado"
     },
     {
+      "name": "My Tulip Farm",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tulipfarmidle"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-06-08T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "My Zombie World",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.zombieworld"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-12T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "MyCrush - The Game Of Love",
       "url": null,
       "platforms": [
@@ -10927,6 +13689,31 @@
         "Aventura",
         "Indie",
         "Rol"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Neon Connect Clicker",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.neonconnect"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-23T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -11114,6 +13901,30 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Ojo Rojo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.ojorojo2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-06-25T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Oli Pop",
       "url": null,
       "platforms": [
@@ -11222,6 +14033,30 @@
         "Rompecabezas"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Painani",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.painani2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Paint 'em",
@@ -11636,6 +14471,28 @@
       "status": "Publicado"
     },
     {
+      "name": "Pero Pero Puyo Puyo",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2008-03-06T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Pet City Mania",
       "url": "https://www.facebook.com/PetCityManiaLicense/about",
       "platforms": [],
@@ -11805,27 +14662,28 @@
       "status": "Publicado"
     },
     {
-      "name": " Consola Nesa Pong: Ping Pong (Tenis), Futbolito y Squash",
+      "name": "Pim Poom",
       "url": null,
       "platforms": [
         {
-          "name": "Otro",
-          "url": "https://drive.google.com/file/d/17MG4RWS2smxN4LNg19gncc5PRy_gMeE9/view?usp=sharing"
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.pimpooom2"
         }
       ],
       "crowdfunding": {
         "url": null,
         "funded": false
       },
-      "developers": [
-        "Ing. Morris Behar (Padre del desarrollo de videojuegos en México)"
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
       ],
-      "publishers": null,
-      "date-launch": "1973-01-01T00:00:00.000Z",
+      "date-launch": "2020-03-11T00:00:00.000Z",
       "genre": [
-        "Arcade"
+        "Educativo"
       ],
-      "status": "Descontinuado"
+      "status": "Publicado"
     },
     {
       "name": "Pingo Park",
@@ -11931,6 +14789,31 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Pizza Factor",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.zaersoft.game"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "El Kazue"
+      ],
+      "publishers": [
+        "ZaerSoft"
+      ],
+      "date-launch": "2023-03-24T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Pizza Tower",
       "url": null,
       "platforms": [],
@@ -11968,6 +14851,57 @@
       "date-launch": "2020-02-19T00:00:00.000Z",
       "genre": [
         "Supervivencia"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Planet Eater",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.planeteater"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-10-13T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Plantae",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.plantae"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-02-28T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -12109,6 +15043,22 @@
       "status": "Desconocido"
     },
     {
+      "name": "Poliqueue",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/rockpoligames/poliqueue?ref=project_build&fbclid=IwAR3Rdw_sVQPXFAdUdZxqu2AYsv5VxrFJSAWEDy8hk57mqt1KaAtiT-f_A3w",
+        "funded": false
+      },
+      "developers": [
+        "Rockpoli Games"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido"
+    },
+    {
       "name": "Pollo Man",
       "url": null,
       "platforms": [
@@ -12176,6 +15126,30 @@
       "genre": [
         "Acción",
         "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Popol Buuu",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.popolbuuu2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-04-07T00:00:00.000Z",
+      "genre": [
+        "Educativo"
       ],
       "status": "Publicado"
     },
@@ -12497,6 +15471,30 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Pueblo Chinampa",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.pueblochinampa2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-07-23T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Pull Frog ",
       "url": null,
       "platforms": [
@@ -12539,6 +15537,31 @@
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Punch Master",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.punchmaster"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-15T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Puppet Kid and the Book of Motions",
@@ -12606,6 +15629,58 @@
       "date-launch": "2021-05-01T00:00:00.000Z",
       "genre": [
         "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Puzzlander",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.puzzlander"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-14T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Puzzle Bot",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://alainv.itch.io/puzzlebot"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Alain",
+        "nikancode"
+      ],
+      "publishers": [
+        "Alain"
+      ],
+      "date-launch": "2020-09-05T00:00:00.000Z",
+      "genre": [
+        "Educativo",
+        "Rompecabezas"
       ],
       "status": "Publicado"
     },
@@ -13352,6 +16427,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Rescate Minino",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.rescateminino2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-02-06T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Reto deportivo",
       "url": null,
       "platforms": [],
@@ -13368,6 +16467,29 @@
         "Deportes"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Retroacan",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.pixcomp.retroacan"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Pixcomp Games"
+      ],
+      "date-launch": "2014-02-11T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Revenge of Ilcon",
@@ -13391,6 +16513,30 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Ribeki",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.ribeki"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-05-19T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Ricolina Play",
       "url": "https://youtu.be/ogDX-lubM7E",
       "platforms": [],
@@ -13407,6 +16553,29 @@
       "status": "Lost media"
     },
     {
+      "name": "Ridiculous Shoot Em Up Spacesh",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nabogames.ridicullousSHMUP"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nabo Games"
+      ],
+      "date-launch": "2021-02-11T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Rise Of History: The Ancient Wars",
       "url": null,
       "platforms": [],
@@ -13421,6 +16590,30 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Ritmo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.ritmo2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-11T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Road to Lumen",
@@ -13691,6 +16884,26 @@
       "status": "Publicado"
     },
     {
+      "name": "Saint Seiya - El regreso del Fénix (GameBoy Color)",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ZeichiGames"
+      ],
+      "publishers": [
+        "ZeichiGames"
+      ],
+      "date-launch": "2023-06-03T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "SAMSUNG ARENA",
       "url": null,
       "platforms": [],
@@ -13915,6 +17128,56 @@
       "status": "Publicado"
     },
     {
+      "name": "Scribble Battle",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.scribblebattle"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-19T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Scribble Crowd",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.scribblecrowd"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-12T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Sea Naissance",
       "url": null,
       "platforms": [
@@ -13998,6 +17261,31 @@
       "status": "Lost media"
     },
     {
+      "name": "Shape Shipter",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2229590/Shape_Shipter/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jorge T. Vargas"
+      ],
+      "publishers": [
+        "Jorge T. Vargas"
+      ],
+      "date-launch": "2023-07-17T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "She Know It",
       "url": null,
       "platforms": [],
@@ -14012,6 +17300,57 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado"
+    },
+    {
+      "name": "She needs help",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.sheneedshelp"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-30T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Sheepy vs los dragones",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.sheepyvslosdragones"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2021-11-27T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Shiba Force",
@@ -14065,6 +17404,31 @@
       "genre": [
         "Acción",
         "Disparos"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Shred'em All",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.shredemall"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-12-26T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -14247,6 +17611,31 @@
       "date-launch": "2015-09-02T00:00:00.000Z",
       "genre": [
         "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Sleep Dunk",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.sleepdunk"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2021-10-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -14654,6 +18043,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Spellcasters",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.FatPanda.Spellcasters&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1686804604%252C%2522source%2522%253Anull%257D&fbclid=IwAR00lrch1heNOPnHFqfKn6K2KrNTVvNJ6MA6e7deex78LjNASdT8rGr2mN0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Jesus García"
+      ],
+      "date-launch": "2018-07-30T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Spiral Pen",
       "url": null,
       "platforms": [
@@ -14741,6 +18153,31 @@
       "genre": [
         "Acción",
         "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Stacking Sword",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.stackingsword"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-05-04T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -15131,6 +18568,30 @@
       "status": "Publicado"
     },
     {
+      "name": "SuperSumas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.supersumas2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-03-14T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Sushi Bar",
       "url": null,
       "platforms": [
@@ -15323,6 +18784,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado"
+    },
+    {
+      "name": "Tap Stack",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tapstack"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-09-19T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "TapTap Piñata",
@@ -15850,6 +19336,29 @@
       "genre": [
         "Aventura",
         "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "The Forgotten Dungeon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.diegovz01.The_Forgotten_Dungeon"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "OddlyWare Studio"
+      ],
+      "date-launch": "2021-05-30T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -16459,6 +19968,32 @@
       "status": "Cancelado"
     },
     {
+      "name": "Thievery Master",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.thieverymaster"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-08-01T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Disparo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Thumbeats",
       "url": null,
       "platforms": [],
@@ -16522,6 +20057,30 @@
       "status": "Lost media"
     },
     {
+      "name": "Tirin Tirin",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.tirintirin2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-03-11T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Tiro al cono",
       "url": null,
       "platforms": [],
@@ -16538,6 +20097,29 @@
       "date-launch": "2016-01-01T00:00:00.000Z",
       "genre": [
         "Realidad Aumentada"
+      ],
+      "status": "Lost media"
+    },
+    {
+      "name": "Tlalorcs' Wars",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2013-08-06T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Plataformas"
       ],
       "status": "Lost media"
     },
@@ -16790,6 +20372,28 @@
       "status": "Desconocido"
     },
     {
+      "name": "Trap-a-Tuna",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2010-04-14T00:00:00.000Z",
+      "genre": [
+        "Deportes"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Traveller",
       "url": null,
       "platforms": [],
@@ -16863,6 +20467,30 @@
       "status": "Publicado"
     },
     {
+      "name": "Troglones",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.troglones2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-05-21T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Trumpealo",
       "url": null,
       "platforms": [],
@@ -16877,6 +20505,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Tube Hamster",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tubehamster"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-09-20T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Turbo Wheels",
@@ -17225,6 +20878,32 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media"
+    },
+    {
+      "name": "Verboom",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.verboom"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Most"
+      ],
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2023-02-13T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "VERITAS, el principe de la verdad",
@@ -17610,6 +21289,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Waiter Hero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.waiterhero"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-03-25T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Warcher Defenders",
       "url": null,
       "platforms": [
@@ -17726,6 +21430,31 @@
       "status": "Publicado"
     },
     {
+      "name": "Water Gun Hero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.watergunhero"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-06-09T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "WaterTown",
       "url": null,
       "platforms": [
@@ -17747,6 +21476,55 @@
       "date-launch": "2018-12-21T00:00:00.000Z",
       "genre": [
         "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Wayna",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=mx.inoma.wayna2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
+      "date-launch": "2020-09-01T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Weapon Thief",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.weaponthieve"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2022-04-23T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -18065,6 +21843,33 @@
       "status": "Desconocido"
     },
     {
+      "name": "Xantolo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://alainv.itch.io/xantolo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Marroquina",
+        "NikanCode",
+        "Alain"
+      ],
+      "publishers": [
+        "Alain"
+      ],
+      "date-launch": "2020-10-31T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "XIBALBA ",
       "url": null,
       "platforms": [
@@ -18090,6 +21895,26 @@
         "Indie"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Xmasters",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2009-12-17T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Xolo",
@@ -18190,6 +22015,31 @@
       "date-launch": "2020-10-03T00:00:00.000Z",
       "genre": [
         "Arcade"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Zombie Takeover",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.ztakeover"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-03T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     }
