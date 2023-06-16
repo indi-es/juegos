@@ -8,7 +8,7 @@ function getOtherPlatformName(cell = {}) {
   if (hyperlink.includes("store.epicgames.com")) return "Epic Games Store";
   if (hyperlink.includes("oculus.com")) return "Oculus";
   if (hyperlink.includes("microsoft.com")) return "Microsoft Store";
-  return "Other";
+  return "Otro";
 }
 
 function getOtherPlatform(cell) {
