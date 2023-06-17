@@ -1,29 +1,6 @@
 {
   "games": [
     {
-      "name": " Consola Nesa Pong: Ping Pong (Tenis), Futbolito y Squash",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Otro",
-          "url": "https://drive.google.com/file/d/17MG4RWS2smxN4LNg19gncc5PRy_gMeE9/view?usp=sharing"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Ing. Morris Behar (Padre del desarrollo de videojuegos en México)"
-      ],
-      "publishers": null,
-      "date-launch": "1973-01-01T00:00:00.000Z",
-      "genre": [
-        "Arcade"
-      ],
-      "status": "Descontinuado"
-    },
-    {
       "name": "¡Llévele, llévele!",
       "url": null,
       "platforms": [
@@ -4721,6 +4698,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Consola Nesa Pong: Ping Pong (Tenis), Futbolito y Squash",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://drive.google.com/file/d/17MG4RWS2smxN4LNg19gncc5PRy_gMeE9/view?usp=sharing"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ing. Morris Behar (Padre del desarrollo de videojuegos en México)"
+      ],
+      "publishers": null,
+      "date-launch": "1973-01-01T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Descontinuado"
+    },
+    {
       "name": "Cookie Defense 3D",
       "url": "https://youtu.be/J3lOoCBupkM",
       "platforms": [],
@@ -6324,7 +6324,9 @@
         "url": "https://www.kickstarter.com/projects/playstormstudios/eagle-knight-paradox",
         "funded": true
       },
-      "developers": null,
+      "developers": [
+        "Playstorm Studios"
+      ],
       "publishers": null,
       "date-launch": null,
       "genre": null,
@@ -6884,7 +6886,7 @@
         "funded": false
       },
       "developers": [
-        "Guerrero Legendario jaguar"
+        "Na'Chok"
       ],
       "publishers": [
         "Haz Leyenda A.C."
@@ -8552,9 +8554,7 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": [
-        "¿?"
-      ],
+      "genre": null,
       "status": "Desconocido"
     },
     {
@@ -11793,7 +11793,7 @@
         "funded": false
       },
       "developers": [
-        "Guerrero Legendario jaguar"
+        "Na'Chok"
       ],
       "publishers": [
         "Haz Leyenda A.C."
@@ -15175,33 +15175,6 @@
       "date-launch": "2021-01-21T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "PositronX",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/529970/PositronX/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Scorpius Games"
-      ],
-      "publishers": [
-        "Scorpius Games"
-      ],
-      "date-launch": "2020-10-29T00:00:00.000Z",
-      "genre": [
-        "Acción",
-        "Aventura",
         "Indie"
       ],
       "status": "Publicado"
@@ -21404,7 +21377,7 @@
       "genre": [
         "Simulación"
       ],
-      "status": "En Desarrollo"
+      "status": "Publicado"
     },
     {
       "name": "Watch out Zombies",
