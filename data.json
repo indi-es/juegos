@@ -113,11 +113,36 @@
         "url": null,
         "funded": false
       },
-      "developers": null,
+      "developers": [
+        "Diego \"Diegovz01\" Vázquez"
+      ],
       "publishers": [
         "OddlyWare Studio"
       ],
       "date-launch": "2017-11-07T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "3Dots",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nyabe.threedots"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2016-02-26T00:00:00.000Z",
       "genre": [
         "Casual"
       ],
@@ -175,6 +200,24 @@
         "Indie"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "A Cien Revoluciones",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nibiru"
+      ],
+      "publishers": [
+        "Facebook"
+      ],
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "A Day Off",
@@ -335,7 +378,7 @@
       ],
       "date-launch": "2010-10-12T00:00:00.000Z",
       "genre": [
-        "Pelea"
+        "Peleas"
       ],
       "status": "Descontinuado"
     },
@@ -945,6 +988,22 @@
       "status": "Desconocido"
     },
     {
+      "name": "Animal Crossfire",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/japigaming/animal-crossfire-animal-battleroyale?ref=project_link",
+        "funded": false
+      },
+      "developers": [
+        "César Reinoso"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido"
+    },
+    {
       "name": "Animondos' Horror Gallery",
       "url": null,
       "platforms": [],
@@ -1257,7 +1316,7 @@
       ],
       "date-launch": "2023-03-07T00:00:00.000Z",
       "genre": [
-        "Jueego de mesa"
+        "Juegos de mesa"
       ],
       "status": "Publicado"
     },
@@ -2433,6 +2492,24 @@
         "Aventura"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Bicentenario 2010: los héroes de México",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Neggi Studio"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Big Crusher",
@@ -4197,6 +4274,33 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Chucho Cucaracho",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=nyabe.tabya.chucho"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/chucho-cucaracho/id1477699503"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2019-09-04T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Chuka: Rompe el silencio",
       "url": null,
       "platforms": [
@@ -5797,7 +5901,7 @@
       "publishers": null,
       "date-launch": "2016-09-01T00:00:00.000Z",
       "genre": [
-        "Peleas"
+        "Peleass"
       ],
       "status": "Publicado"
     },
@@ -6038,6 +6142,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Doty Dot",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nyabe.dotydot"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2016-03-11T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Double Blaster",
       "url": null,
       "platforms": [],
@@ -6117,7 +6244,7 @@
       "publishers": null,
       "date-launch": "2015-01-01T00:00:00.000Z",
       "genre": [
-        "Realidad aumentada"
+        "Realidad Aumentada"
       ],
       "status": "Lost media"
     },
@@ -8806,7 +8933,7 @@
       "genre": [
         "RPG",
         "Rompecabezas",
-        "Pelea"
+        "Peleas"
       ],
       "status": "Lost media"
     },
@@ -8999,7 +9126,7 @@
       "date-launch": "2019-06-03T00:00:00.000Z",
       "genre": [
         "Carreras",
-        "Multijudaor Online"
+        "Multijugador Online"
       ],
       "status": "No comercial"
     },
@@ -9992,7 +10119,7 @@
       ],
       "date-launch": null,
       "genre": [
-        "Accion",
+        "Acción",
         "Plataformas"
       ],
       "status": "En Desarrollo"
@@ -10650,7 +10777,7 @@
       "publishers": null,
       "date-launch": "2018-11-22T00:00:00.000Z",
       "genre": [
-        "Ficción interactiva"
+        "Ficción Interactiva"
       ],
       "status": "Publicado"
     },
@@ -12694,7 +12821,7 @@
       "genre": [
         "Plataforma",
         "Puzzle",
-        "Rpg",
+        "RPG",
         "Aventura",
         "Bullet-Hell"
       ],
@@ -13624,7 +13751,7 @@
       "publishers": null,
       "date-launch": "2022-04-30T00:00:00.000Z",
       "genre": [
-        "Pelea"
+        "Peleas"
       ],
       "status": "Publicado"
     },
@@ -14013,6 +14140,33 @@
       "date-launch": "2022-07-16T00:00:00.000Z",
       "genre": [
         "Corredor Infinito"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Ovum",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=nyabe.tabya.ovum"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/ovum/id1325848915"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2017-12-13T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -16225,7 +16379,7 @@
       ],
       "date-launch": "2017-06-06T00:00:00.000Z",
       "genre": [
-        "Accion",
+        "Acción",
         "Plataformas"
       ],
       "status": "Publicado"
@@ -16711,10 +16865,10 @@
         "funded": false
       },
       "developers": [
-        "OddlyWare Studio"
+        "Diego \"Diegovz01\" Vázquez"
       ],
       "publishers": [
-        "OddlyWare Studio"
+        "VERDADERO"
       ],
       "date-launch": "2023-02-07T00:00:00.000Z",
       "genre": [
@@ -16937,7 +17091,7 @@
       ],
       "date-launch": "2016-01-28T00:00:00.000Z",
       "genre": [
-        "Corredor infinito",
+        "Corredor Infinito",
         "Arcade"
       ],
       "status": "Lost media"
@@ -17677,6 +17831,26 @@
       "status": "Publicado"
     },
     {
+      "name": "Snow Brothers 3",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Syrmex Electronics"
+      ],
+      "publishers": [
+        "Syrmex Electronics"
+      ],
+      "date-launch": "2002-01-01T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Sol Dorado Heist",
       "url": null,
       "platforms": [
@@ -17789,6 +17963,26 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Sombras Heroicas",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "IKORIKO"
+      ],
+      "publishers": [
+        "Secretaría de Economía y el Fondo PYME"
+      ],
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Lost media"
     },
     {
       "name": "Something Pretty",
@@ -18865,7 +19059,7 @@
       ],
       "date-launch": "2017-05-04T00:00:00.000Z",
       "genre": [
-        "Siimulación",
+        "Simulación",
         "Casual"
       ],
       "status": "Publicado"
@@ -19325,13 +19519,15 @@
         "url": null,
         "funded": false
       },
-      "developers": null,
+      "developers": [
+        "Diego \"Diegovz01\" Vázquez."
+      ],
       "publishers": [
         "OddlyWare Studio"
       ],
       "date-launch": "2021-05-30T00:00:00.000Z",
       "genre": [
-        "Casual"
+        "Plataformas"
       ],
       "status": "Publicado"
     },
@@ -20541,7 +20737,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": [
-        "Corredor infinito"
+        "Corredor Infinito"
       ],
       "status": "Lost media"
     },
@@ -20659,6 +20855,29 @@
       "genre": [
         "Acción",
         "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "U Fat",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nyabe.ufat"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2017-01-23T00:00:00.000Z",
+      "genre": [
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -21092,7 +21311,7 @@
       "date-launch": "2015-10-15T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Corredor infinito"
+        "Corredor Infinito"
       ],
       "status": "Lost media"
     },
@@ -21749,7 +21968,7 @@
       ],
       "date-launch": "2020-04-07T00:00:00.000Z",
       "genre": [
-        "Juego de mesa"
+        "Juegos de mesa"
       ],
       "status": "Publicado"
     },
@@ -21798,223 +22017,6 @@
         "Deportes"
       ],
       "status": "En Desarrollo"
-    },
-    {
-      "name": "Wrong Heaven",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": "https://www.kickstarter.com/projects/zfrost/wrong-heaven-the-endless-dungeon?ref=discovery_category_most_funded",
-        "funded": false
-      },
-      "developers": [
-        "Saul"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": "Desconocido"
-    },
-    {
-      "name": "Xantolo",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://alainv.itch.io/xantolo"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Marroquina",
-        "NikanCode",
-        "Alain"
-      ],
-      "publishers": [
-        "Alain"
-      ],
-      "date-launch": "2020-10-31T00:00:00.000Z",
-      "genre": [
-        "Aventura"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "XIBALBA ",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/1436220/XIBALBA/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Reef Software"
-      ],
-      "publishers": [
-        "Reef Software"
-      ],
-      "date-launch": "2020-11-13T00:00:00.000Z",
-      "genre": [
-        "Acción",
-        "Aventura",
-        "Indie"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "Xmasters",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Rapt",
-        "Dougieus",
-        "Yokan"
-      ],
-      "publishers": [
-        "Raptware"
-      ],
-      "date-launch": "2009-12-17T00:00:00.000Z",
-      "genre": null,
-      "status": "Lost media"
-    },
-    {
-      "name": "Xolo",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://carlosgac.itch.io/xolo"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Eldritch Games"
-      ],
-      "publishers": null,
-      "date-launch": "2021-10-23T00:00:00.000Z",
-      "genre": [
-        "Educativo"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "Yoapan",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Bromio"
-      ],
-      "publishers": [
-        "Bromio"
-      ],
-      "date-launch": "2021-09-10T00:00:00.000Z",
-      "genre": [
-        "Acción"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "Yogome Guardians of Knowledge",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Yogome"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": [
-        "Educativo"
-      ],
-      "status": "Lost media"
-    },
-    {
-      "name": "Zaguaro",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "BitAll Force"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": [
-        "Plataformas 3D"
-      ],
-      "status": "Cancelado"
-    },
-    {
-      "name": "Zombie Madness for Intellivision",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Otro",
-          "url": "https://nanochess.org/store_es.html"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Oscar Toledo"
-      ],
-      "publishers": null,
-      "date-launch": "2020-10-03T00:00:00.000Z",
-      "genre": [
-        "Arcade"
-      ],
-      "status": "Publicado"
-    },
-    {
-      "name": "Zombie Takeover",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.ztakeover"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-03T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado"
     }
   ]
 }
