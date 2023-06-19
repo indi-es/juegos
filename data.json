@@ -22017,6 +22017,269 @@
         "Deportes"
       ],
       "status": "En Desarrollo"
+    },
+    {
+      "name": "Wrong Heaven",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/zfrost/wrong-heaven-the-endless-dungeon?ref=discovery_category_most_funded",
+        "funded": false
+      },
+      "developers": [
+        "Saul"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido"
+    },
+    {
+      "name": "Xantolo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://alainv.itch.io/xantolo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Marroquina",
+        "NikanCode",
+        "Alain"
+      ],
+      "publishers": [
+        "Alain"
+      ],
+      "date-launch": "2020-10-31T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "XIBALBA ",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1436220/XIBALBA/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Reef Software"
+      ],
+      "publishers": [
+        "Reef Software"
+      ],
+      "date-launch": "2020-11-13T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Xmasters",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rapt",
+        "Dougieus",
+        "Yokan"
+      ],
+      "publishers": [
+        "Raptware"
+      ],
+      "date-launch": "2009-12-17T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
+      "name": "Xolo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlosgac.itch.io/xolo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Eldritch Games"
+      ],
+      "publishers": null,
+      "date-launch": "2021-10-23T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Yoapan",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bromio"
+      ],
+      "publishers": [
+        "Bromio"
+      ],
+      "date-launch": "2021-09-10T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Yogome Guardians of Knowledge",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yogome"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Lost media"
+    },
+    {
+      "name": "Zaguaro",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "BitAll Force"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Plataformas 3D"
+      ],
+      "status": "Cancelado"
+    },
+    {
+      "name": "Zombie Madness for Intellivision",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://nanochess.org/store_es.html"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Oscar Toledo"
+      ],
+      "publishers": null,
+      "date-launch": "2020-10-03T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Zombie Piñata",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Neggi Studio"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Lost media"
+    },
+    {
+      "name": "Zombie Takeover",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.ztakeover"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "67 Bits"
+      ],
+      "publishers": [
+        "67 Bits"
+      ],
+      "date-launch": "2023-02-03T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Zuri's Revenge",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nyabetabya.zuri"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/zuris-revenge/id1547148893"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2021-04-14T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado"
     }
   ]
 }
