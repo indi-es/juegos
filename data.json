@@ -1558,8 +1558,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": [
-        "Shoot 'em up",
-        "Arcade",
+        "Bullet Hell Shoot 'Em Up",
         "Acción"
       ],
       "status": "En Desarrollo"
@@ -2082,6 +2081,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Baila con la flaca",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://tortilla-lab.itch.io/baila-con-la-flaca"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Tortilla Lab"
+      ],
+      "date-launch": "2021-10-29T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Balin",
       "url": null,
       "platforms": [
@@ -2415,7 +2437,7 @@
         "funded": false
       },
       "developers": [
-        "Ludo Lab"
+        "Ludolab"
       ],
       "publishers": null,
       "date-launch": "2021-12-29T00:00:00.000Z",
@@ -2423,7 +2445,7 @@
         "Rol",
         "Aventura"
       ],
-      "status": "Publicado"
+      "status": "En Desarrollo"
     },
     {
       "name": "Between Oblivion",
@@ -3900,6 +3922,29 @@
       "status": "Lost media"
     },
     {
+      "name": "Charlie Charlie",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nextia.charliecharlie&hl=es_MX&gl=US"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nextia Games"
+      ],
+      "date-launch": "2015-05-28T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Chavo Kart",
       "url": null,
       "platforms": [
@@ -3969,6 +4014,31 @@
       "date-launch": "2023-01-23T00:00:00.000Z",
       "genre": [
         "Plataformas"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Chernomeat Survival Game",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1077030/Chernomeat_Survival_Game/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "JAV_Studio"
+      ],
+      "publishers": [
+        "JAV_Studio"
+      ],
+      "date-launch": "2019-05-23T00:00:00.000Z",
+      "genre": [
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -4238,7 +4308,12 @@
     {
       "name": "Chon's Boxes",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://postimg.cc/14GGzJ4f"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -4255,7 +4330,7 @@
       "genre": [
         "Rompecabezas"
       ],
-      "status": "Lost media"
+      "status": "Preservado"
     },
     {
       "name": "Chrono Loop",
@@ -5546,6 +5621,29 @@
       "status": "Desconocido"
     },
     {
+      "name": "Desarraigo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://twocaninteractive.itch.io/desarraigo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TwocanInteractive"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "Design Hero",
       "url": null,
       "platforms": [],
@@ -6185,6 +6283,26 @@
       "status": "Lost media"
     },
     {
+      "name": "DownHill Racing",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Phractal Studios"
+      ],
+      "publishers": [
+        "Phractal Studios"
+      ],
+      "date-launch": "2012-01-22T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Drag them all",
       "url": null,
       "platforms": [
@@ -6247,6 +6365,22 @@
         "Realidad Aumentada"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Dream of Darkness",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jaguar Games"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo"
     },
     {
       "name": "Dreamare - Get into a magical journey",
@@ -6878,9 +7012,35 @@
         "funded": false
       },
       "developers": [
-        "Ludo Lab"
+        "Ludolab"
       ],
       "publishers": null,
+      "date-launch": "2022-04-08T00:00:00.000Z",
+      "genre": [
+        "Ritmo",
+        "Plataformas"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
+      "name": "Equanimity",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://ludolab.itch.io/equanimity"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ludolab"
+      ],
+      "publishers": [
+        "Ludolab"
+      ],
       "date-launch": "2022-04-08T00:00:00.000Z",
       "genre": [
         "Ritmo",
@@ -8253,6 +8413,27 @@
       "status": "En Desarrollo"
     },
     {
+      "name": "Gisselle's Adventure",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ludolab"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "RPG",
+        "Novela Visual",
+        "Rompecabezas",
+        "Plataformas"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "Globos",
       "url": null,
       "platforms": [
@@ -8436,6 +8617,26 @@
       "status": "Publicado"
     },
     {
+      "name": "Great Jaguar Temple - A Puzzle Journey",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Phractal Studios"
+      ],
+      "publishers": [
+        "Phractal Studios"
+      ],
+      "date-launch": "2012-07-19T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "GREEN The Life Algorithm ",
       "url": null,
       "platforms": [
@@ -8516,6 +8717,26 @@
         "Supervivencia"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Guardians of the Crystal",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ludolab"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "RPG",
+        "Novela Visual",
+        "Rompecabezas"
+      ],
+      "status": "En Desarrollo"
     },
     {
       "name": "Guau Guau",
@@ -9009,6 +9230,29 @@
         "Casual"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Hit the Clown",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://twocaninteractive.itch.io/hit-the-clown"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TwocanInteractive"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "En Desarrollo"
     },
     {
       "name": "Hollo Buster",
@@ -10467,6 +10711,26 @@
       "status": "Lost media"
     },
     {
+      "name": "KORNOK",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rodrigo Saco"
+      ],
+      "publishers": [
+        "Rodrigo Saco"
+      ],
+      "date-launch": "2015-08-28T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "KOTOMASHO: I Can't Believe This NEET Guy Turned Into a Magical Girl!",
       "url": null,
       "platforms": [
@@ -10664,6 +10928,42 @@
         "Educativo"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Las peripecias en la Catedral",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://soequelle.itch.io/las-peripecias-en-la-catedral"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Elizabeth G. R.",
+        "Paola Robledo",
+        "Jesús Orlando C. P.",
+        "Paulina Fernanda G. R.",
+        "Sascha Ram",
+        "Alexadra Teresa S. B.",
+        "María José C. J.",
+        "Anabel R. A.",
+        "Ana Karen H. L.",
+        "Karina F. R.",
+        "Daniela Ivanna C. M.",
+        "Miguel Angel M. B.",
+        "Ángel Castro",
+        "Daniel Andres P. C."
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo"
     },
     {
       "name": "Laser Clicker",
@@ -10956,6 +11256,29 @@
         "Casual"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Lights",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://mrsoniccx.itch.io/lights"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ludolab"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Disparos"
+      ],
+      "status": "En Desarrollo"
     },
     {
       "name": "Link Twin",
@@ -11478,7 +11801,7 @@
       "genre": [
         "Casual"
       ],
-      "status": "Publicado"
+      "status": "En Desarrollo"
     },
     {
       "name": "Luli y Gabo",
@@ -12969,6 +13292,52 @@
       "status": "Publicado"
     },
     {
+      "name": "Monri Game",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.HTAcompany.MonriGame"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "HTAcompany"
+      ],
+      "date-launch": "2023-06-06T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "MonSplash Road",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=org.ivandgear.monsplashroad"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "IvDGear"
+      ],
+      "date-launch": "2019-06-24T00:00:00.000Z",
+      "genre": [
+        "Carreras"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Monster Collect",
       "url": null,
       "platforms": [
@@ -13693,6 +14062,34 @@
       "status": "Publicado"
     },
     {
+      "name": "Na' Moots",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paoowo.itch.io/namoots"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "OCK",
+        "Fedra Martínez",
+        "Amadeo Arrollo",
+        "Antony Morales",
+        "Léa Leuzinger"
+      ],
+      "publishers": null,
+      "date-launch": "2023-02-01T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Nah, see? Cookies!",
       "url": null,
       "platforms": [
@@ -13933,6 +14330,32 @@
       "status": "Lost media"
     },
     {
+      "name": "Nikté Ha",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paoowo.itch.io/nikte-ha"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "Aldo Domínguez",
+        "Juan Chuc Pech",
+        "Adán Caballero"
+      ],
+      "publishers": null,
+      "date-launch": "2022-05-07T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Ninja Madness Arcade",
       "url": null,
       "platforms": [],
@@ -14052,6 +14475,33 @@
       "status": "Publicado"
     },
     {
+      "name": "Old Roots",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2004730/Old_Roots/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Night Ark Studios"
+      ],
+      "publishers": [
+        "Night Ark Studios"
+      ],
+      "date-launch": "2022-09-02T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Indie"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Oli Pop",
       "url": null,
       "platforms": [
@@ -14117,6 +14567,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido"
+    },
+    {
+      "name": "Ornare",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paoowo.itch.io/ornare"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "Anabel Ríos",
+        "Jazmín Gonzáles"
+      ],
+      "publishers": null,
+      "date-launch": "2022-02-11T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Out of Boombox",
@@ -16090,6 +16565,31 @@
       "status": "Desconocido"
     },
     {
+      "name": "Quí",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paoowo.itch.io/qui"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "Berenice Prieto",
+        "Héctor Guerrero"
+      ],
+      "publishers": null,
+      "date-launch": "2021-08-28T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Racing Tycoon - Idle Game",
       "url": null,
       "platforms": [
@@ -16574,6 +17074,31 @@
       "date-launch": "2020-02-06T00:00:00.000Z",
       "genre": [
         "Educativo"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "Rescue Teddy",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1623560/Rescue_Teddy/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Another Game Studio Mx"
+      ],
+      "publishers": [
+        "Another Game Studio Mx"
+      ],
+      "date-launch": "2021-06-30T00:00:00.000Z",
+      "genre": [
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -17305,6 +17830,27 @@
       "status": "Publicado"
     },
     {
+      "name": "Scribbles",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://twocaninteractive.itch.io/scribbles"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "TwocanInteractive"
+      ],
+      "date-launch": "2020-12-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado"
+    },
+    {
       "name": "Sea Naissance",
       "url": null,
       "platforms": [
@@ -17352,6 +17898,24 @@
         "Supervivencia"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Send Me Home",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nel Pastel"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "En Desarrollo"
     },
     {
       "name": "ShadowBox VR",
@@ -17651,6 +18215,29 @@
       "genre": [
         "Simulación",
         "Parodia"
+      ],
+      "status": "Publicado"
+    },
+    {
+      "name": "SitChima",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=org.ivandragogear.sitchima"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "IvDGear"
+      ],
+      "date-launch": "2018-02-16T00:00:00.000Z",
+      "genre": [
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -18430,7 +19017,7 @@
         "funded": false
       },
       "developers": [
-        "Ludo Lab"
+        "Ludolab"
       ],
       "publishers": null,
       "date-launch": "2022-03-29T00:00:00.000Z",
@@ -18438,7 +19025,7 @@
         "Estrategia",
         "Simulación"
       ],
-      "status": "Publicado"
+      "status": "En Desarrollo"
     },
     {
       "name": "Stomper",
@@ -20163,6 +20750,33 @@
       "status": "Publicado"
     },
     {
+      "name": "This House Looks Familiar",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://diegogary25.itch.io/this-house-looks-familiar"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diego García R.",
+        "César García R.",
+        "Sebastián Castillo",
+        "Angelica Morales"
+      ],
+      "publishers": null,
+      "date-launch": "2020-10-05T00:00:00.000Z",
+      "genre": [
+        "Ficción Interactiva",
+        "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Thumbeats",
       "url": null,
       "platforms": [],
@@ -21118,6 +21732,24 @@
       "status": "Lost media"
     },
     {
+      "name": "Vete a la Versh: Te Agarre X Hay",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nextia Games"
+      ],
+      "publishers": null,
+      "date-launch": "2011-01-01T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Vía",
       "url": null,
       "platforms": [
@@ -21312,6 +21944,24 @@
       "genre": [
         "Acción",
         "Corredor Infinito"
+      ],
+      "status": "Lost media"
+    },
+    {
+      "name": "Vorpal",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Abraham Morales"
+      ],
+      "publishers": null,
+      "date-launch": "2010-12-30T00:00:00.000Z",
+      "genre": [
+        "Bullet Hell Shoot 'Em Up"
       ],
       "status": "Lost media"
     },
@@ -21930,6 +22580,24 @@
       "status": "Publicado"
     },
     {
+      "name": "Wood Of War",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ludolab"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Lost media"
+    },
+    {
       "name": "Wooly Blast",
       "url": null,
       "platforms": [],
@@ -22132,6 +22800,29 @@
       "status": "Publicado"
     },
     {
+      "name": "Yiaxter: Nightmare",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.ivandgear.yiaxterne"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "IvDGear"
+      ],
+      "date-launch": "2020-08-29T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado"
+    },
+    {
       "name": "Yoapan",
       "url": null,
       "platforms": [],
@@ -22168,6 +22859,31 @@
         "Educativo"
       ],
       "status": "Lost media"
+    },
+    {
+      "name": "Yokai Taiji",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1614020/Yokai_Taiji/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bonsai Games"
+      ],
+      "publishers": [
+        "Bonsai Games"
+      ],
+      "date-launch": "2021-06-30T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado"
     },
     {
       "name": "Zaguaro",
