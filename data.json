@@ -170,7 +170,7 @@
       "date-launch": "2019-06-20T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -197,7 +197,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -333,7 +333,7 @@
       "date-launch": null,
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -458,7 +458,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -534,7 +534,7 @@
       "date-launch": "2016-06-02T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -1442,7 +1442,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Simulación",
         ""
       ],
@@ -1590,7 +1590,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -1725,7 +1725,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -1881,7 +1881,7 @@
       "date-launch": null,
       "genre": [
         "Educativo",
-        "Indie"
+        ""
       ],
       "status": "Desconocido"
     },
@@ -1958,7 +1958,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -2662,9 +2662,7 @@
         "Man Eater Games"
       ],
       "date-launch": "2017-07-25T00:00:00.000Z",
-      "genre": [
-        "Indie"
-      ],
+      "genre": null,
       "status": "Publicado"
     },
     {
@@ -2764,7 +2762,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "En Desarrollo"
@@ -2915,7 +2913,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie",
+        "",
         "Rol"
       ],
       "status": "Publicado"
@@ -3082,7 +3080,7 @@
       "date-launch": "2018-11-29T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -3109,7 +3107,7 @@
       "genre": [
         "Aventura",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -4624,7 +4622,7 @@
       "date-launch": "2022-02-02T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Deportes"
       ],
       "status": "Publicado"
@@ -4665,7 +4663,9 @@
       ],
       "publishers": null,
       "date-launch": null,
-      "genre": null,
+      "genre": [
+        "RPG"
+      ],
       "status": "En Desarrollo"
     },
     {
@@ -4772,7 +4772,7 @@
       "date-launch": "2019-05-03T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -5365,9 +5365,7 @@
         "Tekuani Games"
       ],
       "date-launch": "2023-03-30T00:00:00.000Z",
-      "genre": [
-        "Indie"
-      ],
+      "genre": null,
       "status": "Publicado"
     },
     {
@@ -6042,7 +6040,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -6185,7 +6183,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -6775,7 +6773,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -6855,8 +6853,8 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
-        "funded": false
+        "url": "https://www.kickstarter.com/projects/1571402711/elliot-quest",
+        "funded": true
       },
       "developers": [
         "Ansimuz Games"
@@ -6867,22 +6865,6 @@
         "Aventura"
       ],
       "status": "Publicado"
-    },
-    {
-      "name": "Elliot Quest",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": "https://www.kickstarter.com/projects/1571402711/elliot-quest",
-        "funded": true
-      },
-      "developers": [
-        "Ansimuz Games"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": "Desconocido"
     },
     {
       "name": "Elves Clan: Tricky Adventures",
@@ -7788,7 +7770,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -8024,7 +8006,7 @@
       "date-launch": "2021-07-15T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -8612,7 +8594,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -8671,7 +8653,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -8861,7 +8843,7 @@
       "date-launch": "2020-07-19T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -8992,7 +8974,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -9496,7 +9478,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -9548,7 +9530,7 @@
       ],
       "date-launch": "2022-06-29T00:00:00.000Z",
       "genre": [
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -9575,7 +9557,7 @@
       "date-launch": null,
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -9993,7 +9975,7 @@
       "genre": [
         "Aventura",
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -10082,7 +10064,7 @@
       "date-launch": "2022-08-25T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -10268,7 +10250,7 @@
       ],
       "date-launch": "2015-04-27T00:00:00.000Z",
       "genre": [
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -10750,7 +10732,7 @@
       "date-launch": null,
       "genre": [
         "Aventura",
-        "Indie",
+        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -11054,7 +11036,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -11302,7 +11284,7 @@
       "date-launch": "2017-04-13T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -11448,7 +11430,7 @@
       ],
       "date-launch": "2022-12-09T00:00:00.000Z",
       "genre": [
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -11510,7 +11492,7 @@
       "date-launch": "2022-11-01T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -11672,7 +11654,7 @@
       "date-launch": "2019-10-16T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación",
         "Estrategia"
       ],
@@ -11770,7 +11752,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -11891,7 +11873,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -12762,7 +12744,7 @@
       "date-launch": null,
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -12877,7 +12859,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -12910,7 +12892,7 @@
         "Acción",
         "Aventura",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -12936,7 +12918,7 @@
       "date-launch": "2016-07-12T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -13112,7 +13094,7 @@
       "date-launch": "2020-08-18T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -13420,7 +13402,7 @@
       "date-launch": "2021-06-23T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -13478,7 +13460,7 @@
       "date-launch": "2023-03-09T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -13674,7 +13656,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -13723,7 +13705,7 @@
       "date-launch": "2016-05-13T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -13773,7 +13755,7 @@
       "date-launch": "2016-10-25T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -14211,7 +14193,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Rol"
       ],
       "status": "Publicado"
@@ -14497,7 +14479,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -14875,7 +14857,7 @@
       ],
       "date-launch": "2016-01-15T00:00:00.000Z",
       "genre": [
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -14933,7 +14915,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15366,7 +15348,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15574,7 +15556,7 @@
       "date-launch": "2019-05-30T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -15651,7 +15633,7 @@
       "date-launch": "2023-03-29T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15754,7 +15736,7 @@
       "date-launch": "2022-04-14T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15804,7 +15786,7 @@
       "date-launch": "2021-01-21T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15830,7 +15812,7 @@
       "date-launch": "2020-01-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -15854,9 +15836,7 @@
         "Juan Enrique Pedraza Rejon"
       ],
       "date-launch": "2017-11-21T00:00:00.000Z",
-      "genre": [
-        "Indie"
-      ],
+      "genre": null,
       "status": "Publicado"
     },
     {
@@ -15969,7 +15949,7 @@
       "date-launch": "2020-11-20T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -16544,7 +16524,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -16939,7 +16919,7 @@
       "date-launch": "2021-10-29T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -16983,7 +16963,7 @@
       "date-launch": "2020-10-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -17009,7 +16989,7 @@
       "date-launch": "2023-05-04T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -17048,7 +17028,7 @@
       "date-launch": "2019-08-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie",
+        "",
         "Carreras"
       ],
       "status": "Publicado"
@@ -17481,7 +17461,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie",
+        "",
         "Carreras",
         "Estrategia"
       ],
@@ -17775,7 +17755,7 @@
       "date-launch": null,
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -18148,7 +18128,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -18459,7 +18439,7 @@
       "date-launch": "2021-04-23T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -18480,7 +18460,7 @@
       "genre": [
         "Plataformas",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Cancelado"
     },
@@ -18506,7 +18486,7 @@
       "date-launch": "2016-09-15T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -18619,7 +18599,7 @@
       "genre": [
         "Acción",
         "Free to Play",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -18729,7 +18709,7 @@
       "date-launch": "2019-10-19T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -19234,7 +19214,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -19426,7 +19406,7 @@
       "date-launch": "2016-09-29T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -19522,6 +19502,22 @@
         "Aventura"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Táctico",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Farda Games"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido"
     },
     {
       "name": "TanTam",
@@ -20035,9 +20031,7 @@
         "Merlino Games"
       ],
       "date-launch": "2021-07-13T00:00:00.000Z",
-      "genre": [
-        "Indie"
-      ],
+      "genre": null,
       "status": "Publicado"
     },
     {
@@ -20089,7 +20083,7 @@
       "date-launch": "2023-02-17T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -20140,7 +20134,7 @@
       "date-launch": null,
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -20327,7 +20321,7 @@
       "date-launch": "2019-11-13T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -20366,7 +20360,7 @@
       "date-launch": "2020-11-02T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -20394,7 +20388,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -20515,7 +20509,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -20646,7 +20640,7 @@
       "genre": [
         "Aventura",
         "RPG",
-        "Indie"
+        ""
       ],
       "status": "En Desarrollo"
     },
@@ -20817,7 +20811,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -21244,7 +21238,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Carreras"
       ],
       "status": "Publicado"
@@ -21442,7 +21436,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -21468,7 +21462,7 @@
       "date-launch": "2016-11-10T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -21988,7 +21982,7 @@
       "genre": [
         "Acción",
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -22436,7 +22430,7 @@
       "date-launch": "2016-09-27T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
@@ -22462,7 +22456,7 @@
       "date-launch": "2019-07-30T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -22489,7 +22483,7 @@
       "date-launch": "2020-02-24T00:00:00.000Z",
       "genre": [
         "Casual",
-        "Indie",
+        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -22574,7 +22568,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie",
+        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -22680,7 +22674,7 @@
       "date-launch": null,
       "genre": [
         "Acción",
-        "Indie",
+        "",
         "Simulación",
         "Deportes"
       ],
@@ -22752,7 +22746,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Indie"
+        ""
       ],
       "status": "Publicado"
     },
