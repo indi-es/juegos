@@ -13,7 +13,7 @@ const sheets = google.sheets("v4");
 
 const sheetID = `1qZNjZOXthLsm_NQynQ2VOPgVUMK6hfAuLeTj1HG-bV0`;
 const sheetName = `Videojuegos mexicanos`;
-const sheetRange = `A9:P1009`;
+const sheetRange = `A9:P1023`;
 const API_KEY = process.env.GOOGLE_API_KEY;
 const request = {
   spreadsheetId: sheetID,

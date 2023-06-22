@@ -169,8 +169,7 @@
       ],
       "date-launch": "2019-06-20T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -196,8 +195,7 @@
       "date-launch": "2023-03-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -332,8 +330,7 @@
       ],
       "date-launch": null,
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "En Desarrollo"
     },
@@ -457,8 +454,7 @@
       "date-launch": "2015-12-31T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -533,8 +529,7 @@
       ],
       "date-launch": "2016-06-02T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -648,6 +643,24 @@
         "Casual"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Aero Poop",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": [
+        "Facebook"
+      ],
+      "date-launch": "2009-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Age of ilcoin VR : Retribution",
@@ -1442,7 +1455,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Simulación",
         ""
       ],
@@ -1543,6 +1555,22 @@
         "Simulación"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Astro Bandits",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Cancelado"
     },
     {
       "name": "Astro Clash",
@@ -1957,8 +1985,7 @@
       "date-launch": "2022-03-10T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -2242,6 +2269,22 @@
         "Rompecabezas"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Battle Chip",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2012-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Bauble Buster",
@@ -2762,7 +2805,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Simulación"
       ],
       "status": "En Desarrollo"
@@ -2913,7 +2955,6 @@
       "genre": [
         "Acción",
         "Casual",
-        "",
         "Rol"
       ],
       "status": "Publicado"
@@ -3010,6 +3051,22 @@
       "status": "Publicado"
     },
     {
+      "name": "Bread Boy",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "Breaking Wall",
       "url": null,
       "platforms": [
@@ -3079,8 +3136,7 @@
       ],
       "date-launch": "2018-11-29T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -3106,8 +3162,7 @@
       "date-launch": null,
       "genre": [
         "Aventura",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "En Desarrollo"
     },
@@ -4622,7 +4677,6 @@
       "date-launch": "2022-02-02T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Deportes"
       ],
       "status": "Publicado"
@@ -4771,8 +4825,7 @@
       ],
       "date-launch": "2019-05-03T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -5365,7 +5418,9 @@
         "Tekuani Games"
       ],
       "date-launch": "2023-03-30T00:00:00.000Z",
-      "genre": null,
+      "genre": [
+        "Tower Defense"
+      ],
       "status": "Publicado"
     },
     {
@@ -5872,6 +5927,22 @@
       "status": "Publicado"
     },
     {
+      "name": "Dilo Roll",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "Dim",
       "url": null,
       "platforms": [
@@ -6039,8 +6110,7 @@
       "date-launch": "2018-02-22T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -6182,8 +6252,7 @@
       "date-launch": null,
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "En Desarrollo"
     },
@@ -6608,6 +6677,31 @@
       "status": "Cancelado"
     },
     {
+      "name": "ECCO: The Last Whisper",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1862390/ECCO_The_Last_Whisper/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "URSUS Game Studios"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "Egon",
       "url": null,
       "platforms": [],
@@ -6709,6 +6803,22 @@
       "status": "Descontinuado"
     },
     {
+      "name": "El Chavo Party",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2012-04-24T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "El chavo Pop",
       "url": null,
       "platforms": [],
@@ -6772,8 +6882,7 @@
       "date-launch": "2022-07-03T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -7650,6 +7759,24 @@
       "status": "Publicado"
     },
     {
+      "name": "Finger Shoes",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": [
+        "Chillingo"
+      ],
+      "date-launch": "2011-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
+    },
+    {
       "name": "Fireplace Warriors",
       "url": null,
       "platforms": [
@@ -7769,8 +7896,7 @@
       "date-launch": "2017-04-07T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -7885,6 +8011,22 @@
         "Plataformas"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Fly or Die",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Cancelado"
     },
     {
       "name": "Food Gun",
@@ -8005,8 +8147,7 @@
       ],
       "date-launch": "2021-07-15T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -8372,29 +8513,6 @@
       "status": "Publicado"
     },
     {
-      "name": "Ghosting Vandal",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2289670/Ghosting_Vandal/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Daltair"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": [
-        "Platformer"
-      ],
-      "status": "En Desarrollo"
-    },
-    {
       "name": "Gisselle's Adventure",
       "url": null,
       "platforms": [],
@@ -8593,8 +8711,7 @@
       "date-launch": "2021-08-17T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -8653,7 +8770,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -8678,7 +8794,8 @@
       "publishers": null,
       "date-launch": null,
       "genre": [
-        "Acción Aventura"
+        "Acción",
+        "Aventura"
       ],
       "status": "En Desarrollo"
     },
@@ -8843,7 +8960,6 @@
       "date-launch": "2020-07-19T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -8974,7 +9090,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -9212,6 +9327,22 @@
         "Casual"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "High Hats",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2012-06-23T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Hit the Clown",
@@ -9477,8 +9608,7 @@
       "date-launch": "2016-07-19T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -9530,7 +9660,6 @@
       ],
       "date-launch": "2022-06-29T00:00:00.000Z",
       "genre": [
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -9556,8 +9685,7 @@
       ],
       "date-launch": null,
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "En Desarrollo"
     },
@@ -9975,7 +10103,6 @@
       "genre": [
         "Aventura",
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -10064,7 +10191,6 @@
       "date-launch": "2022-08-25T00:00:00.000Z",
       "genre": [
         "Aventura",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -10250,7 +10376,6 @@
       ],
       "date-launch": "2015-04-27T00:00:00.000Z",
       "genre": [
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -10732,7 +10857,6 @@
       "date-launch": null,
       "genre": [
         "Aventura",
-        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -11035,8 +11159,7 @@
       "date-launch": "2020-05-15T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -11283,8 +11406,7 @@
       ],
       "date-launch": "2017-04-13T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -11430,7 +11552,6 @@
       ],
       "date-launch": "2022-12-09T00:00:00.000Z",
       "genre": [
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -11491,8 +11612,7 @@
       ],
       "date-launch": "2022-11-01T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -11654,7 +11774,6 @@
       "date-launch": "2019-10-16T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación",
         "Estrategia"
       ],
@@ -11751,10 +11870,25 @@
       "date-launch": "2023-02-22T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Lucky Bird",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Ludo Supremo",
@@ -11872,8 +12006,7 @@
       "date-launch": "2020-05-14T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -12743,8 +12876,7 @@
       "publishers": null,
       "date-launch": null,
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "En Desarrollo"
     },
@@ -12859,7 +12991,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Rol"
       ],
       "status": "En Desarrollo"
@@ -12891,8 +13022,7 @@
       "genre": [
         "Acción",
         "Aventura",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -12917,8 +13047,7 @@
       ],
       "date-launch": "2016-07-12T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -13094,7 +13223,6 @@
       "date-launch": "2020-08-18T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -13402,7 +13530,6 @@
       "date-launch": "2021-06-23T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -13460,10 +13587,25 @@
       "date-launch": "2023-03-09T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Mosca Gogo",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Mosha Online",
@@ -13655,8 +13797,7 @@
       "date-launch": "2018-02-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -13704,8 +13845,7 @@
       ],
       "date-launch": "2016-05-13T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -13754,8 +13894,7 @@
       ],
       "date-launch": "2016-10-25T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -14193,7 +14332,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Rol"
       ],
       "status": "Publicado"
@@ -14478,8 +14616,7 @@
       "date-launch": "2022-09-02T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -14857,7 +14994,7 @@
       ],
       "date-launch": "2016-01-15T00:00:00.000Z",
       "genre": [
-        ""
+        "Disparos"
       ],
       "status": "Publicado"
     },
@@ -14914,8 +15051,7 @@
       "date-launch": "2018-03-15T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -15347,8 +15483,7 @@
       "date-launch": "2017-08-23T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -15535,6 +15670,29 @@
       "status": "Lost media"
     },
     {
+      "name": "Plataformas, Acción",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2289670/Ghosting_Vandal/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Daltair"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Platformer"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "Pleasure Airlines ",
       "url": null,
       "platforms": [
@@ -15556,7 +15714,6 @@
       "date-launch": "2019-05-30T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -15632,8 +15789,7 @@
       ],
       "date-launch": "2023-03-29T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -15735,8 +15891,7 @@
       ],
       "date-launch": "2022-04-14T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -15785,8 +15940,7 @@
       ],
       "date-launch": "2021-01-21T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -15811,8 +15965,7 @@
       ],
       "date-launch": "2020-01-27T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -15836,7 +15989,9 @@
         "Juan Enrique Pedraza Rejon"
       ],
       "date-launch": "2017-11-21T00:00:00.000Z",
-      "genre": null,
+      "genre": [
+        "Supervivencia"
+      ],
       "status": "Publicado"
     },
     {
@@ -16309,7 +16464,9 @@
         "EnsenaSoft"
       ],
       "date-launch": null,
-      "genre": null,
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Lost media"
     },
     {
@@ -16523,8 +16680,7 @@
       "date-launch": "2019-11-03T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -16918,8 +17074,7 @@
       ],
       "date-launch": "2021-10-29T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -16962,8 +17117,7 @@
       ],
       "date-launch": "2020-10-27T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -16989,7 +17143,6 @@
       "date-launch": "2023-05-04T00:00:00.000Z",
       "genre": [
         "Acción",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -17028,7 +17181,6 @@
       "date-launch": "2019-08-27T00:00:00.000Z",
       "genre": [
         "Acción",
-        "",
         "Carreras"
       ],
       "status": "Publicado"
@@ -17461,7 +17613,6 @@
       "genre": [
         "Acción",
         "Casual",
-        "",
         "Carreras",
         "Estrategia"
       ],
@@ -18128,7 +18279,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -18439,7 +18589,6 @@
       "date-launch": "2021-04-23T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -18485,8 +18634,7 @@
       ],
       "date-launch": "2016-09-15T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -18597,9 +18745,7 @@
       ],
       "date-launch": "2018-10-31T00:00:00.000Z",
       "genre": [
-        "Acción",
-        "Free to Play",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -18709,7 +18855,6 @@
       "date-launch": "2019-10-19T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -19213,8 +19358,7 @@
       "date-launch": "2019-04-02T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -19405,8 +19549,7 @@
       ],
       "date-launch": "2016-09-29T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -19495,8 +19638,10 @@
       "developers": [
         "Kaxan Games"
       ],
-      "publishers": null,
-      "date-launch": "2013-08-15T00:00:00.000Z",
+      "publishers": [
+        "Chillingo"
+      ],
+      "date-launch": "2011-01-01T00:00:00.000Z",
       "genre": [
         "Acción",
         "Aventura"
@@ -19994,6 +20139,30 @@
       "status": "Publicado"
     },
     {
+      "name": "The Bakerville Case",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2140620/The_Bakerville_Case/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Moonlight Gameworks",
+        "Scorchlight Entertainment"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo"
+    },
+    {
       "name": "The Balloons",
       "url": null,
       "platforms": [],
@@ -20031,7 +20200,9 @@
         "Merlino Games"
       ],
       "date-launch": "2021-07-13T00:00:00.000Z",
-      "genre": null,
+      "genre": [
+        "Rompecabezas"
+      ],
       "status": "Publicado"
     },
     {
@@ -20082,8 +20253,7 @@
       ],
       "date-launch": "2023-02-17T00:00:00.000Z",
       "genre": [
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -20133,8 +20303,7 @@
       ],
       "date-launch": null,
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "En Desarrollo"
     },
@@ -20321,7 +20490,6 @@
       "date-launch": "2019-11-13T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -20360,7 +20528,6 @@
       "date-launch": "2020-11-02T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -20388,7 +20555,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -20508,8 +20674,7 @@
       "date-launch": "2020-12-04T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -20596,7 +20761,6 @@
       "genre": [
         "Aventura",
         "Casual",
-        "Free to Play",
         "Simulación"
       ],
       "status": "En Desarrollo"
@@ -20810,8 +20974,7 @@
       "date-launch": "2020-02-12T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -20988,6 +21151,22 @@
         "Estrategia"
       ],
       "status": "Publicado"
+    },
+    {
+      "name": "Torture Bunny",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kaxan Games"
+      ],
+      "publishers": null,
+      "date-launch": "2011-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media"
     },
     {
       "name": "Totally Unexpected Safety Drill",
@@ -21238,7 +21417,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Carreras"
       ],
       "status": "Publicado"
@@ -21435,8 +21613,7 @@
       "date-launch": "2018-05-08T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
@@ -21461,8 +21638,7 @@
       ],
       "date-launch": "2016-11-10T00:00:00.000Z",
       "genre": [
-        "Acción",
-        ""
+        "Acción"
       ],
       "status": "Publicado"
     },
@@ -21981,8 +22157,7 @@
       "date-launch": "2017-04-04T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -22429,8 +22604,7 @@
       ],
       "date-launch": "2016-09-27T00:00:00.000Z",
       "genre": [
-        "Casual",
-        ""
+        "Casual"
       ],
       "status": "Publicado"
     },
@@ -22456,7 +22630,6 @@
       "date-launch": "2019-07-30T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -22483,7 +22656,6 @@
       "date-launch": "2020-02-24T00:00:00.000Z",
       "genre": [
         "Casual",
-        "",
         "Simulación"
       ],
       "status": "Publicado"
@@ -22568,7 +22740,6 @@
       "genre": [
         "Acción",
         "Aventura",
-        "",
         "Estrategia"
       ],
       "status": "Publicado"
@@ -22674,7 +22845,6 @@
       "date-launch": null,
       "genre": [
         "Acción",
-        "",
         "Simulación",
         "Deportes"
       ],
@@ -22745,8 +22915,7 @@
       "date-launch": "2020-11-13T00:00:00.000Z",
       "genre": [
         "Acción",
-        "Aventura",
-        ""
+        "Aventura"
       ],
       "status": "Publicado"
     },
