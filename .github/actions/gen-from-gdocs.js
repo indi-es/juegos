@@ -13,7 +13,7 @@ const sheets = google.sheets("v4");
 
 const sheetID = `1qZNjZOXthLsm_NQynQ2VOPgVUMK6hfAuLeTj1HG-bV0`;
 const sheetName = `Videojuegos mexicanos`;
-const sheetRange = `A9:P1023`;
+const sheetRange = `A9:Q1023`;
 const API_KEY = process.env.GOOGLE_API_KEY;
 const request = {
   spreadsheetId: sheetID,
@@ -24,7 +24,6 @@ const request = {
 
 try {
   const response = (await sheets.spreadsheets.get(request)).data;
-  // console.log(JSON.stringify(response, null, 2));
   const data = response.sheets[0]?.data[0]?.rowData.map(({ values }) => {
     const [
       cellName,
@@ -43,6 +42,7 @@ try {
       cellDateLaunched,
       cellGenre,
       cellState,
+      cellEngine,
     ] = values;
 
     const name = cellName?.userEnteredValue?.stringValue ?? null;
@@ -83,6 +83,7 @@ try {
           ?.split(",")
           .map((item) => item.trim()) ?? null,
       status: cellState?.userEnteredValue?.stringValue ?? null,
+      engine: cellEngine?.userEnteredValue?.stringValue ?? null,
     };
   });
 
