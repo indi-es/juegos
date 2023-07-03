@@ -1494,7 +1494,7 @@
         "Acción"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Ariel",
@@ -2567,7 +2567,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Beast High",
@@ -4312,7 +4312,7 @@
         "funded": false
       },
       "developers": [
-        "Kokonut Gamxs"
+        "Kokonut Games"
       ],
       "publishers": null,
       "date-launch": "2020-06-24T00:00:00.000Z",
@@ -5190,7 +5190,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Computadora de Princesas",
@@ -6038,7 +6038,7 @@
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Deep Drill",
@@ -7822,7 +7822,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Evil Popper",
@@ -8950,7 +8950,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Gambit Gun",
@@ -10882,7 +10882,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Isla Sinaloa",
@@ -12417,7 +12417,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Lobo With A Shotgun ",
@@ -12971,7 +12971,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Maestro Dragón",
@@ -15436,7 +15436,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "GB Studio"
     },
     {
       "name": "Neon Connect Clicker",
@@ -17527,7 +17527,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Puppy Dog Jigsaw Puzzles",
@@ -18748,7 +18748,7 @@
         "Acción"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Ronin Koleo",
@@ -19831,7 +19831,7 @@
         "funded": false
       },
       "developers": [
-        "Kokonut Gamxs"
+        "Kokonut Games"
       ],
       "publishers": null,
       "date-launch": "2015-09-02T00:00:00.000Z",
@@ -20307,30 +20307,6 @@
       "platforms": [
         {
           "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.FatPanda.Spellcasters&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1686804604%252C%2522source%2522%253Anull%257D&fbclid=IwAR00lrch1heNOPnHFqfKn6K2KrNTVvNJ6MA6e7deex78LjNASdT8rGr2mN0"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": [
-        "Jesus García"
-      ],
-      "date-launch": "2018-07-30T00:00:00.000Z",
-      "genre": [
-        "Estrategia"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "Spellcasters",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
           "url": "https://play.google.com/store/apps/details?id=com.GatoMocho.Spellcasters"
         }
       ],
@@ -20348,6 +20324,30 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Spellcasters",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.FatPanda.Spellcasters&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1686804604%252C%2522source%2522%253Anull%257D&fbclid=IwAR00lrch1heNOPnHFqfKn6K2KrNTVvNJ6MA6e7deex78LjNASdT8rGr2mN0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Jesus García"
+      ],
+      "date-launch": "2018-07-30T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Spiral Pen",
@@ -20656,7 +20656,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Stopwatch",
@@ -22252,6 +22252,28 @@
       "engine": "Otro"
     },
     {
+      "name": "The Night Of The Inquisitor",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2417730/The_Night_Of_The_Inquisitor/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ZombieByte"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Godot"
+    },
+    {
       "name": "The OrangeRice",
       "url": null,
       "platforms": [
@@ -22352,7 +22374,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "The Saint Road",
@@ -22419,7 +22441,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "The Tale of Nanuk: The Ocean Fairy",
@@ -22915,7 +22937,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Towerino",
@@ -23623,7 +23645,7 @@
         "Acción"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Vete a la Versh: Te Agarre X Hay",
@@ -24311,7 +24333,7 @@
       "date-launch": null,
       "genre": null,
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Construct"
     },
     {
       "name": "Well, Fuck You Too",
@@ -24935,34 +24957,6 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
-    },
-    {
-      "name": "Zuri's Revenge",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.nyabetabya.zuri"
-        },
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/us/app/zuris-revenge/id1547148893"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": [
-        "Nyabe Tabya"
-      ],
-      "date-launch": "2021-04-14T00:00:00.000Z",
-      "genre": [
-        "Estrategia"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
     }
   ]
 }
