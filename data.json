@@ -2220,7 +2220,7 @@
         "Arcade"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "GB Studio"
     },
     {
       "name": "Balin",
@@ -5454,7 +5454,7 @@
         "Plataformas"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "GB Studio"
     },
     {
       "name": "Crayola Alternative",
@@ -7356,7 +7356,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Impact"
     },
     {
       "name": "Elves Clan: Tricky Adventures",
@@ -7475,7 +7475,7 @@
         "Novela Visual"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Twine"
     },
     {
       "name": "Equanimity",
@@ -24099,7 +24099,7 @@
         "Novela Visual"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "Twine"
     },
     {
       "name": "Where's My What",
@@ -24826,8 +24826,10 @@
       "publishers": [
         "Zuper Hugo!"
       ],
-      "date-launch": null,
-      "genre": null,
+      "date-launch": "2019-11-22T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
       "status": "Publicado",
       "engine": "Unity"
     },
@@ -24850,7 +24852,7 @@
       "publishers": [
         "Zuper Hugo!"
       ],
-      "date-launch": null,
+      "date-launch": "2021-01-30T00:00:00.000Z",
       "genre": null,
       "status": "Publicado",
       "engine": "Unity"

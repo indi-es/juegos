@@ -52,7 +52,7 @@ async function getArrayData(arr) {
 const data = JSON.parse(await readFile("../../data.json", "utf8"));
 
 const filtered = data.games.filter((item) => {
-  if (item.engine != "Desconocido") return false;
+  if (item.engine !== "Desconocido" && item.engine !== "Otro") return false;
   if (item.platforms == null) return false;
   for (let index = 0; index < item.platforms.length; index++) {
     const element = item.platforms[index];
