@@ -22520,7 +22520,7 @@
         "Simulación"
       ],
       "status": "Publicado",
-      "engine": "Publicado"
+      "engine": "Unity"
     },
     {
       "name": "Tommy was angry",
@@ -24729,24 +24729,14 @@
       "engine": "Desconocido"
     },
     {
-      "name": null,
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": null,
-      "engine": null
-    },
-    {
       "name": "Bobby en Busca de Fama",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/bobby-en-busca-de-fama"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24757,15 +24747,23 @@
       "publishers": [
         "Zuper Hugo!"
       ],
-      "date-launch": null,
-      "genre": null,
+      "date-launch": "2020-09-12T00:00:00.000Z",
+      "genre": [
+        "Plataformas",
+        "Disparos"
+      ],
       "status": "Publicado",
       "engine": "Unity"
     },
     {
       "name": "Rainbow Sowrd",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/rainbow-sword"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24776,15 +24774,22 @@
       "publishers": [
         "Zuper Hugo!"
       ],
-      "date-launch": null,
-      "genre": null,
+      "date-launch": "2022-06-16T00:00:00.000Z",
+      "genre": [
+        "Rol"
+      ],
       "status": "Publicado",
       "engine": "Unity"
     },
     {
       "name": "Candy",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/candy"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24795,15 +24800,22 @@
       "publishers": [
         "Zuper Hugo!"
       ],
-      "date-launch": null,
-      "genre": null,
+      "date-launch": "2020-10-31T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
       "status": "Publicado",
       "engine": "Unity"
     },
     {
       "name": "Super Ninja Game",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/super-ninja-game"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24822,7 +24834,12 @@
     {
       "name": "Danza Cultura",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/danza-cultura"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24841,7 +24858,12 @@
     {
       "name": "Gem Finder",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/gem-finder"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24860,7 +24882,12 @@
     {
       "name": "DREAM",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/dream"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24879,7 +24906,12 @@
     {
       "name": "Bachelandia",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/bachelandia"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -24898,7 +24930,12 @@
     {
       "name": "Jardín de Gorat",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/el-jardin-de-gorat"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false

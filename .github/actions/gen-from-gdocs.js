@@ -46,6 +46,8 @@ try {
     ] = values;
 
     const name = cellName?.userEnteredValue?.stringValue ?? null;
+    if (!name) return null;
+
     return {
       name: name,
       url: cellName?.hyperlink ?? null,
@@ -88,7 +90,7 @@ try {
   });
 
   const jsonFile = {
-    games: data,
+    games: data.filter(Boolean),
   };
 
   await saveFile("../../data.json", JSON.stringify(jsonFile, null, 2));
