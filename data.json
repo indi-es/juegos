@@ -279,7 +279,7 @@
         "Rompecabezas"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "A Rat’s Quest: The way back home.",
@@ -2089,6 +2089,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Bachelandia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/bachelandia"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2019-02-08T00:00:00.000Z",
+      "genre": [
+        "Carreras"
+      ],
+      "status": "Publicado",
+      "engine": "Construct"
+    },
+    {
       "name": "Back To Home",
       "url": null,
       "platforms": [],
@@ -2964,6 +2990,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Bobby en Busca de Fama",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/bobby-en-busca-de-fama"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2020-09-12T00:00:00.000Z",
+      "genre": [
+        "Plataformas",
+        "Disparos"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "BodyWars",
       "url": null,
       "platforms": [
@@ -3782,6 +3835,32 @@
       ],
       "status": "Publicado",
       "engine": "Unreal"
+    },
+    {
+      "name": "Candy",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/candy"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2020-10-31T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Cannon-Man Jumper",
@@ -5797,6 +5876,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Danza Cultura",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/danza-cultura"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2019-11-22T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Dark Tales from México: Prelude. Just a Dream... with The Sack Man ",
       "url": null,
       "platforms": [
@@ -6788,6 +6893,32 @@
       ],
       "status": "Lost media",
       "engine": "Desconocido"
+    },
+    {
+      "name": "DREAM",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/dream"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2018-12-30T00:00:00.000Z",
+      "genre": [
+        "Disparos"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Dream of Darkness",
@@ -8923,6 +9054,32 @@
       "engine": "Otro"
     },
     {
+      "name": "Gem Finder",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/gem-finder"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2021-01-30T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Ghost Apocalypse",
       "url": null,
       "platforms": [],
@@ -10893,6 +11050,33 @@
       ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Jardín de Gorat",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/el-jardin-de-gorat"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2019-02-05T00:00:00.000Z",
+      "genre": [
+        "Educativo",
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Juanpa Zurita's Skydive Adventure",
@@ -17988,6 +18172,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Rainbow Sowrd",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/rainbow-sword"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2022-06-16T00:00:00.000Z",
+      "genre": [
+        "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "RainingCrystals Chronicles",
       "url": null,
       "platforms": [],
@@ -20424,7 +20634,7 @@
         "Acción"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Stones Fest",
@@ -20662,6 +20872,32 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Super Ninja Game",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://zhtgames.itch.io/super-ninja-game"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zuper Hugo!"
+      ],
+      "publishers": [
+        "Zuper Hugo!"
+      ],
+      "date-launch": "2019-06-03T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Super TapTap Piñata",
@@ -23881,7 +24117,7 @@
         "Disparos"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Waste Classification",
@@ -24727,231 +24963,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Bobby en Busca de Fama",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/bobby-en-busca-de-fama"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": "2020-09-12T00:00:00.000Z",
-      "genre": [
-        "Plataformas",
-        "Disparos"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Rainbow Sowrd",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/rainbow-sword"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": "2022-06-16T00:00:00.000Z",
-      "genre": [
-        "Rol"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Candy",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/candy"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": "2020-10-31T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Super Ninja Game",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/super-ninja-game"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": "2019-11-22T00:00:00.000Z",
-      "genre": [
-        "Educativo"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Danza Cultura",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/danza-cultura"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": "2021-01-30T00:00:00.000Z",
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Gem Finder",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/gem-finder"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": null,
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "DREAM",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/dream"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": null,
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Bachelandia",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/bachelandia"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": null,
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Jardín de Gorat",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://zhtgames.itch.io/el-jardin-de-gorat"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Zuper Hugo!"
-      ],
-      "publishers": [
-        "Zuper Hugo!"
-      ],
-      "date-launch": null,
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
     }
   ]
 }
