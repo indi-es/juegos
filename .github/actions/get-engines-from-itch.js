@@ -3,6 +3,52 @@ import cheerio from "cheerio";
 
 import { readFile } from "fs/promises";
 
+const waitSeconds = 1_000 * 1;
+
+function wait(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
+async function getMadeWithInfo(element) {
+  try {
+    const url = element.platforms.find(
+      (element) => element.name === "Itch"
+    ).url;
+    console.log("Scraping info from Itch:", url);
+    const response = await fetch(url);
+
+    if (response.status !== 200) {
+      console.log(response.status);
+    }
+
+    const body = await response.text();
+    const $ = cheerio.load(body);
+    const $madeWithRow = $(
+      `.game_info_panel_widget table td:contains("Made with") <`
+    );
+
+    if ($madeWithRow.length > 0) {
+      const madeWith = $madeWithRow.find(`td:last-child`).text();
+      return { name: element.name, madeWith };
+    }
+
+    return null;
+  } catch (e) {
+    console.log(e);
+    return null;
+  }
+}
+
+async function getArrayData(arr) {
+  const data = [];
+  for (let index = 0; index < arr.length; index++) {
+    const element = arr[index];
+    const info = await getMadeWithInfo(element);
+    data.push(info);
+  }
+  return data.filter(Boolean);
+}
+
 const data = JSON.parse(await readFile("../../data.json", "utf8"));
 
 const filtered = data.games.filter((item) => {
@@ -17,25 +63,7 @@ const filtered = data.games.filter((item) => {
 
 console.log(`${filtered.length} Juegos con engine Desconocido en Itch`);
 
-const madeWith = await Promise.all(
-  filtered.map(async (element) => {
-    const url = element.platforms.find(
-      (element) => element.name === "Itch"
-    ).url;
-    const response = await fetch(url);
-    const body = await response.text();
-    const $ = cheerio.load(body);
-    const $madeWithRow = $(
-      `.game_info_panel_widget table td:contains("Made with") <`
-    );
+const madeWith = await getArrayData(filtered);
 
-    if ($madeWithRow.length > 0) {
-      const madeWith = $madeWithRow.find(`td:last-child`).text();
-      return { name: element.name, madeWith };
-    }
-  })
-);
-
-const madeWithFiltered = madeWith.filter(Boolean);
-console.log(`Encontrados ${madeWithFiltered.length} juegos con su información`);
-console.log(madeWithFiltered);
+console.log(`Encontrados ${madeWith.length} juegos con su información`);
+console.log(madeWith);
