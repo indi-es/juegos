@@ -79,6 +79,28 @@
       "engine": "Unity"
     },
     {
+      "name": "2B: Black and White",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ORPSRAC",
+        "Cataxis"
+      ],
+      "publishers": [
+        "Cataxis"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Arcade"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
       "name": "3 Minute Mahjong",
       "url": null,
       "platforms": [
@@ -24954,6 +24976,34 @@
       "date-launch": "2023-02-03T00:00:00.000Z",
       "genre": [
         "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Zuri's Revenge",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.nyabetabya.zuri"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/us/app/zuris-revenge/id1547148893"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Nyabe Tabya"
+      ],
+      "date-launch": "2021-04-14T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
       ],
       "status": "Publicado",
       "engine": "Unity"
