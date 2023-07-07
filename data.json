@@ -309,14 +309,19 @@
       "platforms": [],
       "crowdfunding": {
         "url": null,
-        "funded": false
+        "funded": true
       },
       "developers": [
         "The Dreamerians"
       ],
-      "publishers": null,
+      "publishers": [
+        "HandyGames"
+      ],
       "date-launch": null,
-      "genre": null,
+      "genre": [
+        "Accion",
+        "Aventura"
+      ],
       "status": "En Desarrollo",
       "engine": "Unity"
     },
@@ -2644,7 +2649,7 @@
         "Aventura"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "En Desarrollo"
     },
     {
       "name": "Betito VS la influenza",
@@ -6165,7 +6170,7 @@
         "Novela Visual"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Design Hero",
@@ -11965,7 +11970,7 @@
         "Aventura"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Laser Clicker",
@@ -12293,7 +12298,7 @@
         "Disparos"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Link Twin",
@@ -12799,7 +12804,7 @@
         "Aventura"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Luckily, My Arm Is A Shotgun",
@@ -16141,7 +16146,7 @@
         "Rompecabezas"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Paradise Lost",
@@ -19404,7 +19409,7 @@
         "Rompecabezas"
       ],
       "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "SER",
@@ -19429,7 +19434,7 @@
         "Rol"
       ],
       "status": "Publicado",
-      "engine": "Otro"
+      "engine": "RPG Maker"
     },
     {
       "name": "ShadowBox VR",
@@ -22617,7 +22622,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Thumbeats",
@@ -22885,7 +22890,7 @@
         "Estrategia"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Totem Guard",
@@ -22983,7 +22988,7 @@
         "Estrategia"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Toy Blitz ",

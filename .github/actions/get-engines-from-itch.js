@@ -26,13 +26,19 @@ async function getMadeWithInfo(element) {
     const $madeWithRow = $(
       `.game_info_panel_widget table td:contains("Made with") <`
     );
+    const $tagsRow = $(`.game_info_panel_widget table td:contains("Tags") <`);
+    let madeWith = null;
+    let tags = null;
 
     if ($madeWithRow.length > 0) {
-      const madeWith = $madeWithRow.find(`td:last-child`).text();
-      return { name: element.name, madeWith };
+      madeWith = $madeWithRow.find(`td:last-child`).text();
     }
 
-    return null;
+    if ($tagsRow.length > 0) {
+      tags = $tagsRow.find(`td:last-child`).text();
+    }
+
+    return { name: element.name, madeWith, tags };
   } catch (e) {
     console.log(e);
     return null;
