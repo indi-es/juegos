@@ -81,23 +81,28 @@
     {
       "name": "2B: Black and White",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://cataxis.itch.io/2b-black-and-white"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
       },
       "developers": [
-        "ORPSRAC",
+        "LosthinK",
         "Cataxis"
       ],
       "publishers": [
         "Cataxis"
       ],
-      "date-launch": null,
+      "date-launch": "2023-07-08T00:00:00.000Z",
       "genre": [
         "Arcade"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -3538,6 +3543,26 @@
       ],
       "status": "Publicado",
       "engine": "Pico-8"
+    },
+    {
+      "name": "Bugs Killer",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis",
+        "LosthinK"
+      ],
+      "publishers": [
+        "Cataxis"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Unity"
     },
     {
       "name": "Build & Empire",
@@ -9317,25 +9342,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Godslayer: Yokai Sisters",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Queen Zombie"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": [
-        "Supervivencia"
-      ],
-      "status": "En Desarrollo",
-      "engine": "Unity"
-    },
-    {
       "name": "Good Night Carl",
       "url": null,
       "platforms": [],
@@ -10360,6 +10366,26 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Humans Took My Neighbors!",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/humanstookmn/humans-took-my-neighbors-1",
+        "funded": false
+      },
+      "developers": [
+        "Carlos Garza",
+        "Carf Darko"
+      ],
+      "publishers": [
+        "Carlos Garza"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Hunter Legacy",
@@ -15177,6 +15203,33 @@
       "engine": "Unity"
     },
     {
+      "name": "My Little Alien in the fucking space",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://cataxis.itch.io/my-little-alien-in-the-fucking-space"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis"
+      ],
+      "publishers": [
+        "Cataxis"
+      ],
+      "date-launch": "2023-07-12T00:00:00.000Z",
+      "genre": [
+        "Corredor Infinito",
+        "Disparos"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "My Tulip Farm",
       "url": null,
       "platforms": [
@@ -18186,7 +18239,8 @@
       },
       "developers": [
         "Cataxis",
-        "ORPSRAC"
+        "Moiron",
+        "LosthinK"
       ],
       "publishers": [
         "Cataxis"
@@ -20442,6 +20496,32 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Splash Adventure: The Maze of Morla",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/789610/Splash_Adventure_The_Maze_of_Morla/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Morla Games"
+      ],
+      "publishers": [
+        "Morla Games"
+      ],
+      "date-launch": "2018-03-15T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Squer",
