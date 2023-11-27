@@ -235,6 +235,27 @@
       "engine": "Unity"
     },
     {
+      "name": "A birthday",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mabox"
+      ],
+      "publishers": [
+        "Dream Dog"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "A Cien Revoluciones",
       "url": null,
       "platforms": [],
@@ -1728,7 +1749,12 @@
     {
       "name": "Astro Clash",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.BlueTrain.ClashAstro"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -1742,7 +1768,7 @@
         "Disparos",
         "Acción"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -1805,30 +1831,6 @@
       "url": null,
       "platforms": [
         {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.PaleBlueDuck.AlmostFromScratch"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": [
-        "Pale Blue Duck"
-      ],
-      "date-launch": "2018-08-30T00:00:00.000Z",
-      "genre": [
-        "Arcade"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "Atoms",
-      "url": null,
-      "platforms": [
-        {
           "name": "Itch",
           "url": "https://paleblueduck.itch.io/atoms"
         }
@@ -1851,6 +1853,30 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Atoms",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.PaleBlueDuck.AlmostFromScratch"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Pale Blue Duck"
+      ],
+      "date-launch": "2018-08-30T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Atrapame",
@@ -2707,6 +2733,29 @@
       "date-launch": "2020-12-08T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Before Winter Comes",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dracielle",
+        "ShinKikuchiVT",
+        "Meldarion"
+      ],
+      "publishers": [
+        "DSM"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Simulación"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -6144,6 +6193,25 @@
       "engine": "Unity"
     },
     {
+      "name": "Dato y Pato: en la fábrica de dulces",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jinsen"
+      ],
+      "publishers": null,
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": null
+    },
+    {
       "name": "Dawn for the End a Hardcore Game with Retro Graphics",
       "url": null,
       "platforms": [],
@@ -6183,6 +6251,30 @@
       ],
       "status": "Lost media",
       "engine": "Flash"
+    },
+    {
+      "name": "Dead Dogs Alley",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Eduardo Fierro",
+        "Guillermo Escuadra",
+        "Irving Macías",
+        "Paulina Marín"
+      ],
+      "publishers": [
+        "Econous"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": null
     },
     {
       "name": "Death by Growth",
@@ -6902,6 +6994,33 @@
       "engine": "Godot"
     },
     {
+      "name": "Don't Hug the Mascot",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PinkChocoball",
+        "Marroquina",
+        "NeosHunter",
+        "ARIKO"
+      ],
+      "publishers": [
+        "PinkChocoball",
+        "Marroquina",
+        "NeosHunter",
+        "ARIKO"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": "Game Maker"
+    },
+    {
       "name": "Doodle Summer Games Free",
       "url": null,
       "platforms": [
@@ -7514,6 +7633,29 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Unity"
+    },
+    {
+      "name": "El llanto de Lele",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "James Baxter",
+        "Ari",
+        "Chars y Olenka"
+      ],
+      "publishers": [
+        "Doomverse"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
     },
     {
       "name": "El Mariana contra los Teletubbies",
@@ -8776,6 +8918,27 @@
       "engine": "Unity"
     },
     {
+      "name": "Fluffy Fun Fiesta",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PixelNeutro"
+      ],
+      "publishers": [
+        "PixelNeutro"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Survival"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Fly or Die",
       "url": null,
       "platforms": [],
@@ -9918,6 +10081,28 @@
       "engine": "Unity"
     },
     {
+      "name": "Happy Birthday Mom",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Pandita Studio"
+      ],
+      "publishers": [
+        "Pandita Studio Jam Team"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
       "name": "Harpoon Tower",
       "url": null,
       "platforms": [
@@ -9939,6 +10124,29 @@
       "date-launch": "2022-11-11T00:00:00.000Z",
       "genre": [
         "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Hat & Friends",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diego Nachón",
+        "Daniel Nachón",
+        "Santi S."
+      ],
+      "publishers": [
+        "NachonLAB"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -10476,6 +10684,27 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Hug A Hunter",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LuQui"
+      ],
+      "publishers": [
+        "LuQuiGames"
+      ],
+      "date-launch": "2023-09-03T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "RPG Maker"
     },
     {
       "name": "Huggies Paso a paso ",
@@ -15831,6 +16060,35 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Night of The Living Pinatas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://realsaucedoctor.itch.io/night-of-the-living-pinatas"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "RealSauceDoctor",
+        "Asdonaur",
+        "Klark",
+        "ZHTgames"
+      ],
+      "publishers": [
+        "Sombras del Monarca"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Night Vigiliante",
       "url": "https://youtu.be/1wWr6IkHoAY",
       "platforms": [],
@@ -15915,7 +16173,12 @@
     {
       "name": "Nitro Kwazar",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://apkpure.com/es/nitro-kwazar/me.createforlife.nitrokwazar"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -15926,8 +16189,29 @@
       "publishers": null,
       "date-launch": null,
       "genre": null,
-      "status": "Lost media",
+      "status": "Preservado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Noche de Moustros",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Game Over Mexico"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Plataformas",
+        "Aventura",
+        "Disparos"
+      ],
+      "status": "Publicado",
+      "engine": "Construct"
     },
     {
       "name": "Octagon",
@@ -17601,6 +17885,27 @@
       "genre": [
         "Simulación",
         "Casual",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Project Amber",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Farelas"
+      ],
+      "publishers": [
+        "Farelas"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
         "Aventura"
       ],
       "status": "Publicado",
@@ -19537,6 +19842,30 @@
       ],
       "status": "Desconocido",
       "engine": "Desconocido"
+    },
+    {
+      "name": "SAUDADE",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Vivi -Insecta-",
+        "MacLothric",
+        "Rigby Granguillhome",
+        "Pam Montiel"
+      ],
+      "publishers": [
+        "Nivel 2522"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Savage: Road to Darkness",
@@ -21503,6 +21832,26 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Sweet Anathema",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Vladis",
+        "Leslie"
+      ],
+      "publishers": null,
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Sweet Candy Mahjong",
       "url": null,
       "platforms": [
@@ -21528,6 +21877,27 @@
       "date-launch": "2016-09-29T00:00:00.000Z",
       "genre": [
         "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Sweet Sweet Hour",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ZhucklyDev",
+        "SilverS",
+        "Nabo Games"
+      ],
+      "publishers": null,
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -22491,6 +22861,27 @@
       "engine": "Desconocido"
     },
     {
+      "name": "The Last Wish",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ing. Paisen & Nefertari Neff"
+      ],
+      "publishers": [
+        "Iluminattion Three"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "The Lawless Online - Old West MMO Game",
       "url": null,
       "platforms": [],
@@ -23415,6 +23806,25 @@
       "genre": null,
       "status": "Publicado",
       "engine": "Construct"
+    },
+    {
+      "name": "Touka Chan Borthday",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis"
+      ],
+      "publishers": null,
+      "date-launch": "2023-09-07T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": "Ren'Py"
     },
     {
       "name": "Towerino",
@@ -25417,6 +25827,30 @@
       ],
       "status": "Cancelado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "ZENIT PROVISIONAL SGG",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Vivi -Insecta-",
+        "Juan Aguilera",
+        "AzaC",
+        "Providencia Solano"
+      ],
+      "publishers": [
+        "Zenit de forma provisional"
+      ],
+      "date-launch": "2023-09-10T00:00:00.000Z",
+      "genre": [
+        "Ritmo"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Zombie Madness for Intellivision",
