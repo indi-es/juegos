@@ -1,6 +1,27 @@
 {
   "games": [
     {
+      "name": " Fast Fast Paper Plane ",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Quetzalcoatl Games"
+      ],
+      "publishers": [
+        "Quetzalcoatl Games"
+      ],
+      "date-launch": "2014-01-01T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Lost media",
+      "engine": null
+    },
+    {
       "name": "¡Llévele, llévele!",
       "url": null,
       "platforms": [
@@ -15159,6 +15180,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Mostroscopy",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2615290/Mostroscopy/?beta=0&fbclid=IwAR3nJ7KUOz5tvmAn-bl5lCe9q3qsdEE6mJJIfxpHVjS9cteLQo7qNK6s4c8"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Oribe Ware"
+      ],
+      "publishers": [
+        "Oribe Ware"
+      ],
+      "date-launch": "2023-10-31T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Mr. Jacks Tragedy",
       "url": null,
       "platforms": [
@@ -16169,6 +16216,25 @@
       ],
       "status": "Lost media",
       "engine": "Flash"
+    },
+    {
+      "name": "Niños Rata vs You!",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Quetzalcoatl Games"
+      ],
+      "publishers": [
+        "Quetzalcoatl Games"
+      ],
+      "date-launch": "2015-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media",
+      "engine": null
     },
     {
       "name": "Nitro Kwazar",
@@ -18907,6 +18973,25 @@
       ],
       "status": "Publicado",
       "engine": "Pico-8"
+    },
+    {
+      "name": "Rancho Chamuco",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Hollow Games"
+      ],
+      "publishers": [
+        "Hollow Games"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": null
     },
     {
       "name": "Randall",
@@ -21882,6 +21967,31 @@
       "engine": "Unity"
     },
     {
+      "name": "Sweet Skullvivors",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2720420/Sweet_Skullvivors/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jorge T. Vargas",
+        "Francisco Collette"
+      ],
+      "publishers": [
+        "Jorge T. Vargas"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
       "name": "Sweet Sweet Hour",
       "url": null,
       "platforms": [],
@@ -22859,6 +22969,25 @@
       "genre": null,
       "status": "Desconocido",
       "engine": "Desconocido"
+    },
+    {
+      "name": "The Last Choice y Ritual Revenge",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Quetzalcoatl Games"
+      ],
+      "publishers": [
+        "Quetzalcoatl Games"
+      ],
+      "date-launch": "2016-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media",
+      "engine": null
     },
     {
       "name": "The Last Wish",
