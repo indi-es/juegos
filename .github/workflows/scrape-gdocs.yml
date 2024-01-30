@@ -16,6 +16,11 @@ jobs:
       - uses: actions/setup-node@v4
       - name: install deps
         run: (cd .github/actions && npm i --only=prod)
+      - name: create env file
+        run: |
+          cd .github/actions
+          touch .env
+          echo GOOGLE_API_KEY=${{ secrets.GOOGLE_API_KEY }} >> .env
       - name: scrape gdocs
         run: (cd .github/actions && npm run build)
 
