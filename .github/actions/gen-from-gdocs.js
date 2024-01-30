@@ -13,7 +13,7 @@ const sheets = google.sheets("v4");
 
 const sheetID = `1qZNjZOXthLsm_NQynQ2VOPgVUMK6hfAuLeTj1HG-bV0`;
 const sheetName = `Videojuegos mexicanos`;
-const sheetRange = `A9:Q1100`;
+const sheetRange = `A9:Q`;
 const API_KEY = process.env.GOOGLE_API_KEY;
 const request = {
   spreadsheetId: sheetID,
@@ -24,11 +24,12 @@ const request = {
 
 try {
   const response = (await sheets.spreadsheets.get(request)).data;
-  const data = response.sheets[0]?.data[0]?.rowData.map(({ values }) => {
+  const rowData = response.sheets[0]?.data[0]?.rowData;
+  const data = rowData?.map(({ values }) => {
     const [
       cellName,
       cellXbox,
-      cellNull,
+      ,
       cellNintendo,
       cellSteam,
       cellPlayStation,
