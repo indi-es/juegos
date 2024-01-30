@@ -2,7 +2,7 @@
 on: workflow_dispatch
 
 jobs:
-  format-code:
+  scrape-gdocs:
     runs-on: ubuntu-latest
 
     permissions:
@@ -14,8 +14,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
-        with:
-          node-version: "lts"
       - name: install deps
         run: (cd .github/actions && npm i --only=prod)
       - name: scrape gdocs
