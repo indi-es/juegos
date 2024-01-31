@@ -1,27 +1,6 @@
 {
   "games": [
     {
-      "name": " Fast Fast Paper Plane ",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Quetzalcoatl Games"
-      ],
-      "publishers": [
-        "Quetzalcoatl Games"
-      ],
-      "date-launch": "2014-01-01T00:00:00.000Z",
-      "genre": [
-        "Aventura"
-      ],
-      "status": "Lost media",
-      "engine": null
-    },
-    {
       "name": "¡Llévele, llévele!",
       "url": null,
       "platforms": [
@@ -98,32 +77,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "2048 Destruction Balls",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.destructionballs"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-05-17T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "2B: Black and White",
@@ -656,32 +609,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Acqua Race",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.acquarace"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-01-30T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Adele Following The Signs",
       "url": null,
       "platforms": [
@@ -769,56 +696,6 @@
       "date-launch": "2023-05-31T00:00:00.000Z",
       "genre": [
         "Novela Visual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Aerial Silks",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.aerialsilks"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-01T00:00:00.000Z",
-      "genre": null,
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Aero fever",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.aerofever"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-08T00:00:00.000Z",
-      "genre": [
-        "Casual"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -1735,32 +1612,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Arm Boy",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.armboy"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-18T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Armando el rollo",
       "url": null,
       "platforms": [
@@ -1962,6 +1813,30 @@
       "url": null,
       "platforms": [
         {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.PaleBlueDuck.AlmostFromScratch"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "Pale Blue Duck"
+      ],
+      "date-launch": "2018-08-30T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Atoms",
+      "url": null,
+      "platforms": [
+        {
           "name": "Itch",
           "url": "https://paleblueduck.itch.io/atoms"
         }
@@ -1984,30 +1859,6 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
-    },
-    {
-      "name": "Atoms",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.PaleBlueDuck.AlmostFromScratch"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": [
-        "Pale Blue Duck"
-      ],
-      "date-launch": "2018-08-30T00:00:00.000Z",
-      "genre": [
-        "Arcade"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
     },
     {
       "name": "Atrapame",
@@ -3049,32 +2900,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Big Crusher",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.bigcrasher"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-09-26T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Bitup",
       "url": null,
       "platforms": [],
@@ -3479,32 +3304,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Boom Boom Balloons",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.mood.boomboomballoons"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-05-10T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Bouncing Dude",
       "url": null,
       "platforms": [],
@@ -3521,32 +3320,6 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media",
-      "engine": "Unity"
-    },
-    {
-      "name": "Brain N Balls",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.brainnballs"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-12T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -3616,32 +3389,6 @@
         "Rompecabezas"
       ],
       "status": "En Desarrollo",
-      "engine": "Unity"
-    },
-    {
-      "name": "Breaking Wall",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.breakingwall"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-13T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -3889,58 +3636,6 @@
         "Spaceboy"
       ],
       "date-launch": "2022-12-22T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Building Builder",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.buildingbuilder"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-03-14T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Bullet Popper",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.bulletpopper"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-09-30T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
       ],
@@ -4247,32 +3942,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Cannon-Man Jumper",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.cannonmanjumper"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-11-30T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Cañón Tortuga",
       "url": null,
       "platforms": [
@@ -4313,32 +3982,6 @@
       "genre": null,
       "status": "En Desarrollo",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Car Insurance Fraud: Strike it",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.carinsurancefraud"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-13T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Caracol",
@@ -4485,32 +4128,6 @@
         "Simulación"
       ],
       "status": "En Desarrollo",
-      "engine": "Unity"
-    },
-    {
-      "name": "CatWoolly.io",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.catwoolly"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-05-15T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -5381,32 +4998,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Click N Cut",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.clickncut"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-17T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Climb, Don't Ask!",
       "url": null,
       "platforms": [
@@ -6123,32 +5714,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Crazy Crowded",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crazycrowded"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-16T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Crickets",
       "url": null,
       "platforms": [],
@@ -6199,136 +5764,6 @@
       ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Crowd Booster",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdbuster"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-08T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Crowd Pusher",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdpusher"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-10T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Crowded Balls",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedballs"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-21T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Crowded Bus Race",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedbus"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Crowded Race",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.crowdedrace"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-03-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Crushing Darkness: an Augmented Reality Trading Card Game!",
@@ -7271,32 +6706,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Domino Art Clicker",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.SixtySevenBits.DominoArtIdle"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-14T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Dominos 42",
       "url": null,
       "platforms": [],
@@ -7329,10 +6738,10 @@
         "funded": false
       },
       "developers": [
-        "Amano Games"
+        "Amano"
       ],
       "publishers": [
-        "Amano Games"
+        "Amano"
       ],
       "date-launch": null,
       "genre": [
@@ -7488,32 +6897,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Drag them all",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.dragthemall"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-11T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Dragged to Evil ",
       "url": null,
       "platforms": [],
@@ -7613,32 +6996,6 @@
       "genre": null,
       "status": "Desconocido",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Dress and Run",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.dressandrun"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-02-03T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Dresser Disaster Escape",
@@ -8233,32 +7590,6 @@
       "engine": "Impact"
     },
     {
-      "name": "Elves Clan: Tricky Adventures",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.elvesclanseasons"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-28T00:00:00.000Z",
-      "genre": [
-        "Aventura"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Endless Leaping",
       "url": null,
       "platforms": [
@@ -8501,32 +7832,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Escape Hero",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.escapehero"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Escape Jail 3D",
       "url": null,
       "platforms": [
@@ -8618,32 +7923,6 @@
       "genre": null,
       "status": "Publicado",
       "engine": "Construct"
-    },
-    {
-      "name": "Evil Popper",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.evilpopper"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-12-23T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Evolution Soccer",
@@ -8975,32 +8254,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Farming Race Fever",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.farmingracefever"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-03-16T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Fashion Gaze",
       "url": null,
       "platforms": [
@@ -9023,6 +8276,27 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Fast Fast Paper Plane",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Quetzalcoatl Games"
+      ],
+      "publishers": [
+        "Quetzalcoatl Games"
+      ],
+      "date-launch": "2014-01-01T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Lost media",
+      "engine": null
     },
     {
       "name": "Feria de la neurodivergencia",
@@ -9210,32 +8484,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Fish'em",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.fishem"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-03T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Fists For Fighting (FX3)",
       "url": null,
       "platforms": [
@@ -9357,32 +8605,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Flip Phone",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.flipphone"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-24T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Flippy Turtles",
       "url": null,
       "platforms": [
@@ -9468,58 +8690,6 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Food Gun",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.foodgun"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-04-04T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Force Clone",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.forceclone"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -10475,32 +9645,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Gym Beast",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.gymbeast"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-05-10T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Gyro for Nreal",
       "url": null,
       "platforms": [
@@ -10669,32 +9813,6 @@
       ],
       "status": "Publicado",
       "engine": "Godot"
-    },
-    {
-      "name": "Harpoon Tower",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.harpoontower"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-11T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Hat & Friends",
@@ -11010,32 +10128,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Hide Him!",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play-lh.googleusercontent.com/T9VdzWa_R3nJy9pvp8Xr_1Ad6S0JNWD93FBQgH5wfdcf7kMkxsuMVhuHtrIkSGJdZtA=s256-rw"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-28T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "High Hats",
       "url": null,
       "platforms": [],
@@ -11292,58 +10384,6 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Human Shield",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.humanshield"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-06-10T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Human Tower",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.humantower"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-01-23T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Humans Took My Neighbors!",
@@ -13151,58 +12191,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Laser Clicker",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.laserclicker"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-28T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Laser Hero",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.laserhero"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-18T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Last day on eart",
       "url": null,
       "platforms": [],
@@ -13429,32 +12417,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Level Up Fighter",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play-lh.googleusercontent.com/Opg4Yl4_dHDZT1729MoCBNx27SuIs-IO_Ahc2WuYKLA2f30SS9-4_EMcQAjWafH9-Bo=s256-rw"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Lights",
       "url": null,
       "platforms": [
@@ -13535,32 +12497,6 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Little Garden",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mylittlegarden"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-03-17T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Little Swimmers",
@@ -14902,58 +13838,6 @@
       "engine": "Pico-8"
     },
     {
-      "name": "Merge Monopoly",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mergemonopoly"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-05-10T00:00:00.000Z",
-      "genre": [
-        "Juegos de mesa"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Merging Thief",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.mergingthief"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-08T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Mes Amis - Monster Catching Videogame",
       "url": null,
       "platforms": [],
@@ -15042,32 +13926,6 @@
       ],
       "status": "Publicado",
       "engine": "Propio"
-    },
-    {
-      "name": "Methaverse Runner 3D",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.methaverserunner3d"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-01-13T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Metro Party",
@@ -15365,58 +14223,6 @@
       ],
       "status": "Publicado",
       "engine": "Pico-8"
-    },
-    {
-      "name": "Mini Goalf",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.minigoalf"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-08T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Mini Goalf Rush",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.minigoalfrush"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-11-12T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Mini Golf Mundo",
@@ -15753,32 +14559,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Monster Collect",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.monstercollect"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-11-29T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Monster Dash",
@@ -16579,58 +15359,6 @@
       "engine": "Unity"
     },
     {
-      "name": "My Tulip Farm",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tulipfarmidle"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-06-08T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "My Zombie World",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.zombieworld"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-12T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "MyCrush - The Game Of Love",
       "url": null,
       "platforms": [
@@ -16868,32 +15596,6 @@
       ],
       "status": "Publicado",
       "engine": "GB Studio"
-    },
-    {
-      "name": "Neon Connect Clicker",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.neonconnect"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-23T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Neon Race",
@@ -18359,32 +17061,6 @@
       "engine": "Godot"
     },
     {
-      "name": "Planet Eater",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.planeteater"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-10-13T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Plantae",
       "url": null,
       "platforms": [
@@ -19029,10 +17705,10 @@
         "funded": false
       },
       "developers": [
-        "Amano Games"
+        "Amano"
       ],
       "publishers": [
-        "Amano Games"
+        "Amano"
       ],
       "date-launch": "2020-07-04T00:00:00.000Z",
       "genre": [
@@ -19051,41 +17727,15 @@
         "funded": false
       },
       "developers": [
-        "Joven Paul y Mario Carballo"
+        "Amano"
       ],
       "publishers": [
-        "Amano Games"
+        "Amano"
       ],
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Punch Master",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.punchmaster"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-15T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Puppet Kid and the Book of Motions",
@@ -19158,32 +17808,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Puzzlander",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.puzzlander"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-14T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Puzzle Bot",
@@ -20995,58 +19619,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Scribble Battle",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.scribblebattle"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-19T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Scribble Crowd",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.scribblecrowd"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-12T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Scribbles",
       "url": null,
       "platforms": [
@@ -21295,32 +19867,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "She needs help",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.sheneedshelp"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-30T00:00:00.000Z",
-      "genre": [
-        "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Sheepy vs los dragones",
       "url": null,
       "platforms": [
@@ -21403,32 +19949,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Shred'em All",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.shredemall"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-12-26T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "SIK Space Invader Kreature",
@@ -21672,32 +20192,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Sleep Dunk",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.sleepdunk"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2021-10-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Slobbers ",
@@ -22139,30 +20633,6 @@
       "platforms": [
         {
           "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.GatoMocho.Spellcasters"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "GatoMocho"
-      ],
-      "publishers": null,
-      "date-launch": "2018-04-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Spellcasters",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
           "url": "https://play.google.com/store/apps/details?id=com.FatPanda.Spellcasters&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1686804604%252C%2522source%2522%253Anull%257D&fbclid=IwAR00lrch1heNOPnHFqfKn6K2KrNTVvNJ6MA6e7deex78LjNASdT8rGr2mN0"
         }
       ],
@@ -22180,6 +20650,30 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Spellcasters",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.GatoMocho.Spellcasters"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "GatoMocho"
+      ],
+      "publishers": null,
+      "date-launch": "2018-04-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Spiral Pen",
@@ -22344,32 +20838,6 @@
       "date-launch": "2023-06-27T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Stacking Sword",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.stackingsword"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-05-04T00:00:00.000Z",
-      "genre": [
-        "Casual"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -23230,32 +21698,6 @@
       "genre": null,
       "status": "Cancelado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Tap Stack",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tapstack"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-09-19T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "TapTap Piñata",
@@ -24277,10 +22719,10 @@
         "funded": false
       },
       "developers": [
-        "Amano Games"
+        "Amano"
       ],
       "publishers": [
-        "Amano Games"
+        "Amano"
       ],
       "date-launch": "2020-02-27T00:00:00.000Z",
       "genre": [
@@ -24676,33 +23118,6 @@
       ],
       "status": "Cancelado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Thievery Master",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.thieverymaster"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-08-01T00:00:00.000Z",
-      "genre": [
-        "Acción",
-        "Disparos"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "This House Looks Familiar",
@@ -25370,32 +23785,6 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Tube Hamster",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.tubehamster"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-09-20T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Turbo Wheels",
@@ -26093,10 +24482,10 @@
         "funded": false
       },
       "developers": [
-        "Amano Games"
+        "Amano"
       ],
       "publishers": [
-        "Amano Games"
+        "Amano"
       ],
       "date-launch": "2020-05-29T00:00:00.000Z",
       "genre": [
@@ -26325,32 +24714,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Waiter Hero",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.waiterhero"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-03-25T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "Warcher Defenders",
       "url": null,
       "platforms": [
@@ -26472,32 +24835,6 @@
       "engine": "Desconocido"
     },
     {
-      "name": "Water Gun Hero",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.watergunhero"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-06-09T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
       "name": "WaterTown",
       "url": null,
       "platforms": [
@@ -26544,32 +24881,6 @@
       "date-launch": "2020-09-01T00:00:00.000Z",
       "genre": [
         "Educativo"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Weapon Thief",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.weaponthieve"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2022-04-23T00:00:00.000Z",
-      "genre": [
-        "Casual"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -27242,32 +25553,6 @@
       ],
       "status": "Lost media",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Zombie Takeover",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.sixtysevenbits.ztakeover"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "67 Bits"
-      ],
-      "publishers": [
-        "67 Bits"
-      ],
-      "date-launch": "2023-02-03T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Zuri's Revenge",
