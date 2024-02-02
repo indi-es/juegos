@@ -6998,6 +6998,25 @@
       "engine": "Desconocido"
     },
     {
+      "name": "DreamSweeper",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/etherlight/dreamsweeper-a-roguelike-x-minesweeper-for-switch-and-pc",
+        "funded": false
+      },
+      "developers": [
+        "Etherlight"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Roguelike"
+      ],
+      "status": null,
+      "engine": null
+    },
+    {
       "name": "Dresser Disaster Escape",
       "url": null,
       "platforms": [],
@@ -14345,7 +14364,7 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
+        "url": "https://www.kickstarter.com/projects/etherlight/mislight-an-adventure-game-with-a-small-touch-of-thriller",
         "funded": false
       },
       "developers": [
