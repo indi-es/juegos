@@ -16101,6 +16101,30 @@
       "engine": "Unity"
     },
     {
+      "name": "Oráculo Otaku",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://kittyfuria.itch.io/oraculo-otaku"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": [
+        "KittyFuria"
+      ],
+      "date-launch": "2024-01-28T00:00:00.000Z",
+      "genre": [
+        "Comedia"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Ornare",
       "url": null,
       "platforms": [
