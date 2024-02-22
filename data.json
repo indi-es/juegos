@@ -3582,7 +3582,12 @@
     {
       "name": "Bugs Killer",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.CataxisGames.BugsKillerTaptoshoot"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -3592,11 +3597,13 @@
         "LosthinK"
       ],
       "publishers": [
-        "Cataxis"
+        "Queen Zombie Games"
       ],
-      "date-launch": null,
-      "genre": null,
-      "status": "En Desarrollo",
+      "date-launch": "2023-07-18T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
