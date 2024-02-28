@@ -15464,12 +15464,12 @@
       "engine": "Unity"
     },
     {
-      "name": "My Little Alien in the fucking space",
+      "name": "An Astronaut In The Space",
       "url": null,
       "platforms": [
         {
           "name": "Itch",
-          "url": "https://cataxis.itch.io/my-little-alien-in-the-fucking-space"
+          "url": "https://queen-zombie-games.itch.io/an-asntronaut-in-the-space"
         }
       ],
       "crowdfunding": {
@@ -15480,34 +15480,7 @@
         "Cataxis"
       ],
       "publishers": [
-        "Cataxis"
-      ],
-      "date-launch": "2023-07-12T00:00:00.000Z",
-      "genre": [
-        "Corredor Infinito",
-        "Disparos"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "My Little Alien in the fucking space",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://cataxis.itch.io/my-little-alien-in-the-fucking-space"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Cataxis"
-      ],
-      "publishers": [
-        "Cataxis"
+        "Queen Zombie Games"
       ],
       "date-launch": "2023-07-12T00:00:00.000Z",
       "genre": [
