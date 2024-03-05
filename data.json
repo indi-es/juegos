@@ -1002,6 +1002,58 @@
       "engine": "Desconocido"
     },
     {
+      "name": "An Asntronaut In The Space",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://queen-zombie-games.itch.io/an-asntronaut-in-the-space"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis"
+      ],
+      "publishers": [
+        "Queen Zombie Games"
+      ],
+      "date-launch": "2023-07-22T00:00:00.000Z",
+      "genre": [
+        "Corredor Infinito"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "An Astronaut In The Space",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://queen-zombie-games.itch.io/an-asntronaut-in-the-space"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis"
+      ],
+      "publishers": [
+        "Queen Zombie Games"
+      ],
+      "date-launch": "2023-07-12T00:00:00.000Z",
+      "genre": [
+        "Corredor Infinito"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Andamios y restauradores",
       "url": null,
       "platforms": [
@@ -2013,7 +2065,7 @@
       "publishers": [
         "Pumpkin Head Studio"
       ],
-      "date-launch": null,
+      "date-launch": "2020-09-18T00:00:00.000Z",
       "genre": [
         "Tower Defense"
       ],
@@ -2871,7 +2923,7 @@
       "publishers": [
         "Gamera Games"
       ],
-      "date-launch": "2025-11-02T00:00:00.000Z",
+      "date-launch": "2025-10-02T00:00:00.000Z",
       "genre": [
         "Superviviencia"
       ],
@@ -3940,7 +3992,7 @@
       "publishers": [
         "El Faro Studios"
       ],
-      "date-launch": null,
+      "date-launch": "2021-09-21T00:00:00.000Z",
       "genre": [
         "Supervivencia"
       ],
@@ -10653,6 +10705,23 @@
     },
     {
       "name": "Ice Breakers",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Xibalba Studios"
+      ],
+      "publishers": null,
+      "date-launch": "2010-01-01T00:00:00.000Z",
+      "genre": null,
+      "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Ice Breakers",
       "url": "https://es.wikipedia.org/wiki/Icebreakers",
       "platforms": [],
       "crowdfunding": {
@@ -10669,23 +10738,6 @@
       ],
       "status": "Desconocido",
       "engine": "Otro"
-    },
-    {
-      "name": "Ice Breakers",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Xibalba Studios"
-      ],
-      "publishers": null,
-      "date-launch": "2010-01-01T00:00:00.000Z",
-      "genre": null,
-      "status": "Lost media",
-      "engine": "Desconocido"
     },
     {
       "name": "Idle Critters",
@@ -11455,7 +11507,7 @@
       },
       "developers": null,
       "publishers": null,
-      "date-launch": null,
+      "date-launch": "2015-01-01T00:00:00.000Z",
       "genre": [
         "Plataformas"
       ],
@@ -11754,7 +11806,7 @@
         "Pato"
       ],
       "publishers": null,
-      "date-launch": null,
+      "date-launch": "2021-09-13T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
       ],
@@ -15024,7 +15076,7 @@
         "Nachon LAB"
       ],
       "publishers": null,
-      "date-launch": null,
+      "date-launch": "2022-09-07T00:00:00.000Z",
       "genre": [
         "Acción"
       ],
@@ -15459,32 +15511,6 @@
       "genre": [
         "Simulación",
         "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "An Astronaut In The Space",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://queen-zombie-games.itch.io/an-asntronaut-in-the-space"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Cataxis"
-      ],
-      "publishers": [
-        "Queen Zombie Games"
-      ],
-      "date-launch": "2023-07-12T00:00:00.000Z",
-      "genre": [
-        "Corredor Infinito"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -16001,32 +16027,6 @@
       ],
       "status": "Publicado",
       "engine": "Pico-8"
-    },
-    {
-      "name": "Octopussy in the fucking sea",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Itch",
-          "url": "https://cataxis.itch.io/octopussy-in-the-fucking-sea"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Cataxis"
-      ],
-      "publishers": [
-        "Cataxis"
-      ],
-      "date-launch": "2023-07-22T00:00:00.000Z",
-      "genre": [
-        "Corredor Infinito"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
     },
     {
       "name": "Office Madness",
@@ -16634,7 +16634,7 @@
       "publishers": [
         "Focka Games"
       ],
-      "date-launch": null,
+      "date-launch": "2023-09-27T00:00:00.000Z",
       "genre": [
         "Acción",
         "Aventura"
@@ -20814,30 +20814,6 @@
       "platforms": [
         {
           "name": "Play Store",
-          "url": "https://play.google.com/store/apps/details?id=com.GatoMocho.Spellcasters"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "GatoMocho"
-      ],
-      "publishers": null,
-      "date-launch": "2018-04-01T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Spellcasters",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Play Store",
           "url": "https://play.google.com/store/apps/details?id=com.FatPanda.Spellcasters&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1686804604%252C%2522source%2522%253Anull%257D&fbclid=IwAR00lrch1heNOPnHFqfKn6K2KrNTVvNJ6MA6e7deex78LjNASdT8rGr2mN0"
         }
       ],
@@ -20855,6 +20831,30 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Spellcasters",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.GatoMocho.Spellcasters"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "GatoMocho"
+      ],
+      "publishers": null,
+      "date-launch": "2018-04-01T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Spiral Pen",
@@ -22326,7 +22326,7 @@
         "Calix Jumio"
       ],
       "publishers": null,
-      "date-launch": null,
+      "date-launch": "2019-09-24T00:00:00.000Z",
       "genre": [
         "Rompecabezas"
       ],
@@ -23274,7 +23274,7 @@
         "Luis León"
       ],
       "publishers": null,
-      "date-launch": null,
+      "date-launch": "2021-09-13T00:00:00.000Z",
       "genre": [
         "Aventura"
       ],
