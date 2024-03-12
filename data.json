@@ -17847,7 +17847,7 @@
       "engine": "Unity"
     },
     {
-      "name": "Pull Frog",
+      "name": "PullFrog",
       "url": null,
       "platforms": [
         {
@@ -17874,9 +17874,14 @@
       "engine": "Pico-8"
     },
     {
-      "name": "Pullfrog 2-Bits",
+      "name": "Pullfrog Playdate Deluxe",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://play.date/games/pullfrog/"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -17885,12 +17890,15 @@
         "Amano"
       ],
       "publishers": [
-        "Amano"
+        "Panic"
       ],
-      "date-launch": null,
-      "genre": null,
-      "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "date-launch": "2024-02-20T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas",
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Otro"
     },
     {
       "name": "Puppet Kid and the Book of Motions",
