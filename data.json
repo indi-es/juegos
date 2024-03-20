@@ -304,6 +304,33 @@
       "engine": "Unity"
     },
     {
+      "name": "A Hopeful Play",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/a-hopeful-play"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2021-09-26T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "A Meta Data Game",
       "url": null,
       "platforms": [
@@ -6234,6 +6261,60 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Delicious Nightmare",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/delicious-nightmare"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2021-01-05T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Delicious Nightmare 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/delicious-nightmare-2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2023-04-30T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Plataformas",
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Delphy Town",
       "url": null,
       "platforms": [],
@@ -7175,6 +7256,33 @@
       "engine": "Pico-8"
     },
     {
+      "name": "Duck Paradox",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2058150/Duck_Paradox/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Magic Games"
+      ],
+      "publishers": [
+        "Midwest Games"
+      ],
+      "date-launch": "2022-07-19T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Dumb Little Creatures: A Cute 3D Puzzle Game",
       "url": null,
       "platforms": [],
@@ -7667,6 +7775,33 @@
       ],
       "date-launch": null,
       "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
+      "name": "Eldritch Climb",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2645670/Eldritch_Climb/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Covert Wonders"
+      ],
+      "publishers": [
+        "Covert Wonders"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo",
       "engine": "Unity"
     },
@@ -12004,6 +12139,58 @@
       "engine": "Unity"
     },
     {
+      "name": "Knight of Ice",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/knight-of-ice"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2022-09-25T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Knight of Ice DX",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/knight-of-ice-dx"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2023-06-29T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Koatl el Defensor: Los túneles perdidos",
       "url": null,
       "platforms": [
@@ -14515,6 +14702,32 @@
       "engine": "Godot"
     },
     {
+      "name": "MinivAC",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/minivac"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2021-02-28T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Mint Works",
       "url": null,
       "platforms": [
@@ -15218,6 +15431,32 @@
       "genre": [
         "Acción",
         "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "MultipLess",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/multipless"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2021-01-29T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -19188,6 +19427,33 @@
       ],
       "status": "En Desarrollo",
       "engine": "Ren'Py"
+    },
+    {
+      "name": "Rockyroid",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/rockyroid"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2023-09-25T00:00:00.000Z",
+      "genre": [
+        "Plataformas",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Rogue Yankii",
@@ -24113,6 +24379,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Tyrants",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/tyrants"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2023-07-09T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "TZOMPANTLI",
       "url": null,
       "platforms": [
@@ -25742,6 +26034,33 @@
       ],
       "status": "Lost media",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Zombomb",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://carlos-7x.itch.io/zombomb"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Rodríguez"
+      ],
+      "publishers": [
+        "Carlos Rodríguez"
+      ],
+      "date-launch": "2022-03-13T00:00:00.000Z",
+      "genre": [
+        "Disparos",
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     },
     {
       "name": "Zuri's Revenge",
