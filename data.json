@@ -15191,6 +15191,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Morpi Card Mix",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2845820/Morpi_Card_Mix/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ignita Games"
+      ],
+      "publishers": [
+        "Ignita Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Estrategia",
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
       "name": "Mosca Gogo",
       "url": null,
       "platforms": [],
