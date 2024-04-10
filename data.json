@@ -3541,7 +3541,6 @@
       "publishers": null,
       "date-launch": null,
       "genre": [
-        "Multijugador local",
         "Casual"
       ],
       "status": "Preservado",
@@ -5586,7 +5585,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": [
-        "Realidad Aumentada"
+        "Tower Defense"
       ],
       "status": "Lost media",
       "engine": "Desconocido"
@@ -5605,7 +5604,7 @@
       "publishers": null,
       "date-launch": "2014-01-01T00:00:00.000Z",
       "genre": [
-        "Realidad Aumentada"
+        "Tower Defense"
       ],
       "status": "Lost media",
       "engine": "Desconocido"
@@ -5633,7 +5632,7 @@
       ],
       "date-launch": "2020-07-19T00:00:00.000Z",
       "genre": [
-        "Novela Visual"
+        "Tower Defense"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -5778,7 +5777,7 @@
         }
       ],
       "crowdfunding": {
-        "url": null,
+        "url": "https://www.kickstarter.com/projects/cosmoknightzion/cosmo-knight-zion?lang=es",
         "funded": false
       },
       "developers": [
@@ -5791,7 +5790,7 @@
       "genre": [
         "Plataformas"
       ],
-      "status": "Publicado",
+      "status": "En Desarrollo",
       "engine": "GB Studio"
     },
     {
@@ -6199,6 +6198,29 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Death Pilot",
+      "url": "https://deathpilotgame.com/",
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Hollow Sense"
+      ],
+      "publishers": [
+        "Hollow Sense"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Disparos",
+        "Horror"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unreal"
     },
     {
       "name": "DeathRosa",
@@ -6662,7 +6684,7 @@
       ],
       "date-launch": "2021-05-06T00:00:00.000Z",
       "genre": [
-        "Inifnite Runner"
+        "Corredor Infinito"
       ],
       "status": "Publicado",
       "engine": "Unity"
@@ -7456,6 +7478,34 @@
       ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Echo Of Sorrows",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://andrew2115.itch.io/echo-of-sorrows"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Andrew2115",
+        "Say.say9",
+        "PachucoAtomico"
+      ],
+      "publishers": [
+        "Oniric Mob"
+      ],
+      "date-launch": "2022-11-12T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
     },
     {
       "name": "Ego",
@@ -12368,6 +12418,32 @@
       "engine": "Unity"
     },
     {
+      "name": "La Gilbertona",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.cyberscify.lagilbertona&hl=en_US"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "J. Froylan"
+      ],
+      "publishers": [
+        "J. Froylan"
+      ],
+      "date-launch": "2024-03-30T00:00:00.000Z",
+      "genre": [
+        "Corredor Infinito"
+      ],
+      "status": "Publicado",
+      "engine": null
+    },
+    {
       "name": "La granja de Lola",
       "url": null,
       "platforms": [],
@@ -14032,7 +14108,7 @@
       ],
       "date-launch": "2007-01-01T00:00:00.000Z",
       "genre": [
-        "Advergame"
+        "Acción"
       ],
       "status": "Lost media",
       "engine": "Desconocido"
@@ -17506,6 +17582,38 @@
       "engine": "Godot"
     },
     {
+      "name": "Planatario",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://andrew2115.itch.io/platanario"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Andrew2115",
+        "TomatoDev",
+        "LoneWolf9",
+        "drolejan",
+        "PachucoAtomico",
+        "Alberto serna",
+        "Say.say9"
+      ],
+      "publishers": [
+        "Oniric Mob"
+      ],
+      "date-launch": "2023-10-23T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Plantae",
       "url": null,
       "platforms": [
@@ -20196,6 +20304,38 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
+    },
+    {
+      "name": "SeedHero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://andrew2115.itch.io/seedhero"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Andrew2115",
+        "Say.say9",
+        "Yunge",
+        "miguel312",
+        "ItsChanged",
+        "PachucoAtomico",
+        "Gonyame"
+      ],
+      "publishers": [
+        "Oniric Mob"
+      ],
+      "date-launch": "2023-02-27T00:00:00.000Z",
+      "genre": [
+        "Ritmo"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
     },
     {
       "name": "Selene's Unbearable Night",
