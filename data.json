@@ -22382,6 +22382,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Te Encontré",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1808080/Te_Encontr/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jorge David Sánchez Rey"
+      ],
+      "publishers": [
+        "Jorge David Sánchez Rey"
+      ],
+      "date-launch": "2021-11-19T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
       "name": "Teeth & Tiles",
       "url": null,
       "platforms": [
@@ -23214,6 +23240,34 @@
       ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
+    },
+    {
+      "name": "The Last Of The Core",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2353120/The_Last_Of_The_Core/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Gigantes de la Evolución"
+      ],
+      "publishers": [
+        "Gigantes de la Evolución"
+      ],
+      "date-launch": "2023-03-27T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
     },
     {
       "name": "The Last Wish",
