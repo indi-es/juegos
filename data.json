@@ -11586,6 +11586,35 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Joy The Piñata",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/joy-the-piniata"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds",
+        "San Game Dev",
+        "GrippingGoose33",
+        "MataGameDev",
+        "BishopGear"
+      ],
+      "publishers": null,
+      "date-launch": "2023-07-27T00:00:00.000Z",
+      "genre": [
+        "Supervivencia",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
       "name": "Juanpa Zurita's Skydive Adventure",
       "url": null,
       "platforms": [],
