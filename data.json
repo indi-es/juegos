@@ -10180,6 +10180,32 @@
       "engine": "Unity"
     },
     {
+      "name": "HavenFlower: Regrets Of",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://anthercircle.itch.io/haven-flower-regrets-of"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Anther Circle"
+      ],
+      "publishers": [
+        "Anther Circle"
+      ],
+      "date-launch": "2024-05-26T00:00:00.000Z",
+      "genre": [
+        "RPG"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
       "name": "Headlings Arena",
       "url": null,
       "platforms": [
