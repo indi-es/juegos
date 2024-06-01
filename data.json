@@ -10833,6 +10833,27 @@
       "engine": "Pico-8"
     },
     {
+      "name": "HYPER HUNTER X ",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ice Ferret Studios"
+      ],
+      "publishers": [
+        "Ice Ferret Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Construct"
+    },
+    {
       "name": "Hypnic Fall",
       "url": null,
       "platforms": [
@@ -18049,6 +18070,32 @@
       ],
       "status": "Desconocido",
       "engine": "Unity"
+    },
+    {
+      "name": "Presidencial Moshpit 2024",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Play Store",
+          "url": "https://play.google.com/store/apps/details?id=com.tagwizz.presidentialmoshpit"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Tagwizz"
+      ],
+      "publishers": [
+        "Tagwizz"
+      ],
+      "date-launch": "2024-05-28T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": null
     },
     {
       "name": "PRIMROSE (Nintendo DSiWare Port)",
