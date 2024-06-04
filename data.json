@@ -7368,6 +7368,27 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Dungeon Maker 3D",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Master Pose"
+      ],
+      "publishers": [
+        "Master Pose"
+      ],
+      "date-launch": "2020-07-30T00:00:00.000Z",
+      "genre": [
+        "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Dunkelheit",
       "url": null,
       "platforms": [
@@ -14069,6 +14090,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "MASCII Maker",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://masterpose.itch.io/masciimaker"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Master Pose"
+      ],
+      "publishers": [
+        "Master Pose"
+      ],
+      "date-launch": "2017-12-21T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Construct"
+    },
+    {
       "name": "Master of Gomoku Go",
       "url": null,
       "platforms": [
@@ -17325,6 +17372,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Pick Up",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://masterpose.itch.io/pickup"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Master Pose"
+      ],
+      "publishers": [
+        "Master Pose"
+      ],
+      "date-launch": "2020-03-02T00:00:00.000Z",
+      "genre": [
+        "Educativo"
+      ],
+      "status": "Publicado",
+      "engine": "Construct"
     },
     {
       "name": "Pico Piñata",
@@ -23015,6 +23088,32 @@
       ],
       "status": "Publicado",
       "engine": "Unreal"
+    },
+    {
+      "name": "The Coffe Machine",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://masterpose.itch.io/the-coffee-machine"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Master Pose"
+      ],
+      "publishers": [
+        "Master Pose"
+      ],
+      "date-launch": "2020-01-31T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Construct"
     },
     {
       "name": "The Doctor Cat",
