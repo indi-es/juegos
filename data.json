@@ -11893,11 +11893,11 @@
       "publishers": [
         "Flamingo Simulation Systems"
       ],
-      "date-launch": null,
+      "date-launch": "2024-05-23T00:00:00.000Z",
       "genre": [
         "Aventura"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": null
     },
     {
@@ -19688,6 +19688,33 @@
       "date-launch": "2020-03-11T00:00:00.000Z",
       "genre": [
         "Educativo"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "RKGK / Rakugaki",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2146570/RKGK__Rakugaki/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Wabisabi Games"
+      ],
+      "publishers": [
+        "Wabisabi Games"
+      ],
+      "date-launch": "2024-05-22T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
       ],
       "status": "Publicado",
       "engine": "Unity"
