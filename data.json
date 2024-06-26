@@ -24029,6 +24029,33 @@
       "engine": "Unity"
     },
     {
+      "name": "The War in Chiapas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2121640/The_War_in_Chiapas/?l=latam"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bandprice"
+      ],
+      "publishers": [
+        "Bandprice"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": null
+    },
+    {
       "name": "Therapy",
       "url": null,
       "platforms": [],
