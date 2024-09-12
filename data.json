@@ -6565,6 +6565,28 @@
       "engine": "Unity"
     },
     {
+      "name": "Devil's Kitchen",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PepperDose Studios"
+      ],
+      "publishers": [
+        "PepperDose Studios"
+      ],
+      "date-launch": "2022-11-28T00:00:00.000Z",
+      "genre": [
+        "Disparos",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
       "name": "Dice Emblem",
       "url": null,
       "platforms": [
@@ -6991,6 +7013,32 @@
       ],
       "status": "Publicado",
       "engine": "Game Maker"
+    },
+    {
+      "name": "Don't Stare",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1456220/Dont_Stare/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ascended Studio"
+      ],
+      "publishers": [
+        "Ascended Studio"
+      ],
+      "date-launch": "2024-09-04T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Doodle Summer Games Free",
@@ -7443,7 +7491,12 @@
     {
       "name": "Eagle Knight Paradox",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3008700/Eagle_Knight_Paradox/?l=latam"
+        }
+      ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/playstormstudios/eagle-knight-paradox",
         "funded": true
@@ -7451,10 +7504,15 @@
       "developers": [
         "Playstorm Studios"
       ],
-      "publishers": null,
+      "publishers": [
+        "Playstorm Studios"
+      ],
       "date-launch": null,
-      "genre": null,
-      "status": "Desconocido",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -10558,6 +10616,33 @@
       ],
       "status": "Publicado",
       "engine": "Otro"
+    },
+    {
+      "name": "History Racers 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1200870/History_Racers_2/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bandprice S.A."
+      ],
+      "publishers": [
+        "Bandprice S.A."
+      ],
+      "date-launch": "2019-12-25T00:00:00.000Z",
+      "genre": [
+        "Carreras",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Hit the Clown",
@@ -18291,6 +18376,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Projéct Timi: Sasha's Curse",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1882710/Project_Timi_Sashas_Curse/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ephemeral Cube"
+      ],
+      "publishers": [
+        "Ephemeral Cube"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Project Vape",
       "url": null,
       "platforms": [],
@@ -19277,6 +19389,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Read Only Memories: NEURODIVER",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1293910/Read_Only_Memories_NEURODIVER/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "MidBoss",
+        "LLC."
+      ],
+      "publishers": [
+        "Chorus Worldwide Games"
+      ],
+      "date-launch": "2024-05-15T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Ready Sunset Go!",
@@ -25095,6 +25234,32 @@
       "genre": null,
       "status": "Lost media",
       "engine": "Flash"
+    },
+    {
+      "name": "Under Canopies",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2939510/Under_Canopies/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Novemtails"
+      ],
+      "publishers": [
+        "Novemtails"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": null
     },
     {
       "name": "UNITY",
