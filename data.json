@@ -10575,6 +10575,27 @@
       "engine": "Unity"
     },
     {
+      "name": "Hidden in my Paradise",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ogre Pixel"
+      ],
+      "publishers": [
+        "Ogre Pixel"
+      ],
+      "date-launch": "2024-10-09T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "High Hats",
       "url": null,
       "platforms": [],
@@ -26751,27 +26772,6 @@
       "date-launch": "2021-04-14T00:00:00.000Z",
       "genre": [
         "Estrategia"
-      ],
-      "status": "Publicado",
-      "engine": "Unity"
-    },
-    {
-      "name": "Hidden in my Paradise",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Ogre Pixel"
-      ],
-      "publishers": [
-        "Ogre Pixel"
-      ],
-      "date-launch": "2024-10-09T00:00:00.000Z",
-      "genre": [
-        "Casual"
       ],
       "status": "Publicado",
       "engine": "Unity"
