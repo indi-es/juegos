@@ -13064,32 +13064,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Link Twin",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/612890/Link_Twin/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Lorraine Studio"
-      ],
-      "publishers": [
-        "Carbon Incubator"
-      ],
-      "date-launch": "2017-04-13T00:00:00.000Z",
-      "genre": [
-        "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
-    },
-    {
       "name": "Little Big Fighters",
       "url": null,
       "platforms": [],
