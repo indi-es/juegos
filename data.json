@@ -1690,6 +1690,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Arise, Sapling",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/arise-sapling"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Plataformas",
+        "Aventuras",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unreal"
+    },
+    {
       "name": "Armando el rollo",
       "url": null,
       "platforms": [
@@ -5987,6 +6015,32 @@
         "Arcade"
       ],
       "status": "Lost media",
+      "engine": "Unity"
+    },
+    {
+      "name": "Da boss",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/da-boss"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": "2025-01-12T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -11789,6 +11843,33 @@
       "engine": "Unreal"
     },
     {
+      "name": "Joy The Piñata",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/joy-the-piniata"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Supervivencia",
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unreal"
+    },
+    {
       "name": "Juanpa Zurita's Skydive Adventure",
       "url": null,
       "platforms": [],
@@ -12858,6 +12939,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Last Robot In Earth",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/last-robot-in-earth"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": "2024-04-29T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
       "name": "Latiendo juntos Novela",
       "url": null,
       "platforms": [
@@ -13675,6 +13782,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Luminaris",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/luminaris"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unreal"
     },
     {
       "name": "Lunch A Palooza",
@@ -14660,6 +14793,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-AR/games/store/mexico-1921-un-sueno-profundo-demo/9N5Z7H5R4TZP"
+        },
+        {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/1851090/Mexico_1921_A_deep_slumber/"
         }
@@ -14676,7 +14813,7 @@
       "genre": [
         "Aventura"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -25255,6 +25392,34 @@
       ],
       "status": "En Desarrollo",
       "engine": null
+    },
+    {
+      "name": "UnicornSlayer",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://sangamedevs.itch.io/unicornslayer"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Pausa",
+      "engine": "Unreal"
     },
     {
       "name": "UNITY",
