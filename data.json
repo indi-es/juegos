@@ -6491,6 +6491,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Delve Into Pawssion",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2335620/Delve_Into_Pawssion/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "DMQuetzalli"
+      ],
+      "publishers": [
+        "DMQuetzalli"
+      ],
+      "date-launch": "2023-03-30T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Desarraigo",
       "url": null,
       "platforms": [
@@ -7394,6 +7421,33 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Dreamshot Fantasia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2673940/Dreamshot_Fantasia/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/miracleppg/dreamshot-fantasia?ref=discovery_category&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;total_hits=93771&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;category_id=35",
+        "funded": true
+      },
+      "developers": [
+        "Miracle"
+      ],
+      "publishers": [
+        "Penguin Pop Games",
+        "LLC"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -15828,6 +15882,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "MoonBright",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2678360/MoonBright/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bernetic Studios"
+      ],
+      "publishers": [
+        "Bernetic Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Moons of True Magic",
@@ -26555,6 +26637,31 @@
       ],
       "status": "Lost media",
       "engine": "Unity"
+    },
+    {
+      "name": "Vocaless - Rhythm Platformer",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://www.kickstarter.com/projects/sleepy16/vocaless-rhythm-platformer"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/sleepy16/vocaless-rhythm-platformer",
+        "funded": false
+      },
+      "developers": [
+        "SleP16"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Ritmo",
+        "Plataformas"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Vorpal",
