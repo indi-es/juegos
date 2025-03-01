@@ -28465,6 +28465,111 @@
       ],
       "status": "Publicado",
       "engine": "Godot"
+    },
+    {
+      "name": "Tetrapop",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/tetrapop-2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Fabi",
+        "Zyanya Lima",
+        "Andres.VG",
+        "AlexaDelOeste"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bubbland",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://calocauri.itch.io/bubbland"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "JackYakumo",
+        "Calocauri"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Rtimo"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
+      "name": "Bubble Simulator",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://hmtzaa.itch.io/bubble-simulator"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "hmtzaa"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Pop Form",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/pop-form-5"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Docboymex",
+        "hmtzaa",
+        "Fantasmita",
+        "C.Alpha",
+        "AtraxxDev",
+        "ThisIsNotZion"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
     }
   ]
 }
