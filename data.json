@@ -28570,6 +28570,747 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Foraneo Simulator",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/foraneo-simulator-7"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "misalmon_14"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Poggy Splash",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://programensostudios.itch.io/poggy-splash"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "yuls.murillo",
+        "BlondeSwuash23",
+        "Alex Chavez",
+        "kVellenaweth",
+        "k.vnnys",
+        "Cronozs"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Bubbly Fly",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://chilapixel.itch.io/bubbly-fly"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Junfez",
+        "Hevtor David A...",
+        "Cris777",
+        "Davidlgg",
+        "Saria98"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Corredor Infinito"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
+      "name": "The bubble and the anomaly",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://soy-artemis.itch.io/the-bubble-and-the-anomaly"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Pau",
+        "zuri_catto",
+        "Andrea_TC",
+        "Itzelandra",
+        "Abrah",
+        "LuisMG",
+        "OscarB"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
+      "name": "My Bubble 64",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://lucasgaspar.itch.io/ggj2025-my-bubble-64"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Alan Gaspar and Monica Murillo"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Pop the problem",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://gd.games/aikoiwaki/poppin2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Miguel Enciso",
+        "Danielectricity",
+        "Aloli"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "GDevelop"
+    },
+    {
+      "name": "Bubble Gun",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "AlCor33",
+        "Juan Saavedra",
+        "aDoulphin",
+        "Juanf4r"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Bath Splashers",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bath-splashers-8"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ValM",
+        "grecia_zuno",
+        "Guero1012",
+        "cecilia.morales",
+        "Carolina Reyes"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Drift n' Pop",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "kirbyiwaki"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "GDevelop"
+    },
+    {
+      "name": "QuackABubble",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/quackabubble-2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mora"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Roguelike"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bubble Trails",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://brokena98.itch.io/bubble-trails"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Daniel Reyes",
+        "Jorge Ascencio",
+        "Tony Suarez",
+        "Noé España",
+        "Stephan",
+        "Deichert. Fernando Sainz"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Sanctuary in the abyss",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/sanctuary-abyss-4"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Zenchai"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
+      "name": "Bubble Hamster",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://bubblehamster-game.itch.io/bubble-hamster"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "BubbleHamster_Game",
+        "Ivan Flores",
+        "Ag79",
+        "Jazzymex",
+        "Ebi Diaz",
+        "Vn_tura",
+        "AlgaNory",
+        "Junior64",
+        "Juanma64"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
+      "name": "Costmo (R)",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://elpolloguapo.itch.io/costmor"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ElPolloGuapo"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Duck Fight",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://robertocharreton.itch.io/duck-fight"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "CiberFlyStudios",
+        "el_JavierIslas",
+        "Andraglez",
+        "NadialBarra",
+        "chaqui",
+        "Roberto Charrez"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
+      "name": "Warning, Pop!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://japdy.itch.io/warning-pop"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "SHIBUYA",
+        "DanielaLpz",
+        "Johen",
+        "Suzume",
+        "Andy1640"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Chica Chicle",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bubblegum-girl-xx-4"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Luis Sierra",
+        "Abnerqc"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Bombble++",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bombble-2"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "kalescott",
+        "CarlosFNava",
+        "Nank0o",
+        "Lalovig",
+        "Scrib97"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Aqua aura",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/aqua-aura-0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "alfredo26082003",
+        "eve_michelle04",
+        "JesusCortezM",
+        "lenmonshark",
+        "DariaCCR",
+        "Estambuli",
+        "Litzzu",
+        "TheBirdAA",
+        "Luis Cortés"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Disonancia",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://khahseh.itch.io/disonancia"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "@anapaulacontle",
+        "Zuleyka",
+        "Vanessa Domíng",
+        "AlejandroFlores",
+        "Gis_99",
+        "MetztliCristobal"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Colorless",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://royss24.itch.io/colorless"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "AndreaGH",
+        "DianSR",
+        "AndreaGDI",
+        "RoySS",
+        "Wmeh"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Laundry Wars",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://reusgotze17.itch.io/laundry-wars"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ShockManu",
+        "Purp13Cat",
+        "MadPepo",
+        "Berryw4ffl3z"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Bubble Punch",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bubble-punch-3"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Baruc M3",
+        "mayamf",
+        "Empanadaw",
+        "yadeUp",
+        "Derek Hernandez"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bubble Shot",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "BrOKen_GQ",
+        "Ber_Ver_Red",
+        "MaxRave",
+        "Glezc27",
+        "Juan-Carlos-Lima",
+        "Alex Zipp"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Disparos"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Aseo Express",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "XimenaTV",
+        "Polyma",
+        "LeonardoAHM",
+        "Marco López",
+        "Karinelly",
+        "clau.mcginnis"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "TADPOLE OF FROG",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/tadpole-frog-5"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "totopossalsaverde",
+        "Jessica_Vega",
+        "Miquesoconpapas"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Pop Bubble Pop",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/pop-bubble-pop-1"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "AmyMarCas",
+        "Melody_M00",
+        "Nand_kko",
+        "Rooth",
+        "Bedethi",
+        "JrogelK"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Contrabando en el Pantano",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/contrabando-en-el-pantano-6"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
+      "engine": null
     }
   ]
 }
