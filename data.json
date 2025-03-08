@@ -13,7 +13,10 @@
         "url": null,
         "funded": false
       },
-      "developers": null,
+      "developers": [
+        "TAK-TAK-TAK",
+        "Inoma"
+      ],
       "publishers": [
         "TAK-TAK-TAK",
         "Inoma"
@@ -38,9 +41,7 @@
         "url": null,
         "funded": false
       },
-      "developers": [
-        "Most Transmedia"
-      ],
+      "developers": null,
       "publishers": [
         "TAK-TAK-TAK",
         "Inoma"
@@ -30818,6 +30819,332 @@
       "date-launch": "2025-01-26T00:00:00.000Z",
       "genre": [
         "Arcade"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "Deer Crusade",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2286580/Deer_Crusade/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Black Coffee Studio"
+      ],
+      "publishers": [
+        "Black Coffee Studio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Mech Log Zero",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3334350/Mech_Log_Zero/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Scylorg"
+      ],
+      "publishers": [
+        "Scylorg"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "A Dream About Parking Lots",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3500340/A_Dream_About_Parking_Lots/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Interactive Dreams"
+      ],
+      "publishers": [
+        "Interactive Dreams"
+      ],
+      "date-launch": "2025-03-14T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "BUBBLE CRAB",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bubble-crab-3"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "marjill_katzen"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Arcade"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Chimping SEAson",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/chimping-season-9"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diva",
+        "joca97",
+        "CadentMoon",
+        "Rene SeGa",
+        "EagleZ4",
+        "Jeffsmov",
+        "TacoDeTrompo"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
+      "name": "Undersea Bubble Tea Bubble Shop",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/undersea-bubble-tea-bubble-shop-8"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "RaisinSUn",
+        "Maricarmen",
+        "Leoh",
+        "ItzcoatlTorres",
+        "Good luck",
+        "RedRosse"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "BROOMHilde",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/broomhilde-8"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "joss_bs",
+        "Ale De León",
+        "SAMYSUPER14",
+        "Marango!",
+        "Marango",
+        "risc",
+        "Elaiza.dem",
+        "Canyum",
+        "Canyum",
+        "Dayro19"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
+      "name": "Awkward",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/awkward-4"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rock Smith",
+        "Oscar Alejandro López Ramos",
+        "frankOchoa",
+        "EvE Kirisame",
+        "Adrián Rangel Suárez",
+        "developeration1"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Arcade",
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
+      "name": "BROOMHilde",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://devkono.itch.io/broomhilde"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "SAMYSUPER14"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Arcade"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
+      "name": "Alux",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/alux-6"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Rengou"
+      ],
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Eliot",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://spooky-script-dev-team.itch.io/eliot"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Andy_likes_blue",
+        "Viut",
+        "R2D2RDZ",
+        "Gustavo Pedraza"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bubble Journey",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Otro",
+          "url": "https://globalgamejam.org/games/2025/bubble-journey-5"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mr_Sanmi",
+        "YukinoSAN04",
+        "N_Awakening"
+      ],
+      "publishers": null,
+      "date-launch": "2025-01-26T00:00:00.000Z",
+      "genre": [
+        "Arcade",
+        "Casual"
       ],
       "status": "Publicado",
       "engine": "Unity"
