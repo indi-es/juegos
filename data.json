@@ -13247,6 +13247,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "File 47",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3479870/File_47/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kalimater Studios"
+      ],
+      "publishers": [
+        "Kalimater Studios"
+      ],
+      "date-launch": "2025-03-21T00:00:00.000Z",
+      "genre": [
+        "Horror",
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": null
+    },
+    {
       "name": "Final Destiny RPG",
       "url": null,
       "platforms": [],
