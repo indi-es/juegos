@@ -23328,6 +23328,32 @@
       "engine": "Flash"
     },
     {
+      "name": "Personal Murder Theater: Raíces Estranguladas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3584380/Personal_Murder_Theater_Races_Estranguladas/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "FranPlus+"
+      ],
+      "publishers": [
+        "FranPlus+"
+      ],
+      "date-launch": "2025-04-01T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": null
+    },
+    {
       "name": "Pet City Mania",
       "url": "https://www.facebook.com/PetCityManiaLicense/about",
       "platforms": [],
