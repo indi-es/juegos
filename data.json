@@ -34632,6 +34632,21 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Santa's Hitlist CEO Edition",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": null,
+      "date-launch": null,
+      "genre": null,
+      "status": null,
+      "engine": null
     }
   ]
 }
