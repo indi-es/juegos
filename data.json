@@ -27076,6 +27076,30 @@
       "engine": "Unity"
     },
     {
+      "name": "Santa's Hitlist CEO Edition",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3581590/Santas_Hitlist_CEO_Edition/?curator_clanid=32222318"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Unlucky Studios"
+      ],
+      "publishers": [
+        "Unlucky Studios"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": null
+    },
+    {
       "name": "Sarlacc",
       "url": null,
       "platforms": [
@@ -34632,21 +34656,6 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
-    },
-    {
-      "name": "Santa's Hitlist CEO Edition",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": null,
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": null,
-      "engine": null
     }
   ]
 }
