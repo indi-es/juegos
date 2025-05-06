@@ -1937,6 +1937,30 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Arise Sapling",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paulands.itch.io/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PaulAnds"
+      ],
+      "publishers": [
+        "PaulAnds"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
+      "engine": "Unreal"
+    },
+    {
       "name": "Arise, Sapling",
       "url": null,
       "platforms": [
@@ -18069,23 +18093,6 @@
       "engine": "Unity"
     },
     {
-      "name": "Last day on eart",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Larva Game Studios"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": "Desconocido",
-      "engine": "Desconocido"
-    },
-    {
       "name": "Last Man",
       "url": null,
       "platforms": [
@@ -29119,23 +29126,6 @@
       ],
       "status": "No comercial",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Street Gol Legion",
-      "url": null,
-      "platforms": [],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Larva Game Studio"
-      ],
-      "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": "Lost media",
-      "engine": "Unreal"
     },
     {
       "name": "StreetGol Gold Edition",
