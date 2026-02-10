@@ -162,6 +162,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "2V Hoverbike",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/665650/2V_Hoverbike/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Intertum"
+      ],
+      "publishers": [
+        "Intertum"
+      ],
+      "date-launch": "2017-07-06T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "3 Minute Mahjong",
       "url": null,
       "platforms": [
@@ -440,6 +466,33 @@
       "engine": "Unity"
     },
     {
+      "name": "A House Inside Me",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4344480/A_House_Inside_Me/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ctrl Horror"
+      ],
+      "publishers": [
+        "Skull Queens Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Horror"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Godot"
+    },
+    {
       "name": "A Meta Data Game",
       "url": null,
       "platforms": [
@@ -463,6 +516,33 @@
       ],
       "status": "Publicado",
       "engine": "Godot"
+    },
+    {
+      "name": "A Rat's Quest - The Way Back Home",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1124420/A_Rats_Quest__The_Way_Back_Home/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "The Dreamerians"
+      ],
+      "publishers": [
+        "HandyGames"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "A Rat’s Quest: The way back home.",
@@ -742,6 +822,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Absolute Insanity",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2815760/Absolute_Insanity/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Chris Danelon"
+      ],
+      "publishers": [
+        "Chris Danelon"
+      ],
+      "date-launch": "2024-11-05T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Adele Following The Signs",
@@ -1059,6 +1165,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Alice at the End of Her Life",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4200800/Alice_at_the_End_of_Her_Life/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LightWitch"
+      ],
+      "publishers": [
+        "LightWitch"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Alphabet Robots Mahjong Free",
       "url": null,
       "platforms": [
@@ -1152,6 +1286,33 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "AM Archaic Memories",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3166130/AM_Archaic_Memories/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Third World Productions"
+      ],
+      "publishers": [
+        "Third World Productions"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -1336,6 +1497,33 @@
       ],
       "status": "Publicado",
       "engine": "Ren'Py"
+    },
+    {
+      "name": "Angelo",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3836770/Angelo/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Animal Crossfire",
@@ -1934,7 +2122,7 @@
         "Simulación"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Arise Sapling",
@@ -2219,6 +2407,34 @@
       "engine": "Unity"
     },
     {
+      "name": "Asvara",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3974530/Asvara/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Asvara Labs"
+      ],
+      "publishers": [
+        "Edco Games"
+      ],
+      "date-launch": "2025-12-03T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Atari shooter",
       "url": null,
       "platforms": [
@@ -2440,6 +2656,38 @@
       "engine": "Desconocido"
     },
     {
+      "name": "aunquedaespacioparati",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://pinkchocoball.itch.io/placeholdername-awesome-cool-monarca-gamejam-2025"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PinkChocoball",
+        "Iris Domínguez",
+        "Sr.Almeja",
+        "Marroquina"
+      ],
+      "publishers": [
+        "PinkChocoball",
+        "Iris Domínguez",
+        "Sr.Almeja",
+        "Marroquina"
+      ],
+      "date-launch": "2025-09-29T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Automata",
       "url": null,
       "platforms": [],
@@ -2480,7 +2728,7 @@
         "Tower Defense"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Aventuras de un Halcon Walktrough",
@@ -3554,7 +3802,12 @@
     {
       "name": "Beyond The Nightmares",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1675310/Beyond_The_Nightmares/"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -3569,7 +3822,7 @@
       "genre": [
         "Superviviencia"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -3600,6 +3853,34 @@
       "engine": "Unreal"
     },
     {
+      "name": "Beyond the Tales",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3025380/Beyond_The_Tales/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Atomik Games",
+        "Charlie Pelaez"
+      ],
+      "publishers": [
+        "Atomik Games"
+      ],
+      "date-launch": "2025-01-07T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Bicentenario 2010: los héroes de México",
       "url": null,
       "platforms": [],
@@ -3616,6 +3897,36 @@
         "Estrategia"
       ],
       "status": "Lost media",
+      "engine": "Unity"
+    },
+    {
+      "name": "Biguidi'",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://paoowo.itch.io/biguidi"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "Marco Carcamo",
+        "German López"
+      ],
+      "publishers": [
+        "Paola Robledo",
+        "Marco Carcamo",
+        "German López"
+      ],
+      "date-launch": "2024-09-24T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -3642,7 +3953,7 @@
         "Acción"
       ],
       "status": "Publicado",
-      "engine": null
+      "engine": "Construct"
     },
     {
       "name": "Bitup",
@@ -3732,6 +4043,86 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Black Tower Enigma",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3895720/Black_Tower_Enigma/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/ogrepixel/black-tower-enigma-a-puzzle-riddle-adventure-for-game-boy",
+        "funded": true
+      },
+      "developers": [
+        "Ogre Pixel"
+      ],
+      "publishers": [
+        "Ogre Pixel"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "BlackNoise: Shutdown",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3370750/BlackNoise_Shutdown/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nervo Studios"
+      ],
+      "publishers": [
+        "Nervo Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bleeding Deities",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2302380/Bleeding_Deities/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Duty Over"
+      ],
+      "publishers": [
+        "Duty Over"
+      ],
+      "date-launch": "2025-04-30T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Blind Men",
@@ -3833,6 +4224,33 @@
       "genre": null,
       "status": "Desconocido",
       "engine": "Unity"
+    },
+    {
+      "name": "BLOODPUNISHED: NO TIME POR PATIENCE",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3440880/BLOODPUNISHED_NO_TIME_POR_PATIENCE/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dominating Software"
+      ],
+      "publishers": [
+        "Dominating Software"
+      ],
+      "date-launch": "2025-06-25T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Bloop & Poop",
@@ -4192,7 +4610,36 @@
         "Estrategia"
       ],
       "status": "Publicado",
-      "engine": null
+      "engine": "Unity"
+    },
+    {
+      "name": "Boney's Research On Humans!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1610890/Boneys_Research_On_Humans/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Carlos Garza",
+        "Carf Darko",
+        "Casey Atkins"
+      ],
+      "publishers": [
+        "Carlos Garza"
+      ],
+      "date-launch": "2022-08-24T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Bonzy",
@@ -4239,7 +4686,7 @@
         "Rol"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "RPG Maker"
     },
     {
       "name": "Bouncing Dude",
@@ -4374,10 +4821,17 @@
         "funded": false
       },
       "developers": [
-        "Cataxis"
+        "Cataxis",
+        "LosthinK",
+        "Camideel",
+        "QuetzalcoutlDev",
+        "Deathvoice",
+        "Alter",
+        "Naitorōzu",
+        "Diana Kodashi"
       ],
       "publishers": [
-        "Cataxis"
+        "Skull Queens Games"
       ],
       "date-launch": "2025-05-05T00:00:00.000Z",
       "genre": [
@@ -4455,6 +4909,32 @@
         "Educativo"
       ],
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Bring Me Home",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3929530/Bring_Me_Home/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Crystal Horse"
+      ],
+      "publishers": [
+        "Crystal Horse"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -7294,6 +7774,30 @@
       "engine": "Unreal"
     },
     {
+      "name": "Candle Knight",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1879680/Candle_Knight/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dracma Studios"
+      ],
+      "publishers": [
+        "Dracma Studios"
+      ],
+      "date-launch": "2023-05-31T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Candy",
       "url": null,
       "platforms": [
@@ -7359,6 +7863,32 @@
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Capitán Kalani Edición Definitiva",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2232770/Capitn_Kalani_Edicin_Definitiva/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "PoiesusGames"
+      ],
+      "publishers": [
+        "PoiesusGames"
+      ],
+      "date-launch": "2023-08-30T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -7439,7 +7969,7 @@
         "Estrategia"
       ],
       "status": "En Desarrollo",
-      "engine": null
+      "engine": "Unreal"
     },
     {
       "name": "Caracol",
@@ -7494,6 +8024,33 @@
       ],
       "status": "Publicado",
       "engine": "GDevelop"
+    },
+    {
+      "name": "Castlebound",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3551820/Castlebound/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ogre Pixel"
+      ],
+      "publishers": [
+        "Ogre Pixel"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Cat Fish",
@@ -7713,6 +8270,36 @@
       ],
       "status": "Desconocido",
       "engine": "Unreal"
+    },
+    {
+      "name": "Cempasúchil",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://naop.itch.io/cempasuchil"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Naop",
+        "MVisual",
+        "Anwar Studio"
+      ],
+      "publishers": [
+        "Naop",
+        "MVisual",
+        "Anwar Studio"
+      ],
+      "date-launch": "2024-10-23T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": "Ren'Py"
     },
     {
       "name": "Chain Demon",
@@ -7952,7 +8539,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Cherry Star",
@@ -8629,6 +9216,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Clawsome",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3517880/Clawsome/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cometa Games"
+      ],
+      "publishers": [
+        "Whitethorn Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual",
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Clean It Up! for Nreal",
       "url": null,
       "platforms": [
@@ -8763,7 +9377,7 @@
         "Deportes"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unreal"
     },
     {
       "name": "Code Aces: Invasion",
@@ -8834,6 +9448,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Color Breakers 2",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2876640/Color_Breakers_2/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "deleon"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "date-launch": "2025-10-09T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Colorless",
@@ -9349,6 +9989,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "CoRoT",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3527920/CoRoT/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Azteck Game Studios"
+      ],
+      "publishers": [
+        "Azteck Game Studios"
+      ],
+      "date-launch": "2025-11-21T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Corre Cheto",
       "url": null,
       "platforms": [
@@ -9378,6 +10044,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4071380/Cosmo_Knight_Zion/"
+        },
+        {
           "name": "Itch",
           "url": "https://zeichigames.itch.io/cosmo-knight-zion"
         }
@@ -9392,11 +10062,11 @@
       "publishers": [
         "ZeichiGames"
       ],
-      "date-launch": "2023-04-10T00:00:00.000Z",
+      "date-launch": "2025-10-29T00:00:00.000Z",
       "genre": [
         "Plataformas"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "GB Studio"
     },
     {
@@ -9476,6 +10146,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Cozy Forest",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3937890/Cozy_Forest/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cometa Games"
+      ],
+      "publishers": [
+        "Cometa Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual",
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Crayola Alternative",
@@ -9627,7 +10324,7 @@
         "Tower Defense"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Godot"
     },
     {
       "name": "Cucarachalandia",
@@ -9653,6 +10350,87 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Culprits of a Feather",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3782640/Culprits_of_a_Feather/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Savage Kitties Game Studio"
+      ],
+      "publishers": [
+        "Savage Kitties Game Studio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Cursed Colors",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2072190/Cursed_Colors/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Molten Colors"
+      ],
+      "publishers": [
+        "Molten Colors"
+      ],
+      "date-launch": "2022-09-18T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Cursed Frontier",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3755580/Cursed_Frontier/?beta=0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Cut The Plush",
@@ -9774,6 +10552,34 @@
       "engine": "Unity"
     },
     {
+      "name": "Dark Adelita",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3575650/Dark_Adelita/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Brain-dead Rabbit Games"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Dark Tales from México: Prelude. Just a Dream... with The Sack Man",
       "url": null,
       "platforms": [
@@ -9797,7 +10603,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "Dasher Knight",
@@ -10221,7 +11027,7 @@
         "Rol"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "RPG Maker"
     },
     {
       "name": "Demersal",
@@ -10288,6 +11094,89 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Desktank",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2722730/Desktank/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Edco Games"
+      ],
+      "publishers": [
+        "Edco Games"
+      ],
+      "date-launch": "2025-06-03T00:00:00.000Z",
+      "genre": [
+        "Casual",
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Desktop Explorer",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2527160/Desktop_Explorer/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Recurring Dream"
+      ],
+      "publishers": [
+        "Recurring Dream",
+        "Outersloth"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Desktop Fishes",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3618880/Desktop_Fishes/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Daniel Santalla"
+      ],
+      "publishers": [
+        "Daniel Santalla",
+        "Gamersky Games"
+      ],
+      "date-launch": "2025-11-14T00:00:00.000Z",
+      "genre": [
+        "Casual",
+        "Simulación"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -10436,6 +11325,31 @@
       ],
       "status": "En Desarrollo",
       "engine": null
+    },
+    {
+      "name": "Destino Indomable",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3221830/Destino_Indomable/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Megalixir Games",
+        "RCK Games"
+      ],
+      "publishers": [
+        "JanduSoft"
+      ],
+      "date-launch": "2025-03-03T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Destructive Dice!",
@@ -10635,6 +11549,29 @@
       "engine": "Desconocido"
     },
     {
+      "name": "DIMENSIONS",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2559050/DIMENSIONS/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": null,
+      "publishers": null,
+      "date-launch": "2024-08-14T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Dino Rex",
       "url": null,
       "platforms": [
@@ -10814,6 +11751,33 @@
       ],
       "status": "Publicado",
       "engine": "Unreal"
+    },
+    {
+      "name": "DMD Mars Mission",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/758020/DMD_Mars_Mission/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "FockaGames"
+      ],
+      "publishers": [
+        "FockaGames"
+      ],
+      "date-launch": "2018-02-22T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Dockers",
@@ -11099,6 +12063,61 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Dono's Tale",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1812250/Donos_Tale/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Super Item Studios"
+      ],
+      "publishers": [
+        "Super Item Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Donut Riders",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3675150/Donut_Riders/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "OUTRISE studios"
+      ],
+      "publishers": [
+        "OUTRISE studios"
+      ],
+      "date-launch": "2025-07-26T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Carreras"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Doodle Summer Games Free",
       "url": null,
       "platforms": [
@@ -11123,6 +12142,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Doomies (Damikira)",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2446700/Doomies_Damikira/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Brain-dead Rabbit Games"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "date-launch": "2024-04-24T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Dots of War",
@@ -11513,6 +12558,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Duelo de Leyendas",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://abyssal-tree.itch.io/leyends-duel"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Abyssal Tree"
+      ],
+      "publishers": [
+        "Abyssal Tree"
+      ],
+      "date-launch": "2024-04-19T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Dumb Little Creatures: A Cute 3D Puzzle Game",
       "url": null,
       "platforms": [],
@@ -11574,6 +12645,35 @@
       "genre": null,
       "status": null,
       "engine": "Desconocido"
+    },
+    {
+      "name": "Dungeon Killer",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3971510/Dungeon_Killer/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cataxis",
+        "LosthinK",
+        "Zathyna",
+        "Mick MacLijn"
+      ],
+      "publishers": [
+        "Skull Queens Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
     },
     {
       "name": "Dungeon Maker 3D",
@@ -11709,6 +12809,34 @@
         "URSUS Game Studios"
       ],
       "publishers": null,
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "ECCO: The Last Whisper\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1862390/ECCO_The_Last_Whisper/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "URSUS Game Studios"
+      ],
+      "publishers": [
+        "URSUS Game Studios"
+      ],
       "date-launch": null,
       "genre": [
         "Acción",
@@ -11892,6 +13020,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "El Boletero -The Space TICKETER-\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3462130/El_Boletero_The_Space_TICKETER/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Sketchy Ceviche"
+      ],
+      "publishers": [
+        "Sketchy Ceviche"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Godot"
+    },
+    {
       "name": "El camino del deseo",
       "url": null,
       "platforms": [
@@ -11983,6 +13138,33 @@
       "engine": "Game Maker"
     },
     {
+      "name": "El Enmascarado en \"La Venganza de Tlaloc\"",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://entangledgames.itch.io/el-enmascarado-en-la-venganza-de-tlaloc"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Entangled Games"
+      ],
+      "publishers": [
+        "Entangled Games"
+      ],
+      "date-launch": "2024-04-19T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "El hazmerreír",
       "url": null,
       "platforms": [
@@ -12008,6 +13190,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "El Llano - Arrepentimiento",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://astucia.itch.io/el-llano-arrepentimiento"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Astucia"
+      ],
+      "publishers": [
+        "Astucia"
+      ],
+      "date-launch": "2024-10-03T00:00:00.000Z",
+      "genre": [
+        "Ritmo"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
     },
     {
       "name": "El llanto de Lele",
@@ -12277,6 +13485,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Elegia al padre",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://insurgentes300.itch.io/elegia-al-padre"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "insurgentes300"
+      ],
+      "publishers": [
+        "insurgentes300"
+      ],
+      "date-launch": "2024-10-04T00:00:00.000Z",
+      "genre": [
+        "Ritmo"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Eliot",
       "url": null,
       "platforms": [
@@ -12308,6 +13542,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/293440/Elliot_Quest/"
+        },
+        {
           "name": "Itch",
           "url": "https://ansimuz.itch.io/elliot-quest"
         }
@@ -12319,7 +13557,9 @@
       "developers": [
         "Ansimuz Games"
       ],
-      "publishers": null,
+      "publishers": [
+        "PlayEveryWare"
+      ],
       "date-launch": "2015-01-12T00:00:00.000Z",
       "genre": [
         "Aventura"
@@ -12753,6 +13993,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Euclid's Inferno",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2940860/Euclids_Inferno/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Adelpha Studio"
+      ],
+      "publishers": [
+        "Adelpha Studio"
+      ],
+      "date-launch": "2024-10-30T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Eve's Wrath",
       "url": null,
       "platforms": [
@@ -13154,6 +14420,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Farmwand",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1836840/Farmwand/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Irreverent Software"
+      ],
+      "publishers": [
+        "Irreverent Software"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Fashion Gaze",
@@ -13602,6 +14895,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Flat Kingdom Paper's Cut Edition",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/405970/Flat_Kingdom_Papers_Cut_Edition/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Fat Panda Games"
+      ],
+      "publishers": [
+        "Games Starter"
+      ],
+      "date-launch": "2016-04-07T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Flightout",
       "url": null,
       "platforms": [
@@ -13666,6 +14986,34 @@
         "Casual"
       ],
       "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Float Your Goat\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2932600/Float_Your_Goat/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dawa Studios"
+      ],
+      "publishers": [
+        "Dawa Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual",
+        "Simulación",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -14121,6 +15469,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Fuzz & Dizzy: Part-Time Heroes",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3490730/Fuzz__Dizzy_PartTime_Heroes/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/doggodev/fuzz-and-dizzy-part-time-heroes?ref=discovery_category_newest&total_hits=23466&category_id=35",
+        "funded": false
+      },
+      "developers": [
+        "Tikitello"
+      ],
+      "publishers": [
+        "Tikitello"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Galactic Geometry",
       "url": null,
       "platforms": [
@@ -14270,6 +15646,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Genkai: Primal Awakening",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2650340/Genkai_Primal_Awakening/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mega Game Studios"
+      ],
+      "publishers": [
+        "Mega Game Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Ghost Apocalypse",
       "url": null,
       "platforms": [],
@@ -14395,7 +15797,12 @@
     {
       "name": "Gisselle's Adventure",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3196400/Gisselles_Adventure/"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
@@ -14403,15 +15810,17 @@
       "developers": [
         "Ludolab"
       ],
-      "publishers": null,
-      "date-launch": null,
+      "publishers": [
+        "Serch Onodera"
+      ],
+      "date-launch": "2024-11-12T00:00:00.000Z",
       "genre": [
         "RPG",
         "Novela Visual",
         "Rompecabezas",
         "Plataformas"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -14442,21 +15851,33 @@
     {
       "name": "Glory Hunters",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2297590/Glory_Hunters/"
+        },
+        {
+          "name": "Itch",
+          "url": "https://2think.itch.io/glory-hunters"
+        }
+      ],
       "crowdfunding": {
         "url": null,
         "funded": false
       },
       "developers": [
+        "2think design studio",
+        "Ogre Pixel"
+      ],
+      "publishers": [
         "2think design studio"
       ],
-      "publishers": null,
-      "date-launch": null,
+      "date-launch": "2021-09-22T00:00:00.000Z",
       "genre": [
         "Arcade"
       ],
-      "status": "En Desarrollo",
-      "engine": "Desconocido"
+      "status": "Publicado",
+      "engine": "GB Studio"
     },
     {
       "name": "Glu Glu´s Adventure",
@@ -14801,6 +16222,34 @@
       "engine": "Unity"
     },
     {
+      "name": "Grimfield Mystery",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2214180/Grimfield_Mystery/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nachon Lab",
+        "Ogre Pixel"
+      ],
+      "publishers": [
+        "Ogre Pixel"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Grumpy Zombies",
       "url": null,
       "platforms": [],
@@ -15016,13 +16465,41 @@
       "developers": [
         "Spaceboy"
       ],
-      "publishers": null,
-      "date-launch": null,
+      "publishers": [
+        "QUByte Interactive"
+      ],
+      "date-launch": "2024-10-31T00:00:00.000Z",
       "genre": [
         "Aventura"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Hannah VC",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2695600/Hannah_VCR/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Spaceboy"
+      ],
+      "publishers": [
+        "Spaceboy"
+      ],
+      "date-launch": "2025-06-26T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Hapervil",
@@ -15064,6 +16541,59 @@
       "engine": "Godot"
     },
     {
+      "name": "HARD VOID",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2978460/HARD_VOID/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "jejoxdev"
+      ],
+      "publishers": [
+        "jejoxdev"
+      ],
+      "date-launch": "2025-10-29T00:00:00.000Z",
+      "genre": [
+        "Simulación",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "HardAF",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2679880/HardAF/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Hardbox Games"
+      ],
+      "publishers": [
+        "IndieArk"
+      ],
+      "date-launch": "2025-06-05T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Hat & Friends",
       "url": null,
       "platforms": [],
@@ -15091,6 +16621,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3882540/HavenFlower_Regrets_Of/"
+        },
+        {
           "name": "Itch",
           "url": "https://anthercircle.itch.io/haven-flower-regrets-of"
         }
@@ -15105,7 +16639,7 @@
       "publishers": [
         "Anther Circle"
       ],
-      "date-launch": "2024-05-26T00:00:00.000Z",
+      "date-launch": null,
       "genre": [
         "RPG"
       ],
@@ -15215,6 +16749,33 @@
       "engine": "Propio"
     },
     {
+      "name": "Heart of Artemisa",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3200950/Heart_of_Artemisa/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Camacebra Games"
+      ],
+      "publishers": [
+        "Camacebra Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Heating Way",
       "url": null,
       "platforms": [
@@ -15261,9 +16822,12 @@
         "Carbon Machina"
       ],
       "date-launch": null,
-      "genre": null,
+      "genre": [
+        "Acción",
+        "Rol"
+      ],
       "status": "En Desarrollo",
-      "engine": null
+      "engine": "Unity"
     },
     {
       "name": "Heights",
@@ -15282,6 +16846,35 @@
         "Plataformas"
       ],
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "HELLBOUND INC",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3746940/HELLBOUND_INC/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Templo",
+        "Rewilder"
+      ],
+      "publishers": [
+        "Templo",
+        "Rewilder"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Indie"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -15488,6 +17081,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Hidden around the World\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3995480/Hidden_around_the_World/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ogre Pixel"
+      ],
+      "publishers": [
+        "Ogre Pixel"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
+    },
+    {
       "name": "Hidden in my Paradise",
       "url": null,
       "platforms": [],
@@ -15603,6 +17223,68 @@
       "engine": "Desconocido"
     },
     {
+      "name": "HOLA",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://polybugs.itch.io/hola"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Kar Chávez",
+        "Héctor Guerrero",
+        "PolyBugs",
+        "Mariano Nicolás Romero",
+        "Vergil Ariakas"
+      ],
+      "publishers": [
+        "Kar Chávez",
+        "Héctor Guerrero",
+        "PolyBugs",
+        "Mariano Nicolás Romero",
+        "Vergil Ariakas"
+      ],
+      "date-launch": "2024-10-03T00:00:00.000Z",
+      "genre": [
+        "Ficción Interactiva"
+      ],
+      "status": "Publicado",
+      "engine": "Twine"
+    },
+    {
+      "name": "Hold Your Breadth DX",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3901700/Hold_Your_Breadth_DX/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "JellyDog"
+      ],
+      "publishers": [
+        "JellyDog"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Hollo Buster",
       "url": null,
       "platforms": [],
@@ -15617,6 +17299,33 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Hollow Stories: Lockdown",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3968040/Hollow_Stories_Lockdown/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Hollow Sense"
+      ],
+      "publishers": [
+        "Hollow Sense"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -15822,7 +17531,12 @@
     {
       "name": "Humans Took My Neighbors!",
       "url": null,
-      "platforms": [],
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1175450/Humans_Took_My_Neighbors/"
+        }
+      ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/humanstookmn/humans-took-my-neighbors-1",
         "funded": false
@@ -15835,7 +17549,10 @@
         "Carlos Garza"
       ],
       "date-launch": null,
-      "genre": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
     },
@@ -15920,6 +17637,34 @@
       "engine": "Construct"
     },
     {
+      "name": "HYPERyuki: Snowboard Syndicate",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3082730/HYPERyuki_Snowboard_Syndicate/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Wabisabi Design",
+        "Inc."
+      ],
+      "publishers": [
+        "Acclaim",
+        "Inc."
+      ],
+      "date-launch": null,
+      "genre": [
+        "Deportes"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Hypnic Fall",
       "url": null,
       "platforms": [
@@ -15944,6 +17689,32 @@
       ],
       "status": "Publicado",
       "engine": "Godot"
+    },
+    {
+      "name": "I Am Your Music",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3920210/I_Am_Your_Music/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Leva Studios"
+      ],
+      "publishers": [
+        "Leva Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "I deserve a happy ending",
@@ -16115,10 +17886,14 @@
       "publishers": [
         "Ignita Games"
       ],
-      "date-launch": null,
-      "genre": null,
-      "status": "En Desarrollo",
-      "engine": null
+      "date-launch": "2025-06-12T00:00:00.000Z",
+      "genre": [
+        "Casual",
+        "Simulación",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Ignis",
@@ -16420,6 +18195,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "iO Inner Self - The Lava Planet V",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2178180/iO_Inner_Self__The_Lava_Planet_VR/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Spaceboy"
+      ],
+      "publishers": [
+        "Spaceboy"
+      ],
+      "date-launch": "2022-11-11T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "iO Inner Self - The Lava Planet VR",
       "url": null,
       "platforms": [
@@ -16469,6 +18270,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "IRIS",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2929820/IRIS/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LunaNova"
+      ],
+      "publishers": [
+        "LunaNova"
+      ],
+      "date-launch": "2024-07-19T00:00:00.000Z",
+      "genre": [
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Irrational Veggies from Outer Space",
@@ -16851,6 +18678,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Jodicio hasta el día del juicio",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://cincibeles.itch.io/jodicio-hasta-el-dia-del-jucio"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cincibeles",
+        "HauntedCrow"
+      ],
+      "publishers": [
+        "Cincibeles",
+        "HauntedCrow"
+      ],
+      "date-launch": "2024-10-10T00:00:00.000Z",
+      "genre": [
+        "Rompecabezas"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "JoY",
       "url": null,
       "platforms": [
@@ -16956,6 +18811,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3281100/Jumper_Jon/"
+        },
+        {
           "name": "App Store",
           "url": "https://apps.apple.com/app/jumper-jon/id1452727073"
         }
@@ -16967,7 +18826,9 @@
       "developers": [
         "Ogre Pixel"
       ],
-      "publishers": null,
+      "publishers": [
+        "Ogre Pixel"
+      ],
       "date-launch": "2019-11-01T00:00:00.000Z",
       "genre": [
         "Aventura"
@@ -17073,6 +18934,32 @@
       "engine": null
     },
     {
+      "name": "Kary",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2812050/Kary/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diego Aviles"
+      ],
+      "publishers": [
+        "Diego Aviles"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Katz Play!",
       "url": null,
       "platforms": [],
@@ -17128,6 +19015,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Keris' Veil",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3195720/Keris_Veil/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Gallak Tales Studio"
+      ],
+      "publishers": [
+        "Gallak Tales Studio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Ketopix/Utopix",
@@ -17323,6 +19237,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Cancelado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Kingdom's Deck",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2655590/Kingdoms_Deck/#app_reviews_hash"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ivan Aco"
+      ],
+      "publishers": [
+        "Rogue Duck Interactive",
+        "Gamersky Games"
+      ],
+      "date-launch": "2025-04-28T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -17641,6 +19580,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Know Your Ánima",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4249010/Know_Your_nima/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jadsa Games"
+      ],
+      "publishers": [
+        "Jadsa Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Simulación",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Koatl el Defensor: Los túneles perdidos",
       "url": null,
       "platforms": [
@@ -17754,9 +19720,13 @@
         "funded": false
       },
       "developers": [
-        "WalGallen"
+        "WalGallen",
+        "Etherlight"
       ],
-      "publishers": null,
+      "publishers": [
+        "WalGallen",
+        "Etherlight"
+      ],
       "date-launch": null,
       "genre": [
         "Aventura",
@@ -17818,6 +19788,35 @@
       "engine": "Unity"
     },
     {
+      "name": "La Bestia: The Migrant's Long Journey",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2741300/La_Bestia_The_Migrants_Long_Journey/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Angel Daniela Hernández Torres",
+        "Martín St. John Clarke Bideau",
+        "Uriel Haile Hernández Belmonte",
+        "Bryan Alberto Olmos Ramírez"
+      ],
+      "publishers": [
+        "LaViRIA"
+      ],
+      "date-launch": "2024-02-29T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "La Conchita (The Little Shell)",
       "url": null,
       "platforms": [
@@ -17843,6 +19842,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "LA CUEVA DEL DIABLO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://cataxis.itch.io/la-cueva-del-diablo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dany Jackson",
+        "David Rey",
+        "Miguel Galan"
+      ],
+      "publishers": [
+        "Coatlicue"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Horror"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
     },
     {
       "name": "La Gilbertona",
@@ -17934,6 +19961,65 @@
       "engine": null
     },
     {
+      "name": "La Matlazihua",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://meruman.itch.io/la-matlazihua"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mauricio",
+        "Martin"
+      ],
+      "publishers": [
+        "Doggomerus"
+      ],
+      "date-launch": "2024-03-17T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Horror"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "La niña con cabeza de muñeca",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://muro-interactive.itch.io/la-ninia-con-cabeza-de-munieca"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Vae",
+        "LircyTheCat",
+        "Angel GM (aka Muro Interactive)"
+      ],
+      "publishers": [
+        "Vae",
+        "LircyTheCat",
+        "Angel GM (aka Muro Interactive)"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "La Pizza é Mobile",
       "url": null,
       "platforms": [
@@ -18000,6 +20086,32 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "LaNocheDelCamote",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://gigantelnd.itch.io/lanochedelcamote"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "GiganteLND"
+      ],
+      "publishers": [
+        "GiganteLND"
+      ],
+      "date-launch": "2025-09-29T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -18172,6 +20284,34 @@
       "engine": "Unreal"
     },
     {
+      "name": "Last Summer",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3937880/Last_Summer/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Cometa Games"
+      ],
+      "publishers": [
+        "Cometa Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Latiendo juntos Novela",
       "url": null,
       "platforms": [
@@ -18308,6 +20448,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Legends Defenses",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://gameovermexico.itch.io/legends-defenses"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Game Over Mexico"
+      ],
+      "publishers": [
+        "Game Over Mexico"
+      ],
+      "date-launch": "2024-03-20T00:00:00.000Z",
+      "genre": [
+        "Juegos de mesa"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Legends of Duels",
       "url": null,
       "platforms": [
@@ -18330,6 +20496,33 @@
       "genre": null,
       "status": "Publicado",
       "engine": null
+    },
+    {
+      "name": "Legends of Duels",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2414660/Legends_of_Duels/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Legend"
+      ],
+      "publishers": [
+        "Legend"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Letter Land Mahjong Free",
@@ -18431,6 +20624,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Light Towers",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3221850/Light_Towers/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ion Rodriguez"
+      ],
+      "publishers": [
+        "Ion Rodriguez"
+      ],
+      "date-launch": "2024-10-01T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Lights",
@@ -18636,6 +20857,59 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Locked in my Darkness 2: The Room",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3330930/Locked_in_my_Darkness_2_The_Room/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Blusagi Team"
+      ],
+      "publishers": [
+        "indie.io"
+      ],
+      "date-launch": "2026-02-11T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Lonefarm",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1316440/Lonefarm/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Novemtails"
+      ],
+      "publishers": [
+        "Novemtails"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol",
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Lonefarm Demo",
@@ -18868,6 +21142,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Lost In The Open",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2027380/Lost_In_The_Open/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Black Voyage Games"
+      ],
+      "publishers": [
+        "WhisperGames"
+      ],
+      "date-launch": "2025-09-26T00:00:00.000Z",
+      "genre": [
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Lovely Heroines",
       "url": null,
       "platforms": [
@@ -18940,6 +21241,60 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Lucha Chess",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3584870/Lucha_Chess/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Jorge T.V."
+      ],
+      "publishers": [
+        "Jorge T.V."
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Lucha Libre Legend of the Mask",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3215330/Lucha_Libre_Legend_of_the_Mask/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "BC Media Lab",
+        "Hyperkinetic Studios"
+      ],
+      "publishers": [
+        "BC Media Lab"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Lucha Libre: The Legend of the Mask",
       "url": null,
       "platforms": [],
@@ -18987,6 +21342,33 @@
       ],
       "status": "En Desarrollo",
       "engine": "Unity"
+    },
+    {
+      "name": "Lucha Masters:Mighty Lucha",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2857170/Lucha_Masters_Mighty_Lucha/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Escalera Games"
+      ],
+      "publishers": [
+        "Escalera Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Luckily, My Arm Is A Shotgun",
@@ -19205,12 +21587,40 @@
       "publishers": [
         "Farelas"
       ],
-      "date-launch": null,
+      "date-launch": "2025-03-31T00:00:00.000Z",
       "genre": [
         "Acción"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": null
+    },
+    {
+      "name": "Mactzil",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://vladizgg.itch.io/mactzil"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Camila Deloris",
+        "Vladizgg",
+        "Milka Wabi"
+      ],
+      "publishers": [
+        "Los Spooky"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Mad-th Trolls in Divide the Gems",
@@ -19284,6 +21694,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Magic Axolotl",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2150700/Magic_Axolotl/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Gato Alebrije"
+      ],
+      "publishers": [
+        "Gato Alebrije"
+      ],
+      "date-launch": "2022-10-28T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Magic Puzzle: Jigsaw",
@@ -19630,7 +22067,7 @@
         "Halberd Studios"
       ],
       "publishers": [
-        "Freedom Games"
+        "Halberd Studios"
       ],
       "date-launch": null,
       "genre": [
@@ -19639,6 +22076,32 @@
       ],
       "status": "En Desarrollo",
       "engine": "Unity"
+    },
+    {
+      "name": "Market Moe",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4174620/Market_Moe/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Blusagi Team"
+      ],
+      "publishers": [
+        "Blusagi Team"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Market Warfare",
@@ -19859,6 +22322,34 @@
       "date-launch": "2020-04-13T00:00:00.000Z",
       "genre": [
         "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Medieval Delivery",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2338200/Medieval_Delivery/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mega Game Studios"
+      ],
+      "publishers": [
+        "Mega Game Studios"
+      ],
+      "date-launch": "2024-09-17T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Simulación"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
@@ -20179,6 +22670,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Mexican Ninja",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3764970/Mexican_Ninja/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Madbricks"
+      ],
+      "publishers": [
+        "Amber Studio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "México 1921: Un sueño profundo",
       "url": null,
       "platforms": [
@@ -20257,6 +22774,34 @@
       "engine": "Pico-8"
     },
     {
+      "name": "Micro Solar Punk",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3874130/Micro_Solar_Punk/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "TL Tactic Games"
+      ],
+      "publishers": [
+        "TL Tactic Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Casual",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Microbiotics",
       "url": null,
       "platforms": [],
@@ -20299,6 +22844,45 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Mictlampa Itzcuintin",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://meldak.itch.io/mictlampaitzcuintin"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Paola Robledo",
+        "Irving Gabriel",
+        "Fernando Miranda",
+        "Joaquín Valero",
+        "Arnulfo Vazquez",
+        "Luisa López",
+        "Luisa Zarama"
+      ],
+      "publishers": [
+        "Paola Robledo",
+        "Irving Gabriel",
+        "Fernando Miranda",
+        "Joaquín Valero",
+        "Arnulfo Vazquez",
+        "Luisa López",
+        "Luisa Zarama"
+      ],
+      "date-launch": "2024-09-24T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Mictlan The Game",
@@ -20431,6 +23015,32 @@
       ],
       "status": "Publicado",
       "engine": "Game Maker"
+    },
+    {
+      "name": "Mindaro",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3879330/Mindaro/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Burning Boats Studios"
+      ],
+      "publishers": [
+        "Burning Boats Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Mines Sweeper",
@@ -20622,6 +23232,60 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Mitla",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3821380/Mitla/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Mix it!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3755720/Mix_it/?l=latam"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "T3ampo"
+      ],
+      "publishers": [
+        "Bear Sneeze"
+      ],
+      "date-launch": "2025-07-25T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Moby Dick 2",
@@ -20958,34 +23622,6 @@
       ],
       "date-launch": null,
       "genre": [
-        "Aventura",
-        "Rol",
-        "Estrategia"
-      ],
-      "status": "En Desarrollo",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "MoonBright",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2678360/MoonBright/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Bernetic Studios"
-      ],
-      "publishers": [
-        "Bernetic Studios"
-      ],
-      "date-launch": null,
-      "genre": [
         "Acción",
         "Aventura",
         "Rol",
@@ -21108,33 +23744,6 @@
       ],
       "status": "Publicado",
       "engine": "Desconocido"
-    },
-    {
-      "name": "Morpi Card Mix",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/2845820/Morpi_Card_Mix/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Ignita Games"
-      ],
-      "publishers": [
-        "Ignita Games"
-      ],
-      "date-launch": null,
-      "genre": [
-        "Estrategia",
-        "Acción"
-      ],
-      "status": "En Desarrollo",
-      "engine": "Unity"
     },
     {
       "name": "Morpi Card Mix",
@@ -21507,6 +24116,32 @@
       "engine": "Otro"
     },
     {
+      "name": "Murasaki Town",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://merryb.itch.io/murasaki-town"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "MerryB"
+      ],
+      "publishers": [
+        "MerryB"
+      ],
+      "date-launch": "2025-09-29T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Murder Mystery Adventure",
       "url": null,
       "platforms": [
@@ -21531,6 +24166,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Murky",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3890020/Murky/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mecha Studios"
+      ],
+      "publishers": [
+        "Mecha Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Music Puzzle: City Builder",
@@ -21776,6 +24438,34 @@
       "engine": null
     },
     {
+      "name": "My friend Mango",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3267370/My_friend_Mango/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bliuper Studios"
+      ],
+      "publishers": [
+        "Bliuper Studios"
+      ],
+      "date-launch": "2024-12-13T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "MyCrush - The Game Of Love",
       "url": null,
       "platforms": [
@@ -21853,6 +24543,33 @@
         "Rompecabezas"
       ],
       "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Nadie te Escucha",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4077680/Nadie_te_Escucha/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "CalakaStudio"
+      ],
+      "publishers": [
+        "CalakaStudio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -22163,6 +24880,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Night Society",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1461390/Night_Society/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Mecha Studios"
+      ],
+      "publishers": [
+        "Mecha Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Construct"
+    },
+    {
       "name": "Night Vigiliante",
       "url": "https://youtu.be/1wWr6IkHoAY",
       "platforms": [],
@@ -22317,6 +25061,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "No Sun To Worship",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2202470/No_Sun_To_Worship/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Antonio Freyre"
+      ],
+      "publishers": [
+        "Merlino Games",
+        "Hyperstrange"
+      ],
+      "date-launch": "2023-09-15T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Noche de Moustros",
       "url": null,
       "platforms": [],
@@ -22336,6 +25107,60 @@
       ],
       "status": "Publicado",
       "engine": "Construct"
+    },
+    {
+      "name": "Noche sin Luna",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3980180/Noche_sin_Luna/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Tzompixel Studio"
+      ],
+      "publishers": [
+        "Tzompixel Studio"
+      ],
+      "date-launch": "2025-10-10T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Noctheria",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3776070/Noctheria/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "zombiebytegames"
+      ],
+      "publishers": [
+        "zombiebytegames"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Noodle: el cazador de recompensas",
@@ -22420,6 +25245,37 @@
       "engine": null
     },
     {
+      "name": "Noroi E: The Origin Of Nightmares (Susan's Memories Prelude)",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2411320/Noroi_E_Susans_Memories/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "CiberFly Interactive Studios",
+        "CiberFly Studios"
+      ],
+      "publishers": [
+        "Kristhian D. Muñoz",
+        "Cristian David García",
+        "CiberFly Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "NoRoY",
       "url": null,
       "platforms": [
@@ -22444,6 +25300,60 @@
       ],
       "status": "Publicado",
       "engine": null
+    },
+    {
+      "name": "Nun with a Gun",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2123070/Nun_with_a_Gun/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Super8bitRafa"
+      ],
+      "publishers": [
+        "The Street Level Hero",
+        "Super8bitRafa"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Object of Love",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3667370/Object_of_Love/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Man-Eater Games"
+      ],
+      "publishers": [
+        "Man-Eater Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Ocean Healer",
@@ -22532,6 +25442,32 @@
       "date-launch": null,
       "genre": null,
       "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Ojo de Agua",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://alterwalrus.itch.io/ojo-de-agua"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Israel Arroyo"
+      ],
+      "publishers": [
+        "ibuprofeno"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -22666,6 +25602,57 @@
       "engine": "Unity"
     },
     {
+      "name": "Onychomp : Lush journey",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2849760/Onychomp__Lush_journey/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Howl Studio"
+      ],
+      "publishers": [
+        "Howl Studio"
+      ],
+      "date-launch": "2025-11-05T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Opaloid Kingdom",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2053080/Opaloid_Kingdom/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "JohnPeppermint"
+      ],
+      "publishers": [
+        "JohnPeppermint"
+      ],
+      "date-launch": "2023-05-09T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Operación Zócalo",
       "url": null,
       "platforms": [],
@@ -22760,6 +25747,32 @@
       "engine": "Unity"
     },
     {
+      "name": "OSARIO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://yanfer.itch.io/osario"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": "2024-10-21T00:00:00.000Z",
+      "genre": [
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Out of Boombox",
       "url": null,
       "platforms": [
@@ -22812,6 +25825,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "P1: Anchor Light",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3842700/P1_Anchor_Light/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Deadbolt Interactive",
+        "Perp Games"
+      ],
+      "publishers": [
+        "Perp Games"
+      ],
+      "date-launch": "2025-09-10T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Horror"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Pafu: A Cupcake Quest",
@@ -22929,6 +25970,34 @@
       "engine": "Unity"
     },
     {
+      "name": "Pan de Muerto",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://diego-nachon.itch.io/pan-de-muerto"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diego Nachon",
+        "DNachon"
+      ],
+      "publishers": [
+        "Diego Nachon",
+        "DNachon"
+      ],
+      "date-launch": "2024-10-20T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Panaderia Bimbo",
       "url": null,
       "platforms": [],
@@ -22964,6 +26033,33 @@
       "date-launch": null,
       "genre": null,
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "PancitoMerge",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3655610/PancitoMerge/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Fáyer",
+        "Sketchy Ceviche"
+      ],
+      "publishers": [
+        "Fáyer"
+      ],
+      "date-launch": "2025-12-09T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -23234,6 +26330,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Pepe Pincho: Tiempos Vaqueros\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3884570/Pepe_Pincho_Tiempos_Vaqueros/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Nopal Asado Studio"
+      ],
+      "publishers": [
+        "Nopal Asado Studio"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Pepe Porcupine",
       "url": null,
       "platforms": [
@@ -23402,6 +26525,33 @@
       "genre": [
         "Simulación",
         "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "PETRACAL",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3261440/PETRACAL/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "FeralSquid"
+      ],
+      "publishers": [
+        "FeralSquid"
+      ],
+      "date-launch": "2025-12-15T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
@@ -23666,6 +26816,63 @@
       "engine": null
     },
     {
+      "name": "Pinchimono: The videogame\r\n",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2441150/Pinchimono_The_videogame/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Danielixmax",
+        "Negas"
+      ],
+      "publishers": [
+        "Danielixmax",
+        "Negas"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Pingbert's Snow Ride",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3336220/Pingberts_Snow_Ride/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Bura Star"
+      ],
+      "publishers": [
+        "Bura Star"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual",
+        "Carreras"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Pingo Park",
       "url": null,
       "platforms": [
@@ -23749,6 +26956,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Pixel Waifu: Escape from the dark corporation. The telepathic power of a lovestruck otaku",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3317480/Pixel_Waifu_Escape_from_the_dark_corporation_The_telepathic_power_of_a_lovestruck_otaku/?beta=0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Alquimicorp"
+      ],
+      "publishers": [
+        "Alquimicorp"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Pixeland",
@@ -23902,6 +27137,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Planet Bash\r",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/700400/Planet_Bash/?beta=0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Killerkun"
+      ],
+      "publishers": [
+        "Big Red Planet"
+      ],
+      "date-launch": "2020-11-20T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Plantae",
       "url": null,
       "platforms": [
@@ -24026,6 +27287,33 @@
       "date-launch": "2024-09-19T00:00:00.000Z",
       "genre": [
         "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Pneumata",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1183850/Pneumata/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Deadbolt Interactive"
+      ],
+      "publishers": [
+        "Perp Games"
+      ],
+      "date-launch": "2024-09-19T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
@@ -24529,6 +27817,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "PopSlinger Vol. 2 - Loveless",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3195370/PopSlinger_Vol_2__Loveless/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Funky Can Creative"
+      ],
+      "publishers": [
+        "Funky Can Creative"
+      ],
+      "date-launch": "2024-10-09T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Porcelana",
@@ -25269,6 +28583,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "PYRO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3754490/PYRO/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Pyta´s Tale",
       "url": null,
       "platforms": [
@@ -25454,6 +28794,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Quetzal",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3791170/Quetzal/?beta=0"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Quí",
       "url": null,
       "platforms": [
@@ -25509,6 +28876,62 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Race Jam",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3474450/Race_Jam/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "DiffGames LLC"
+      ],
+      "publishers": [
+        "DiffGames LLC"
+      ],
+      "date-launch": "2025-09-17T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Carreras",
+        "Deportes"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Racing Tanks!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2395510/Racing_Tanks/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "ManuEcheveste"
+      ],
+      "publishers": [
+        "ManuEcheveste"
+      ],
+      "date-launch": "2023-07-07T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Racing Tycoon - Idle Game",
@@ -25733,6 +29156,33 @@
       "engine": "Unity"
     },
     {
+      "name": "RAIN IN THE ABYSS",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1746980/RAIN_IN_THE_ABYSS/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "NUEZWARE"
+      ],
+      "publishers": [
+        "NUEZWARE"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Rainbow Sowrd",
       "url": null,
       "platforms": [
@@ -25897,6 +29347,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Re:Fresh",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2297650/ReFresh/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Merge Conflict Studio",
+        "Negative Karma"
+      ],
+      "publishers": [
+        "Merge Conflict Studio"
+      ],
+      "date-launch": "2023-04-24T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Read Only Memories: NEURODIVER",
@@ -26213,6 +29691,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Revenge of ILCOIN",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2529210/Revenge_of_ILCOIN/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "FOCKA GAMES",
+        "ILCOIN GAMES"
+      ],
+      "publishers": [
+        "FOCKA GAMES"
+      ],
+      "date-launch": "2023-09-07T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Revenge of Ilcon",
       "url": null,
       "platforms": [],
@@ -26369,6 +29874,34 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Rising Hero: No-Skip Justice!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3808680/Rising_Hero_NoSkip_Justice/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Entangled Games"
+      ],
+      "publishers": [
+        "Entangled Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Ritmo",
       "url": null,
       "platforms": [
@@ -26490,6 +30023,33 @@
       "engine": "Unity"
     },
     {
+      "name": "Rockin' Hell",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3900480/Rockin_Hell/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Xenty"
+      ],
+      "publishers": [
+        "Xenty"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Rockstar Idol",
       "url": null,
       "platforms": [
@@ -26592,6 +30152,33 @@
       ],
       "status": "En Desarrollo",
       "engine": null
+    },
+    {
+      "name": "Rolling Water",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3044150/Rolling_Water/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Polyirbis"
+      ],
+      "publishers": [
+        "Polyirbis"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Ronin Koleo",
@@ -26788,6 +30375,33 @@
       "engine": "Godot"
     },
     {
+      "name": "Rummix",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3874320/Rummix/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Edco Games"
+      ],
+      "publishers": [
+        "Edco Games"
+      ],
+      "date-launch": "2026-01-23T00:00:00.000Z",
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Runing Duck",
       "url": null,
       "platforms": [
@@ -26871,6 +30485,36 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Rush Dia De Muertos UPDATE 2.0",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://ciberflystudios.itch.io/rush-dia-de-muertos"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Ivan Lee",
+        "Solid Capo",
+        "Kristhian D. Muñoz"
+      ],
+      "publishers": [
+        "Ivan Lee",
+        "Solid Capo",
+        "Kristhian D. Muñoz"
+      ],
+      "date-launch": "2024-10-21T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "RUTA KING",
@@ -27107,6 +30751,34 @@
       "engine": null
     },
     {
+      "name": "Santa's Hitlist CEO Edition",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3581590/Santas_Hitlist_CEO_Edition/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Unlucky Studios",
+        "UnluckySaurus (Erick Ramirez)"
+      ],
+      "publishers": [
+        "Unlucky Studios"
+      ],
+      "date-launch": "2025-12-10T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Sarlacc",
       "url": null,
       "platforms": [
@@ -27231,6 +30903,31 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Saw Counter",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3635240/Saw_Counter/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "BlakVice"
+      ],
+      "publishers": [
+        "BlakVice",
+        "45482111"
+      ],
+      "date-launch": null,
+      "genre": null,
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -27404,6 +31101,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3171560/SeedHero/"
+        },
+        {
           "name": "Itch",
           "url": "https://andrew2115.itch.io/seedhero"
         }
@@ -27424,11 +31125,11 @@
       "publishers": [
         "Oniric Mob"
       ],
-      "date-launch": "2023-02-27T00:00:00.000Z",
+      "date-launch": "2025-05-23T00:00:00.000Z",
       "genre": [
         "Ritmo"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -27447,8 +31148,10 @@
       "developers": [
         "Farelas"
       ],
-      "publishers": null,
-      "date-launch": null,
+      "publishers": [
+        "Farelas"
+      ],
+      "date-launch": "2024-08-23T00:00:00.000Z",
       "genre": [
         "Aventura",
         "Rompecabezas"
@@ -27745,6 +31448,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Siete iglesias después de la última parada",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://lacalaveraverde.itch.io/siete-iglesias-despus-de-la-ltima-parada"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Osvaldo Barajas"
+      ],
+      "publishers": [
+        "Osvaldo Barajas"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "SIK Space Invader Kreature",
@@ -28540,6 +32269,59 @@
       "engine": "Visual Novel Maker"
     },
     {
+      "name": "Space Valkyries",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3125260/Space_Valkyries/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LuQui"
+      ],
+      "publishers": [
+        "LuQui"
+      ],
+      "date-launch": "2024-08-06T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Spacewind The Zeppelin",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2886850/Spacewind_The_Zeppelin/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "AperturePixelStudios"
+      ],
+      "publishers": [
+        "AperturePixelStudios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Spam Cards",
       "url": null,
       "platforms": [
@@ -28802,6 +32584,34 @@
       "engine": null
     },
     {
+      "name": "Squidding Over It",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2517560/Squidding_Over_It/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Foncheti"
+      ],
+      "publishers": [
+        "Foncheti"
+      ],
+      "date-launch": "2023-08-18T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Squites Apilados",
       "url": null,
       "platforms": [],
@@ -29006,6 +32816,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Stella Magical Idol",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3812340/Stella_Magical_Idol/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Duraznito Games"
+      ],
+      "publishers": [
+        "Duraznito Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Sticky Soda",
@@ -29566,6 +33402,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Survive: The day of the dead",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://mad-nux.itch.io/survive-day-of-the-dead"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "madnux"
+      ],
+      "publishers": [
+        "madnux"
+      ],
+      "date-launch": "2024-10-13T00:00:00.000Z",
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "surviving bubble",
       "url": null,
       "platforms": [
@@ -29669,6 +33531,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Susurros de México: La noche de la casada",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3884840/Susurros_de_Mxico_La_noche_de_la_casada/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Revolcat Studios"
+      ],
+      "publishers": [
+        "Revolcat Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Swann's Song",
       "url": null,
       "platforms": [
@@ -29687,11 +33575,11 @@
       "publishers": [
         "Interactive Dreams"
       ],
-      "date-launch": null,
+      "date-launch": "2025-05-30T00:00:00.000Z",
       "genre": [
         "Aventura"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": null
     },
     {
@@ -30383,6 +34271,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Testimony - Metal Graveyard",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4064000/Testimony__Metal_Graveyard/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Testimony"
+      ],
+      "publishers": [
+        "1 Simple Game"
+      ],
+      "date-launch": "2025-10-17T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Tetrapop",
       "url": null,
       "platforms": [
@@ -30458,6 +34372,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Tezcatlipoca",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3279450/Tezcatlipoca/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LuQui"
+      ],
+      "publishers": [
+        "LuQui"
+      ],
+      "date-launch": "2025-07-28T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "The Adventure of Calypso",
       "url": null,
       "platforms": [
@@ -30531,6 +34471,34 @@
       ],
       "status": "En Desarrollo",
       "engine": "Unity"
+    },
+    {
+      "name": "The Bakerville Case",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2140620/The_Bakerville_Case/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Moonlight Gameworks",
+        "Scorch Creative"
+      ],
+      "publishers": [
+        "Moonlight Gameworks"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "The Balloons",
@@ -30626,6 +34594,32 @@
       ],
       "status": "Publicado",
       "engine": "Unreal"
+    },
+    {
+      "name": "The Chameleon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1493970/The_Chameleon/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Antonio Freyre"
+      ],
+      "publishers": [
+        "Merlino Games"
+      ],
+      "date-launch": "2021-07-13T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "The Coffe Machine",
@@ -30752,11 +34746,11 @@
       "publishers": [
         "Man Eater Games"
       ],
-      "date-launch": null,
+      "date-launch": "2024-06-23T00:00:00.000Z",
       "genre": [
         "Casual"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Ren'Py"
     },
     {
@@ -30776,6 +34770,33 @@
         "Casual"
       ],
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "The Heart of Gold",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3915280/The_Heart_of_Gold/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "J3F33M1"
+      ],
+      "publishers": [
+        "J3F33M1"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -30827,6 +34848,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "The Indigo Parallel",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1550870/The_Indigo_Parallel/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Chris Danelon"
+      ],
+      "publishers": [
+        "Chris Danelon"
+      ],
+      "date-launch": "2022-11-24T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "The Inventory Game",
@@ -31177,6 +35225,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2493180/The_Lullaby_of_Life/"
+        },
+        {
           "name": "App Store",
           "url": "https://apps.apple.com/mx/app/the-lullaby-of-life/id1469062933"
         }
@@ -31284,9 +35336,12 @@
         "ZombieByte"
       ],
       "publishers": null,
-      "date-launch": null,
-      "genre": null,
-      "status": "En Desarrollo",
+      "date-launch": "2023-12-13T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
       "engine": "Godot"
     },
     {
@@ -31517,6 +35572,34 @@
       "engine": null
     },
     {
+      "name": "The Shadow Government Simulator",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1281190/The_Shadow_Government_Simulator/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Chupacabra Game Studios"
+      ],
+      "publishers": [
+        "Games Incubator",
+        "PlayWay S.A."
+      ],
+      "date-launch": "2022-10-17T00:00:00.000Z",
+      "genre": [
+        "Simulación",
+        "Estrategia"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "The Sledgehammer of Division",
       "url": null,
       "platforms": [
@@ -31607,6 +35690,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "THE TREASURE OF COLLOMBO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://yusefth.itch.io/the-treasure-of-collombo"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yusefth"
+      ],
+      "publishers": [
+        "Yusefth"
+      ],
+      "date-launch": "2024-04-17T00:00:00.000Z",
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
       "name": "The Vale - Next-Gen",
       "url": null,
       "platforms": [],
@@ -31622,6 +35731,32 @@
       "genre": null,
       "status": "Desconocido",
       "engine": "Desconocido"
+    },
+    {
+      "name": "The Veil of Death",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3899030/The_Veil_of_Death/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Black Tears Game Studios"
+      ],
+      "publishers": [
+        "Black Tears Game Studios"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Supervivencia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Unity"
     },
     {
       "name": "The Wandering",
@@ -31720,6 +35855,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "This is Love",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3520300/This_is_Love/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Monsterdium Games"
+      ],
+      "publishers": [
+        "Monsterdium Games"
+      ],
+      "date-launch": "2025-06-02T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Thumbeats",
@@ -31882,6 +36043,62 @@
       "date-launch": "2016-01-01T00:00:00.000Z",
       "genre": null,
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Tits and Shadows",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2418740/Tits_and_Shadows/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "LuQui"
+      ],
+      "publishers": [
+        "LuQui"
+      ],
+      "date-launch": "2023-06-16T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "TKiO",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4047020/TKiO/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "CCKAPPA"
+      ],
+      "publishers": [
+        "CCKAPPA"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -32274,6 +36491,32 @@
       "engine": "Unity"
     },
     {
+      "name": "Tres Fuentes",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://isissoft.itch.io/tres-fuentes"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "IsisSoft"
+      ],
+      "publishers": [
+        "IsisSoft"
+      ],
+      "date-launch": "2024-04-20T00:00:00.000Z",
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Trigger Runners",
       "url": null,
       "platforms": [
@@ -32361,6 +36604,35 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Tuqim",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3633070/Tuqim/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Plántula",
+        "BC Media Lab",
+        "Hyperkinetic Studios"
+      ],
+      "publishers": [
+        "Plántula"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Turbo Wheels",
       "url": null,
       "platforms": [
@@ -32401,6 +36673,33 @@
         "Corredor Infinito"
       ],
       "status": "Lost media",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Turleon",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4087670/Turleon/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Arturoso"
+      ],
+      "publishers": [
+        "Arturoso"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
       "engine": "Desconocido"
     },
     {
@@ -32672,6 +36971,59 @@
       "engine": "Unity"
     },
     {
+      "name": "Umbratica Tactics",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2355130/Umbratica_Tactics/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "The Atomic LIfe"
+      ],
+      "publishers": [
+        "The Atomic LIfe"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Un suspiro",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://astucia.itch.io/un-suspiro"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Astucia"
+      ],
+      "publishers": [
+        "Astucia"
+      ],
+      "date-launch": "2024-10-23T00:00:00.000Z",
+      "genre": [
+        "Ficción Interactiva"
+      ],
+      "status": "Publicado",
+      "engine": "Godot"
+    },
+    {
       "name": "Una Rana en el Estanque",
       "url": null,
       "platforms": [
@@ -32748,6 +37100,32 @@
       "engine": "Flash"
     },
     {
+      "name": "Under A Star Long Cold",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2618180/Under_A_Star_Long_Cold/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Antonio Freyre"
+      ],
+      "publishers": [
+        "Merlino Games"
+      ],
+      "date-launch": "2024-02-01T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Under Canopies",
       "url": null,
       "platforms": [
@@ -32774,6 +37152,33 @@
       "engine": null
     },
     {
+      "name": "Under Canopies",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2939510/Under_Canopies/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Novemtails"
+      ],
+      "publishers": [
+        "Novemtails"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura",
+        "Simulación"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Underboard",
       "url": null,
       "platforms": [
@@ -32790,15 +37195,15 @@
         "Headless"
       ],
       "publishers": [
-        "Headless"
+        "2 Left Thumbs"
       ],
-      "date-launch": null,
+      "date-launch": "2026-02-06T00:00:00.000Z",
       "genre": [
         "Rol",
         "Estrategia"
       ],
-      "status": "En Desarrollo",
-      "engine": null
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Undersea Bubble Tea Bubble Shop",
@@ -32825,6 +37230,34 @@
       "date-launch": null,
       "genre": null,
       "status": "Desconocido",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Unichrome: A 1-Bit Unicorn Adventure",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2026340/Unichrome_A_1Bit_Unicorn_Adventure/#:~:text=Title%3A%20Unichrome%3A%20A%201%2D,Release%20Date%3A%20Sep%2015%2C%202022"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Super8bitRafa"
+      ],
+      "publishers": [
+        "The Street Level Hero",
+        "Super8bitRafa"
+      ],
+      "date-launch": "2022-09-15T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
       "engine": "Desconocido"
     },
     {
@@ -32877,6 +37310,59 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Uppercute",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3151660/Uppercute/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/uppercute/uppercute",
+        "funded": true
+      },
+      "developers": [
+        "PrettyScar"
+      ],
+      "publishers": [
+        "PrettyScar"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Vaca Bullet",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3262990/Vaca_Bullet/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": "2025-12-31T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "VALORYA: THE BLACKSMITH",
       "url": null,
       "platforms": [
@@ -32901,6 +37387,30 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Vampire Receptionist",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2882380/Vampire_Receptionist/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Requiem Games Studio"
+      ],
+      "publishers": [
+        "Requiem Games Studio"
+      ],
+      "date-launch": "2025-02-06T00:00:00.000Z",
+      "genre": null,
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Vector Stadium",
@@ -33287,6 +37797,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Void: Icarus",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3042560/Void_Icarus/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Diego Tristán Landín"
+      ],
+      "publishers": [
+        "Diego Tristán Landín"
+      ],
+      "date-launch": "2025-08-21T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Vorpal",
       "url": null,
       "platforms": [],
@@ -33331,6 +37868,32 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "VR Helsing",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3540160/VR_Helsing/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Trash Gamez"
+      ],
+      "publishers": [
+        "Trash Gamez"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "VR Jogger",
@@ -33475,6 +38038,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Waddle & Rescue",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3627840/Waddle__Rescue/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Team Igloo Games"
+      ],
+      "publishers": [
+        "Team Igloo Games"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Casual",
+        "Estrategia"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Waffles Routine",
@@ -33734,7 +38324,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": null
+      "engine": "Desconocido"
     },
     {
       "name": "Wayna",
@@ -33885,6 +38475,58 @@
       "engine": "Godot"
     },
     {
+      "name": "White Knuckle",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3195790/White_Knuckle/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Dark Machine Games"
+      ],
+      "publishers": [
+        "DreadXP"
+      ],
+      "date-launch": "2025-04-17T00:00:00.000Z",
+      "genre": [
+        "Acción"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "WHODUNNIT",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3851280/WHODUNNIT/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Don Attico"
+      ],
+      "publishers": [
+        "Don Attico"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Novela Visual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Willy Pop Bubbles",
       "url": null,
       "platforms": [
@@ -33987,6 +38629,34 @@
       "engine": "Unity"
     },
     {
+      "name": "Witches and Butchers",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2091920/Witches_and_Butchers/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Lobosandia"
+      ],
+      "publishers": [
+        "Lobosandia"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Rol"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Witches of the New World",
       "url": null,
       "platforms": [],
@@ -34002,6 +38672,34 @@
       "genre": null,
       "status": "En Desarrollo",
       "engine": "Unreal"
+    },
+    {
+      "name": "Without my arms",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/1481020/Without_my_arms/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Killerkun"
+      ],
+      "publishers": [
+        "Killerkun Games"
+      ],
+      "date-launch": "2020-12-31T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Woman Fists For Fighting WFx3",
@@ -34235,13 +38933,13 @@
       "publishers": [
         "Evil Geomtry"
       ],
-      "date-launch": null,
+      "date-launch": "2024-03-26T00:00:00.000Z",
       "genre": [
         "Acción",
         "Simulación",
         "Deportes"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
@@ -34479,6 +39177,43 @@
       "engine": "Unity"
     },
     {
+      "name": "Yolotzin",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Itch",
+          "url": "https://quemorale.itch.io/yolotzin"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Andrés Castro",
+        "Bernardo Vez de la Garza",
+        "VaeLia",
+        "Eunice Gabriela",
+        "Evangelo Ruiz Morales",
+        "Fernanda Adriano",
+        "Iván Saucedo",
+        "Jorge Daniel Guerrero",
+        "Sandra Puente Figueroa"
+      ],
+      "publishers": [
+        "QueMorale",
+        "Vae",
+        "Dasser Games Studio"
+      ],
+      "date-launch": "2024-10-16T00:00:00.000Z",
+      "genre": [
+        "Plataformas",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Unity"
+    },
+    {
       "name": "Zaguaro",
       "url": null,
       "platforms": [],
@@ -34520,6 +39255,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Zombie Liminal Fishing",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3419660/Zombie_Liminal_Fishing/"
+        }
+      ],
+      "crowdfunding": {
+        "url": null,
+        "funded": false
+      },
+      "developers": [
+        "Chris Danelon"
+      ],
+      "publishers": [
+        "Chris Danelon"
+      ],
+      "date-launch": "2025-08-22T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Simulación"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Zombie Madness for Intellivision",
@@ -34590,7 +39352,7 @@
         "Estrategia"
       ],
       "status": "En Desarrollo",
-      "engine": null
+      "engine": "Desconocido"
     },
     {
       "name": "Zombomb",
