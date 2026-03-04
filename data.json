@@ -16454,6 +16454,10 @@
       "url": null,
       "platforms": [
         {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.com/es-mx/store/products/hannah-switch/?srsltid=AfmBOooJG8ekmiVsQt8ruu7gJmGzbWtUQ5l5_rxurOVdTxyxOr4c9gDB"
+        },
+        {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/1466870/Hannah/"
         }
@@ -27575,6 +27579,10 @@
       "url": "https://www.popslinger.com/",
       "platforms": [
         {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-MX/games/store/popslinger/9ncbb9j09v09"
+        },
+        {
           "name": "Nintendo",
           "url": "https://www.nintendo.com/store/products/popslinger-switch/"
         },
@@ -27769,6 +27777,14 @@
       "name": "PopSlinger Vol. 2 - Loveless",
       "url": null,
       "platforms": [
+        {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-MX/games/store/popslinger-vol-2-loveless/9N2K47VN3LT0/0010"
+        },
+        {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.com/es-mx/store/products/popslinger-vol-2-loveless-switch/?srsltid=AfmBOopvkoJpsNLlEDuEkUh6k9YhGr_qxjOZbZ5kTSIgISV_r6AapWAy"
+        },
         {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/3195370/PopSlinger_Vol_2__Loveless/"
@@ -29319,33 +29335,6 @@
       "genre": [
         "Aventura",
         "Casual"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "Read Only Memories: NEURODIVER",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/1293910/Read_Only_Memories_NEURODIVER/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "MidBoss",
-        "LLC."
-      ],
-      "publishers": [
-        "Chorus Worldwide Games"
-      ],
-      "date-launch": "2024-05-15T00:00:00.000Z",
-      "genre": [
-        "Aventura"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
