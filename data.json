@@ -961,6 +961,28 @@
       "engine": "Unity"
     },
     {
+      "name": "After School ",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/aprendizdeldibujo/after-school-nsfw-videogame/description",
+        "funded": true
+      },
+      "developers": [
+        "Aprendiz del Dibujo"
+      ],
+      "publishers": [
+        "Aprendiz del Dibujo"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Rol",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Age of ilcoin VR : Retribution",
       "url": null,
       "platforms": [
@@ -3876,6 +3898,33 @@
       "genre": [
         "Aventura",
         "Rol"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
+      "name": "Beyond The Tales: Be part of the game!",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3025380/Beyond_The_Tales/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/charlieatom/beyond-the-tales-the-endless-story/description",
+        "funded": true
+      },
+      "developers": [
+        "Charlie Atom"
+      ],
+      "publishers": [
+        "Charlie Atom"
+      ],
+      "date-launch": "2025-01-07T00:00:00.000Z",
+      "genre": [
+        "Aventura",
+        "RPG"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
@@ -9107,6 +9156,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Circus Challenge",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2921060/Circus_Challenge/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/564758729/circus-challenge/posts",
+        "funded": true
+      },
+      "developers": [
+        "Angel Torres"
+      ],
+      "publishers": [
+        "Angel Torres"
+      ],
+      "date-launch": "2024-09-23T00:00:00.000Z",
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Publicado",
+      "engine": "Unreal"
+    },
+    {
       "name": "Clarence Saves The Day",
       "url": "https://youtu.be/nCvzMB0yF_U",
       "platforms": [],
@@ -10068,6 +10143,33 @@
       ],
       "status": "Publicado",
       "engine": "GB Studio"
+    },
+    {
+      "name": "Cosmo Knight ZiON",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4071380/Cosmo_Knight_Zion/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/cosmoknightzion/cosmo-knight-zion/",
+        "funded": true
+      },
+      "developers": [
+        "Zeichi Games"
+      ],
+      "publishers": [
+        "Zeichi Games"
+      ],
+      "date-launch": "2025-10-29T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "Costmo (R)",
@@ -16619,6 +16721,33 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Haus Of Irndrous",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2914740/Haus_Of_Irndrous/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/monarca1/haus-of-irndrous-chapter-two/",
+        "funded": true
+      },
+      "developers": [
+        "Ryle Afgarn"
+      ],
+      "publishers": [
+        "Ryle Afgarn"
+      ],
+      "date-launch": "2025-08-19T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
     },
     {
       "name": "HavenFlower: Regrets Of",
@@ -25776,6 +25905,27 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Overbound",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/cosmiccatgames/overbound-11-platform-adventures-and-multiplayer/description",
+        "funded": true
+      },
+      "developers": [
+        "CosmicCatGames"
+      ],
+      "publishers": [
+        "CosmicCatGames"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Plataformas"
+      ],
+      "status": "Desconocido",
+      "engine": "Unity"
+    },
+    {
       "name": "Ovum",
       "url": null,
       "platforms": [
@@ -26769,6 +26919,35 @@
       "engine": "Unity"
     },
     {
+      "name": "PINCHIMONO THE VIDEOGAME",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/2441150/Pinchimono_The_videogame/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/pinchimono/pinchimono-the-videogame",
+        "funded": true
+      },
+      "developers": [
+        "Danielixmax",
+        "Negas"
+      ],
+      "publishers": [
+        "Danielixmax",
+        "Negas"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
+    },
+    {
       "name": "Pinchimono: The videogame",
       "url": null,
       "platforms": [],
@@ -26933,6 +27112,34 @@
       ],
       "status": "Publicado",
       "engine": "Unity"
+    },
+    {
+      "name": "Pixel Waifu - 16-bit Retro action-adventure game",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3317480/Pixel_Waifu_Escape_from_the_dark_corporation_The_telepathic_power_of_a_lovestruck_otaku/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/alquimicorp/pixel-waifu-16-bit-retro-action-adventure-game/",
+        "funded": true
+      },
+      "developers": [
+        "Alquimicorp"
+      ],
+      "publishers": [
+        "Alquimicorp"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Acción",
+        "Aventura",
+        "Casual"
+      ],
+      "status": "En Desarrollo",
+      "engine": "Desconocido"
     },
     {
       "name": "Pixel Waifu: Escape from the dark corporation. The telepathic power of a lovestruck otaku",
@@ -34334,6 +34541,32 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Tezcatlipoca",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3279450/Tezcatlipoca/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/titsandshadows/tezcatlipoca-retro-horror-puzzzle-game/description",
+        "funded": true
+      },
+      "developers": [
+        "LuQui"
+      ],
+      "publishers": [
+        "LuQui"
+      ],
+      "date-launch": "2025-07-28T00:00:00.000Z",
+      "genre": [
+        "Casual"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "The Adventure of Calypso",
       "url": null,
       "platforms": [
@@ -34664,6 +34897,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "The Foundation Survive: Hogar Artificial",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/4087840/The_Foundation_Survive_Hogar_Artificial/"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/imp-dev/the-foundation-survive-a-suspense-and-horror-game/",
+        "funded": true
+      },
+      "developers": [
+        "ImpStructors Studios"
+      ],
+      "publishers": [
+        "ImpStructors Studios"
+      ],
+      "date-launch": "2025-11-19T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Horror"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "The Frozen Kingdom",
       "url": null,
       "platforms": [
@@ -34674,7 +34934,7 @@
       ],
       "crowdfunding": {
         "url": "https://www.kickstarter.com/projects/maneatergames/the-frozen-kingdom-a-sword-and-sorcery-bl-visual-novel?lang=es",
-        "funded": false
+        "funded": true
       },
       "developers": [
         "Man Eater Games"
@@ -35585,6 +35845,27 @@
       ],
       "status": "Publicado",
       "engine": "GDevelop"
+    },
+    {
+      "name": "The Tale of Nanuk- The Ocean Fairy (Take Two)",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/pocketpenguin/the-tale-of-nanuk-the-ocean-fairy-take-two/description",
+        "funded": true
+      },
+      "developers": [
+        "Pablo Montes (Dog Biscuit)"
+      ],
+      "publishers": [
+        "Pablo Montes (Dog Biscuit)"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Aventura"
+      ],
+      "status": "Desconocido",
+      "engine": "GB Studio"
     },
     {
       "name": "The Tale of Nanuk: The Ocean Fairy",
@@ -37299,6 +37580,33 @@
       "engine": "Desconocido"
     },
     {
+      "name": "Vaca Bullet",
+      "url": null,
+      "platforms": [
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/app/3262990/Vaca_Bullet/?l=spanish"
+        }
+      ],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/angelovideogame/vaca-bullet-a-frenetic-vaqueros-game/",
+        "funded": true
+      },
+      "developers": [
+        "Yanfer"
+      ],
+      "publishers": [
+        "Yanfer"
+      ],
+      "date-launch": "2025-12-31T00:00:00.000Z",
+      "genre": [
+        "Acción",
+        "Aventura"
+      ],
+      "status": "Publicado",
+      "engine": "Desconocido"
+    },
+    {
       "name": "VALORYA: THE BLACKSMITH",
       "url": null,
       "platforms": [
@@ -38591,6 +38899,28 @@
       ],
       "status": "En Desarrollo",
       "engine": "Desconocido"
+    },
+    {
+      "name": "Witches and Butchers",
+      "url": null,
+      "platforms": [],
+      "crowdfunding": {
+        "url": "https://www.kickstarter.com/projects/cuurian/witches-and-butchers-a-gameboy-color-action-rpg/creator",
+        "funded": true
+      },
+      "developers": [
+        "Lobosandia"
+      ],
+      "publishers": [
+        "Lobosandia"
+      ],
+      "date-launch": null,
+      "genre": [
+        "Accción",
+        "RPG"
+      ],
+      "status": "En Desarrollo",
+      "engine": "GB Studio"
     },
     {
       "name": "Witches of the New World",
