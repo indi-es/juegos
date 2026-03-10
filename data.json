@@ -11671,7 +11671,7 @@
         "Aventura"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unreal"
     },
     {
       "name": "Dino Rex",
@@ -12249,6 +12249,18 @@
       "name": "Doomies (Damikira)",
       "url": null,
       "platforms": [
+        {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-MX/games/store/damikira/9N1T1Z98DTZ7/0010"
+        },
+        {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.com/es-mx/store/products/damikira-switch/"
+        },
+        {
+          "name": "Play Station",
+          "url": "https://store.playstation.com/es-mx/concept/10011779/"
+        },
         {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/2446700/Doomies_Damikira/"
@@ -15900,6 +15912,10 @@
       "name": "Gisselle's Adventure",
       "url": null,
       "platforms": [
+        {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-mx/games/store/gisselles-adventure/9npz9cm54mwt"
+        },
         {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/3196400/Gisselles_Adventure/"
@@ -34921,7 +34937,7 @@
         "Horror"
       ],
       "status": "Publicado",
-      "engine": "Desconocido"
+      "engine": "Unity"
     },
     {
       "name": "The Frozen Kingdom",
@@ -37548,33 +37564,6 @@
       "date-launch": null,
       "genre": [
         "Acción"
-      ],
-      "status": "Publicado",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "Vaca Bullet",
-      "url": null,
-      "platforms": [
-        {
-          "name": "Steam",
-          "url": "https://store.steampowered.com/app/3262990/Vaca_Bullet/"
-        }
-      ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "Yanfer"
-      ],
-      "publishers": [
-        "Yanfer"
-      ],
-      "date-launch": "2025-12-31T00:00:00.000Z",
-      "genre": [
-        "Acción",
-        "Aventura"
       ],
       "status": "Publicado",
       "engine": "Desconocido"
