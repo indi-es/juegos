@@ -518,36 +518,14 @@
       "engine": "Godot"
     },
     {
-      "name": "A Rat's Quest - The Way Back Home",
+      "name": "A Rat’s Quest: The way Back Home",
       "url": null,
       "platforms": [
         {
           "name": "Steam",
-          "url": "https://store.steampowered.com/app/1124420/A_Rats_Quest__The_Way_Back_Home/"
+          "url": "https://store.steampowered.com/app/1124420/A_Rats_Quest__The_Way_Back_Home__Season_1/"
         }
       ],
-      "crowdfunding": {
-        "url": null,
-        "funded": false
-      },
-      "developers": [
-        "The Dreamerians"
-      ],
-      "publishers": [
-        "HandyGames"
-      ],
-      "date-launch": null,
-      "genre": [
-        "Acción",
-        "Aventura"
-      ],
-      "status": "En Desarrollo",
-      "engine": "Desconocido"
-    },
-    {
-      "name": "A Rat’s Quest: The way back home.",
-      "url": null,
-      "platforms": [],
       "crowdfunding": {
         "url": null,
         "funded": true
@@ -558,12 +536,12 @@
       "publishers": [
         "HandyGames"
       ],
-      "date-launch": null,
+      "date-launch": "2026-04-03T00:00:00.000Z",
       "genre": [
         "Accion",
         "Aventura"
       ],
-      "status": "En Desarrollo",
+      "status": "Publicado",
       "engine": "Unity"
     },
     {
