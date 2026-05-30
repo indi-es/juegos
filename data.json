@@ -417,6 +417,18 @@
       "url": null,
       "platforms": [
         {
+          "name": "Xbox",
+          "url": "https://www.xbox.com/es-MX/games/store/a-dream-about-parking-lots/9NGJQRXCQMWS/0010"
+        },
+        {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.com/us/store/products/a-dream-about-parking-lots-switch/"
+        },
+        {
+          "name": "Play Station",
+          "url": "https://store.playstation.com/es-mx/concept/10015763/"
+        },
+        {
           "name": "Steam",
           "url": "https://store.steampowered.com/app/3500340/A_Dream_About_Parking_Lots/"
         }
